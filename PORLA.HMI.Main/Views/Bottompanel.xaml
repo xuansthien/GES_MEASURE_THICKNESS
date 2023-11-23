@@ -1,0 +1,393 @@
+﻿<UserControl x:Class="PORLA.HMI.Main.Views.Bottompanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="#EDEDED"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d"
+             d:DesignHeight="100"
+             d:DesignWidth="1100">
+    <UserControl.Resources>
+        <Storyboard x:Key="BlinkStoryboard">
+            <ColorAnimation
+                Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)"
+                To="Red" Duration="0:0:0.8" AutoReverse="True" RepeatBehavior="Forever" />
+        </Storyboard>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <WrapPanel Grid.Column="0">
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="HomePage"
+                       Margin="1"
+                       Height="100"
+                       Width="100"
+                       Name="btnHome"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray">
+            
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#333333"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.pageLogin}"
+                                         Value="HomePage">
+                                <Setter Property="Background"
+                                        Value="#0072C6" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <StackPanel Height="55"
+                                Width="90"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center">
+                        <TextBlock Name="txthome"
+                                   FontSize="13"
+                                   Foreground="White"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Margin="0">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text"
+                                            Value="Home" />
+
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppServiceInstance.language}"
+                                                     Value="Vietnamese">
+                                            <Setter Property="Text"
+                                                    Value="Trang Chủ" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <materialDesign:PackIcon Kind="Home"
+                                                 VerticalAlignment="Center"
+                                                 HorizontalAlignment="Center"
+                                                 Foreground="White"
+                                                 Width="35"
+                                                 Height="35" />
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+
+
+
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="ManualPageView"
+                       Name="btnManual"
+                       Margin="1"
+                       Height="100"
+                       Width="100"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray">
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#333333"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.pageLogin}"
+                                         Value="ManualPageView">
+                                <Setter Property="Background"
+                                        Value="#0072C6" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <StackPanel Height="55"
+                                Width="90"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center">
+                        <TextBlock Name="txtManual"
+                                   FontSize="13"
+                                   Foreground="White"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Margin="0">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text"
+                                            Value="Manual" />
+
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppServiceInstance.language}"
+                                                     Value="Vietnamese">
+                                            <Setter Property="Text"
+                                                    Value="Bằng Tay" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <materialDesign:PackIcon Kind="CursorHand"
+                                                 VerticalAlignment="Center"
+                                                 HorizontalAlignment="Center"
+                                                 Foreground="White"
+                                                 Width="35"
+                                                 Height="35" />
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="SettingPage"
+                       Name="btnSetting"
+                       Margin="1"
+                       Height="100"
+                       Width="100"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray">
+                <!--<Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1"
+                                         StartPoint="0.5,0">
+                        <GradientStop Color="#FFFFFEFE"
+                                      Offset="0.005" />
+                        <GradientStop Color="White"
+                                      Offset="0.996" />
+                        <GradientStop Color="#FFD0D0D0"
+                                      Offset="0.497" />
+                    </LinearGradientBrush>
+                </Button.Background>-->
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#333333"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.pageLogin}"
+                                         Value="SettingPage">
+                                <Setter Property="Background"
+                                        Value="#0072C6" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <StackPanel Height="55"
+                                Width="90"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center">
+                        <TextBlock Name="txtSt"
+                                   FontSize="13"
+                                   Foreground="White"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Margin="0">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text"
+                                            Value="Setting" />
+
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppServiceInstance.language}"
+                                                     Value="Vietnamese">
+                                            <Setter Property="Text"
+                                                    Value="Cài Đặt" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <materialDesign:PackIcon Kind="Tools"
+                                                 VerticalAlignment="Center"
+                                                 HorizontalAlignment="Center"
+                                                 Foreground="White"
+                                                 Width="35"
+                                                 Height="35" />
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="TestResult"
+                       Name="btnStatistics"
+                       Margin="1"
+                       Height="100"
+                       Width="100"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray">
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#333333"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.pageLogin}"
+                                         Value="TestResult">
+                                <Setter Property="Background"
+                                        Value="#0072C6" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <StackPanel Height="55"
+                                Width="75"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center">
+                        <TextBlock Name="txtStat"
+                                   FontSize="13"
+                                   Foreground="White"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Margin="0">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text"
+                                            Value="Statistic" />
+
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppServiceInstance.language}"
+                                                     Value="Vietnamese">
+                                            <Setter Property="Text"
+                                                    Value="Thống Kê" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <materialDesign:PackIcon Kind="ChartAreaspline"
+                                                 VerticalAlignment="Center"
+                                                 HorizontalAlignment="Center"
+                                                 Foreground="White"
+                                                 Width="35"
+                                                 Height="35" />
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="MachineLogPage"
+                       Margin="1"
+                       Height="100"
+                       Width="100"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray"
+                       >
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#333333"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.pageLogin}"
+                                         Value="MachineLogPage">
+                                <Setter Property="Background"
+                                        Value="#0072C6" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <StackPanel Height="55"
+                                Width="90"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center">
+                        <TextBlock Text="Log"
+                                   FontSize="13"
+                                   Foreground="White"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Margin="0"></TextBlock>
+                        <materialDesign:PackIcon Kind="FileDocumentEditOutline"
+                                                 VerticalAlignment="Center"
+                                                 HorizontalAlignment="Center"
+                                                 Foreground="White"
+                                                 Width="35"
+                                                 Height="35" />
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+
+        </WrapPanel>
+        <Grid Grid.Column="1"
+              HorizontalAlignment="Right">
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="AlarmPage"
+                       Margin="1,1,2,0"
+                       Name="btnAlarm"
+                       Height="100"  Width="116"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray">
+                <Button.Style>
+                    <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background" Value="#333333" />
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.AlarmPresence}"
+                                         Value="True">
+                                <DataTrigger.EnterActions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <ColorAnimation
+                                                Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)"
+                                                To="Red" Duration="0:0:0.8" AutoReverse="True" RepeatBehavior="Forever" />
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </DataTrigger.EnterActions>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding AppServiceInstance.AlarmPresence}" Value="False">
+                                <Setter Property="Background" Value="#333333" />
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <StackPanel Height="55" Width="90"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center">
+                        <TextBlock Name="txtalarm"
+                                   FontSize="13"
+                                   Foreground="White"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Margin="0">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text" Value="Alarm"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppServiceInstance.language}"
+                                                     Value="Vietnamese">
+                                            <Setter Property="Text"
+                                                    Value="Cảnh Báo" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <materialDesign:PackIcon Kind="AlarmMultiple"
+                                                 VerticalAlignment="Center"
+                                                 HorizontalAlignment="Center"
+                                                 Foreground="White"
+                                                 Width="35" Height="35"/>
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+        </Grid>
+    </Grid>
+</UserControl>

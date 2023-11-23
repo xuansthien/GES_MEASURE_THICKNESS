@@ -1,0 +1,463 @@
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Adam.DLL
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Common.DLL
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Graph.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Protocol.DLL
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Adam.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Common.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Graph.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Protocol.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Adam.DLL
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Common.DLL
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Graph.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Protocol.DLL
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Adam.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Common.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Graph.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Advantech.Protocol.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Zstandard.Net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Ubiety.Dns.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\log4net.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.DIOADAM6052\obj\Debug\POLAR.DIOADAM6052.pdb

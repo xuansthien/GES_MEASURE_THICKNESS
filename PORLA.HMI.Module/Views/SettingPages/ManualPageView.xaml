@@ -1,0 +1,1467 @@
+﻿<UserControl x:Class="PORLA.HMI.Module.Views.SettingPages.ManualPageView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PORLA.HMI.Module.Views.SettingPages"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             mc:Ignorable="d" 
+             Background="#EDEDED"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors" 
+             d:DesignHeight="900" d:DesignWidth="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"></RowDefinition>
+            <RowDefinition Height="7*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="1"
+              Margin="0,10,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"></ColumnDefinition>
+                <ColumnDefinition Width="2*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="1.3*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Border Grid.ColumnSpan="1"
+                    Margin="7,0,7,5"
+                    BorderBrush="DimGray"
+                    BorderThickness="0,0,0,1">
+                <Label       HorizontalContentAlignment="Left"
+                             VerticalContentAlignment="Center"
+                             HorizontalAlignment="Left"
+                             Width="200"
+                             Background="Transparent"
+                             Foreground="Black"
+                             FontSize="17"
+                             FontWeight="Normal"
+                             Content=" Input"/>
+            </Border>
+            <Border Grid.Column="2"
+                    Margin="7,0,7,5"
+                    BorderBrush="DimGray"
+                    BorderThickness="0,0,0,1">
+                <Label       HorizontalContentAlignment="Left"
+                             VerticalContentAlignment="Center"
+                             HorizontalAlignment="Left"
+                             Width="200"
+                             Background="Transparent"
+                             Foreground="Black"
+                             FontSize="17"
+                             FontWeight="Normal"
+                             Content="Motion IAI"/>
+            </Border>
+            <Grid Grid.Row="1" Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0" Orientation="Vertical" Margin="10,5,0,0">
+
+                    <WrapPanel Orientation="Horizontal"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"
+                                 Height="30"
+                                 AutomationProperties.AutomationId="LampStart">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag" Value="False"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[4]}"
+                                                     Value="True">
+                                            <Setter Property="Tag" Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Start"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                          
+                                 Height="30"
+                             >
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"
+                                Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[3]}"
+                                                     Value="True">
+                                            <Setter Property="Tag" Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Stop"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                                                         
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[2]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Reset"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                            
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule2.IOMapping[0]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Service Key"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                           
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[1]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="EMO"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                           
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule2.IOMapping[1]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Z Stage Sensor"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                           
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule2.IOMapping[2]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Fixture Sensor"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+
+                    </WrapPanel>
+                </StackPanel>
+                <StackPanel Orientation="Vertical"
+                            Margin="10,5,0,0"
+                            Grid.Column="1">
+
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                                                        
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"                                
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule2.IOMapping[3]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Left Door Sensor"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                                                             
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"                                                                
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"                                
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule2.IOMapping[4]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Right Door Sensor"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                                                        
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"                                
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[0]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Front Door Status"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                                                        
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"                                
+                                            Value="False"></Setter>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[6]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Main Air Status"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                                                        
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"                                
+                                            Value="False"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[7]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Vaccum Button"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                    <WrapPanel Orientation="Horizontal"
+                               Margin="0,5"
+                               VerticalAlignment="Center">
+                        <Button  HorizontalAlignment="Right"
+                                 Margin="0,0,7,0"                                                        
+                                 Height="30">
+                            <Button.Style>
+                                <Style TargetType="Button"
+                                       BasedOn="{StaticResource Lampt}">
+                                    <Setter Property="Tag"                                
+                                            Value="False"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppService.DIOModule2.IOMapping[5]}"
+                                                     Value="True">
+                                            <Setter Property="Tag"
+                                                    Value="True" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                        </Button>
+                        <TextBlock Text="Safety Circuit"
+                                   VerticalAlignment="Center"
+                                   FontSize="13"/>
+                    </WrapPanel>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="0.8*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.2*"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border Grid.Row="0" Grid.ColumnSpan="3"
+                        Margin="7,0,7,5" BorderBrush="DimGray" 
+                        BorderThickness="1,1,1,1">
+                    <WrapPanel Orientation="Horizontal"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Left">
+                        <Button Style="{StaticResource CustomButtonStyle}"
+                                Margin="50,0,20,0"
+                                Content=" Home"
+                                FontWeight="Normal"
+                                FontSize="12"
+                                Height="35"
+                                Width="90"
+                                Command="{Binding AppCommand.cmdIAIAbsoluteMove}"
+                                CommandParameter="home"
+                                Background="#9FB6CD">
+                        </Button>
+                        <Button Style="{StaticResource CustomButtonStyle}"
+                                Margin="0,0,20,0" Content="Servo On"
+                                FontWeight="Normal"
+                                FontSize="12"
+                                Height="35"
+                                Width="90"
+                                Command="{Binding AppCommand.cmdIAIServoOnOff}" 
+                                CommandParameter="SVON"
+                                Background="#9FB6CD"/>
+                        <Button Style="{StaticResource CustomButtonStyle}"
+                                Margin="0,0,20,0" Content="Servo Off"
+                                FontWeight="Normal"
+                                FontSize="12"
+                                Height="35"
+                                Width="90"
+                                BorderBrush="Transparent"
+                                Command="{Binding AppCommand.cmdIAIServoOnOff}" 
+                                CommandParameter="SVOFF"
+                                Background="#9FB6CD"/>
+                        <Button Style="{StaticResource CustomButtonStyle}"
+                                Margin="0,0,40,0" Content="Alarm Reset"
+                                FontWeight="Normal"
+                                FontSize="12"
+                                Height="35"
+                                Width="90"
+                                BorderBrush="Transparent"
+                                Command="{Binding AppCommand.cmdIAIAlarmReset}"
+                                Background="#9FB6CD"/>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                            <WrapPanel>
+                                <Label Content="Axes X:" VerticalAlignment="Center" Margin="0,5,0,0"/>
+                                <CheckBox Width="50" Height="40" 
+                                          VerticalAlignment="Center" 
+                                          HorizontalAlignment="Center" 
+                                          Margin="5" 
+                                          IsChecked="{Binding AppService.IAIMotion.IsSelectedAxisX}"
+                                          Command="{Binding AppCommand.cmdIAIToggleCheckBox}"
+                                          CommandParameter="XCheck">
+                                </CheckBox>
+                            </WrapPanel>
+                            <WrapPanel Margin="20,0,0,0">
+                                <Label Content="Axes Y: " VerticalAlignment="Center"></Label>
+                                <CheckBox Width="50" Height="40" 
+                                          VerticalAlignment="Center" 
+                                          HorizontalAlignment="Center" 
+                                          Margin="5"
+                                          IsChecked="{Binding AppService.IAIMotion.IsSelectedAxisY}"
+                                          Command="{Binding AppCommand.cmdIAIToggleCheckBox}"
+                                          CommandParameter="YCheck">
+                                </CheckBox>
+                            </WrapPanel>
+                        </StackPanel>
+                    </WrapPanel>
+                </Border>
+                <Border Grid.Column="0" Grid.Row="1"
+                    Margin="7,0,7,5"
+                    BorderBrush="DimGray"
+                    BorderThickness="1,1,1,1">
+                    <WrapPanel Orientation="Vertical" HorizontalAlignment="Center">
+                        <StackPanel>
+                            <StackPanel HorizontalAlignment="Center" 
+                                        Orientation="Horizontal"
+                                        VerticalAlignment="Center">
+                                <WrapPanel Grid.Column="1"
+                                       HorizontalAlignment="Left"
+                                       VerticalAlignment="Center">
+                                    <Label Content="● Speed(mm/s):" Margin="10,20,0,0"     
+                                       FontWeight="Normal"
+                                       FontSize="12"
+                                       Height="45"/>
+                                    <TextBox x:Name="inputJogSpeed" HorizontalContentAlignment="Center"
+                                         Width="50" VerticalAlignment="Center"/>
+                                </WrapPanel>
+                                <Button Content="Apply"
+                                    Style="{StaticResource CustomButtonStyle}"
+                                    Command="{Binding AppCommand.cmdIAIUpdateJogSpeed}"
+                                    CommandParameter="{Binding ElementName=inputJogSpeed, Path=Text}"
+                                    Margin="10"
+                                    FontWeight="Normal"
+                                    FontSize="12" Width="90" Height="35"
+                                    HorizontalAlignment="Right"
+                                    BorderBrush="Transparent"
+                                    VerticalAlignment="Bottom"
+                                    Background="#9FB6CD"/>
+                            </StackPanel>
+                            <WrapPanel Grid.Row="1" Margin="0,30,0,0"
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Orientation="Horizontal">
+                                <Button Style="{StaticResource CustomButtonStyle}"
+                                    Content=" JOG X - ◀"
+                                    FontWeight="Normal"
+                                    FontSize="12" Margin="0 0 20 0"
+                                        Width="90" Height="35"
+                                    BorderBrush="Transparent"
+                                    Background="#9FB6CD">
+                                    <i:Interaction.Triggers>
+                                        <i:EventTrigger EventName="PreviewMouseDown">
+                                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIJogBackward}" CommandParameter="Press"/>
+                                        </i:EventTrigger>
+                                        <i:EventTrigger EventName="PreviewMouseUp">
+                                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIJogBackward}" CommandParameter="Release"/>
+                                        </i:EventTrigger>
+                                    </i:Interaction.Triggers>
+                                </Button>
+                                <Button Style="{StaticResource CustomButtonStyle}"
+                                    Content="▶ JOG X +"
+                                    FontWeight="Normal"
+                                    FontSize="12" Margin="0"
+                                        Width="90" Height="35"
+                                    BorderBrush="Transparent"
+                                    Background="#9FB6CD">
+                                    <i:Interaction.Triggers>
+                                        <i:EventTrigger EventName="PreviewMouseDown">
+                                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIJogForward}" CommandParameter="Press"/>
+                                        </i:EventTrigger>
+                                        <i:EventTrigger EventName="PreviewMouseUp">
+                                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIJogForward}" CommandParameter="Release"/>
+                                        </i:EventTrigger>
+                                    </i:Interaction.Triggers>
+                                </Button>
+                            </WrapPanel>
+                            <WrapPanel Grid.Row="1" Margin="0,30,0,0"
+                                   Grid.Column="1"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Orientation="Horizontal">
+                                <Button Style="{StaticResource CustomButtonStyle}"
+                                    Content=" JOG Y - ◀"
+                                    FontWeight="Normal"
+                                    FontSize="12" Width="90" Height="35"
+                                        Margin="0 0 20 0"
+                                    BorderBrush="Transparent"
+                                    Background="#9FB6CD">
+                                    <i:Interaction.Triggers>
+                                        <i:EventTrigger EventName="PreviewMouseDown">
+                                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIAxisYJogBackward}" CommandParameter="Press"/>
+                                        </i:EventTrigger>
+                                        <i:EventTrigger EventName="PreviewMouseUp">
+                                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIAxisYJogBackward}" CommandParameter="Release"/>
+                                        </i:EventTrigger>
+                                    </i:Interaction.Triggers>
+                                </Button>
+                                <Button Style="{StaticResource CustomButtonStyle}"
+                                    Content="▶ JOG Y +"
+                                    FontWeight="Normal"
+                                    FontSize="12"
+                                    Width="90" Height="35"
+                                    BorderBrush="Transparent"
+                                    Background="#9FB6CD">
+                                    <i:Interaction.Triggers>
+                                        <i:EventTrigger EventName="PreviewMouseDown">
+                                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIAxisYJogForward}" CommandParameter="Press"/>
+                                        </i:EventTrigger>
+                                        <i:EventTrigger EventName="PreviewMouseUp">
+                                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIAxisYJogForward}" CommandParameter="Release"/>
+                                        </i:EventTrigger>
+                                    </i:Interaction.Triggers>
+                                </Button>
+                            </WrapPanel>
+                        </StackPanel>
+                    </WrapPanel>
+                </Border>
+                <Border Grid.Column="1" Grid.Row="1"
+                    BorderBrush="DimGray" Margin="0 0 5 0"
+                    BorderThickness="1,1,1,1">
+                    <StackPanel VerticalAlignment="Top" 
+                                HorizontalAlignment="Center">
+                        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                            <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <Label Content="Axis X Moving Position (mm):"
+                                       VerticalAlignment="Center"/>
+                                <TextBox Text="{Binding AppService.IAIMotion.AxisXValue}" Margin="5" HorizontalContentAlignment="Center"
+                                         VerticalAlignment="Center" HorizontalAlignment="Center" Width="100"/>
+                            </WrapPanel>
+                            <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <Label Content="Axis Y Moving Position (mm):"
+                                       VerticalAlignment="Center"/>
+                                <TextBox Text="{Binding AppService.IAIMotion.AxisYValue}" Margin="5" HorizontalContentAlignment="Center"
+                                         VerticalAlignment="Center" HorizontalAlignment="Center" Width="100"></TextBox>
+                            </WrapPanel>
+                            <WrapPanel>
+                            </WrapPanel>
+                        </StackPanel>
+                        <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                   Margin="0 0 0 5">
+                            <Button Style="{StaticResource CustomButtonStyle}"
+                                    Margin="0,10,10,0"
+                                    Content="Relative Move"
+                                    FontWeight="Normal"
+                                    FontSize="12"
+                                    Height="35" Width="90"
+                                    BorderBrush="Transparent"
+                                    Command="{Binding AppCommand.cmdIAIRelativeMove}"
+                                    Background="#9FB6CD"/>
+                            <Button Style="{StaticResource CustomButtonStyle}"
+                                    Content="Absolute Move"
+                                    FontWeight="Normal"
+                                    FontSize="12" Margin="0 10 0 0"
+                                    Height="35"
+                                    Width="90"
+                                    BorderBrush="Transparent"
+                                    Command="{Binding AppCommand.cmdIAIAbsoluteMove}"
+                                    CommandParameter="ABS"
+                                    Background="#9FB6CD"/>
+                        </WrapPanel>
+                        <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                   Margin="0 0 0 5">
+                            <!--<Button Style="{StaticResource CustomButtonStyle}"
+                                    Content="Test Sequence Move"
+                                    FontWeight="Normal"
+                                    Margin="0,0,10,0"
+                                    FontSize="12"
+                                    Height="35"
+                                    Width="90"
+                                    BorderBrush="Transparent"
+                                    Command="{Binding AppCommand.cmdIAITestMove}"
+                                    CommandParameter="ABS"
+                                    Background="#9FB6CD"/>-->
+                            <Button Style="{StaticResource CustomButtonStyle}"
+                                    Margin="0,10,10,0"
+                                    FontWeight="Normal" 
+                                    FontSize="12"
+                                    Height="35"
+                                    Width="90"
+                                    BorderBrush="Transparent"
+                                    Command="{Binding AppCommand.cmdIAITestPatternMove}"
+                                    CommandParameter="ABS"
+                                    Background="#9FB6CD">
+                                <TextBlock Text="Test Pattern Move" TextWrapping="Wrap" TextAlignment="Center"/>
+                            </Button>
+                            <Button Style="{StaticResource CustomButtonStyle}"
+                                    FontWeight="Normal"
+                                    FontSize="12" Margin="0 10 0 0"
+                                    Height="35"
+                                    Width="90"
+                                    BorderBrush="Transparent"
+                                    Command="{Binding AppCommand.cmdIAIStopPatternMove}"
+                                    CommandParameter="ABS"
+                                    Background="#9FB6CD">
+                                <TextBlock Text="Stop Program Move" TextWrapping="Wrap" TextAlignment="Center"/>
+                            </Button>
+                        </WrapPanel>
+                    </StackPanel>
+                </Border>
+                <Border Grid.Column="2" Grid.Row="1"
+                    BorderBrush="DimGray"
+                    BorderThickness="1,1,1,1">
+                    <GroupBox Header="Axes Status" BorderBrush="#FF747474" 
+                              BorderThickness="1">
+                        <WrapPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left" 
+                                       Margin="0 0 3 0">
+                                <Label FontWeight="Bold" FontStyle="Italic"
+                           Content="Axis" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Width="25" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="X" HorizontalContentAlignment="Left"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Width="25" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="Y" HorizontalContentAlignment="Left"
+                           VerticalContentAlignment="Center"/>
+
+                            </WrapPanel>
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left"
+                                       Margin="0 0 3 0">
+                                <Label FontWeight="Bold" FontStyle="Italic"
+                           Content="Coordinates" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Width="80" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.XCoordinate}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Width="80" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.YCoordinate}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                            </WrapPanel>
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left"
+                                       Margin="0 0 3 0">
+                                <Label FontWeight="Bold" FontStyle="Italic"
+                           Content="Busy" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.XBusy}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.YBusy}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                            </WrapPanel>
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left"
+                                       Margin="0 0 3 0">
+                                <Label FontWeight="Bold" FontStyle="Italic"
+                           Content="Finish" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.XFinish}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.YFinish}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                            </WrapPanel>
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left">
+                                <Label FontWeight="Bold" FontStyle="Italic"
+                           Content="Error" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.XError}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+
+                                <Label Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.YError}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+                            </WrapPanel>
+
+                        </WrapPanel>
+                    </GroupBox>
+                </Border>
+            </Grid>
+            <Border Grid.ColumnSpan="1" Grid.Row="2"
+                    Margin="7,0,7,5"
+                    BorderBrush="DimGray"
+                    BorderThickness="0,0,0,1">
+                <Label       HorizontalContentAlignment="Left"
+                             VerticalContentAlignment="Center"
+                             HorizontalAlignment="Left"
+                             Width="200"
+                             Background="Transparent"
+                             Foreground="Black"
+                             FontSize="17"
+                             FontWeight="Normal"
+                             Content=" Output"></Label>
+            </Border>
+            <Border Grid.Column="1" Grid.Row="2"
+                    Margin="7,0,7,5"
+                    BorderBrush="DimGray"
+                    BorderThickness="0,0,0,1">
+                <Label       HorizontalContentAlignment="Left"
+                             VerticalContentAlignment="Center"
+                             HorizontalAlignment="Left"
+                             Width="200"
+                             Background="Transparent"
+                             Foreground="Black"
+                             FontSize="17"
+                             FontWeight="Normal"
+                             Content=" Precitec Controller"/>
+            </Border>
+            <Grid Grid.Column="1" Grid.Row="3">
+                <TabControl SelectedIndex="{Binding PrecitecTabSelect}">
+                    <TabItem Header="1D Sensor" Visibility="{Binding Tab1D}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="333*"/>
+                                <ColumnDefinition Width="217*"/>
+                                <ColumnDefinition Width="116*"/>
+                            </Grid.ColumnDefinitions>
+                            <GroupBox Header="1D Sensor Control" FontSize="13" 
+                                      Margin="5,0,5,5" BorderThickness="2" Grid.Column="0"                 
+                                      Style="{DynamicResource MaterialDesignGroupBox}"
+                                      materialDesign:ColorZoneAssist.Mode="Custom"
+                                      materialDesign:ColorZoneAssist.Background="DimGray"
+                                      materialDesign:ColorZoneAssist.Foreground="WhiteSmoke">
+                                <WrapPanel Orientation="Vertical">
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Start Pos:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDStartPos}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Stop Pos:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDStopPos}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Interval:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDInterval}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Number of scan linear:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDScanLineNo}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Sample Counter Per Line:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDSampleCountPerLine}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80" IsReadOnly="True"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Device Output Signals:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDSignalOutput}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="120"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Set ENC X Pos"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDSetEncPos}"
+                                                CommandParameter="x"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDValueEncX}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Set ENC Y Pos"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDSetEncPos}"
+                                                CommandParameter="y"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDValueEncY}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDSendSetting}"
+                                                CommandParameter="x">
+                                            <TextBlock Text="Send Enc X Setting" TextAlignment="Center"
+                                                       TextWrapping="Wrap"/>
+                                        </Button>
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDSendSetting}"
+                                                CommandParameter="y">
+                                            <TextBlock Text="Send Enc Y Setting" TextAlignment="Center"
+                                                       TextWrapping="Wrap"/>
+                                        </Button>
+                                    </WrapPanel>
+
+                                </WrapPanel>
+                            </GroupBox>
+                            <GroupBox Header="Pattern Moving Setting" FontSize="13" 
+                                      Margin="5,0,5,5" BorderThickness="2" Grid.Column="1"                 
+                                      Style="{DynamicResource MaterialDesignGroupBox}"
+                                      materialDesign:ColorZoneAssist.Mode="Custom"
+                                      materialDesign:ColorZoneAssist.Background="DimGray"
+                                      materialDesign:ColorZoneAssist.Foreground="WhiteSmoke" Grid.ColumnSpan="2">
+                                <WrapPanel Orientation="Vertical">
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Start Pos X1:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmX1}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Start Pos Y1:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmY1}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Width DX:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmWidthDx}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Height DY:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmHeightDy}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Pitch Y:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmPitchy}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Speed:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmSpeed}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Acc:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmAcc}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Dcl:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmDcl}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Start Scan"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDStartScan}"
+                                                CommandParameter="start"/>
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Stop Scan"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDStartScan}"
+                                                CommandParameter="stop"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Software Trigger"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDTriggerEvent}"
+                                                CommandParameter="y"/>
+                                        <!--<Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Test MultiPoint"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding TestMultiPointCmd}"
+                                                CommandParameter="y"/>-->
+
+                                    </WrapPanel>
+
+                                </WrapPanel>
+                            </GroupBox>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="FSS Sensor" Visibility="{Binding TabFss}">
+                        <TextBlock Text="fss here"/>
+                    </TabItem>
+                    <TabItem Header="Send Command" Visibility="{Binding TabSendCmd}">
+                        <WrapPanel Orientation="Vertical">
+                            <WrapPanel Orientation="Horizontal" Margin="10 10 0 0">
+                                <TextBlock Grid.Row="0" Text="Send Command" 
+                                           Margin="10 0 0 0" VerticalAlignment="Center"/>
+                                <Button Style="{StaticResource CustomButtonStyle}"
+                                        Content="Send"
+                                        Command="{Binding PrecitecSendCmd}"
+                                        Margin="10,0,10,0"
+                                        FontWeight="Normal"
+                                        FontSize="12"
+                                        Width="90" Height="35"
+                                        HorizontalAlignment="Right"
+                                        BorderBrush="Transparent"
+                                        Background="#9FB6CD">
+                                </Button>
+
+                            </WrapPanel>
+                            <TextBox Style="{StaticResource MaterialDesignOutlinedTextBox}"
+                                    Text="{Binding CmdInput}" Margin="10"
+                                    VerticalAlignment="Top"
+                                    materialDesign:HintAssist.Hint="Input"
+                                    AcceptsReturn="True"
+                                    VerticalScrollBarVisibility="Auto"/>
+                            <WrapPanel Orientation="Vertical" >
+                                <TextBlock Text="Received Response" 
+                                           Margin="10 0 0 0" VerticalAlignment="Center"/>
+                                <ListView Margin="5,0,5,5"  Grid.Row="1" Height="250"
+                                          VerticalAlignment="Stretch" HorizontalAlignment="Stretch" 
+                                          ItemsSource="{Binding AppService.LogRspPrecitec}"
+                                          SelectedIndex="{Binding AppService.ScrollViewerVerticalOffset}">
+                                    <ListView.View>
+                                        <GridView >
+                                            <GridViewColumn DisplayMemberBinding="{Binding DateTime}">
+                                                <GridViewColumn.Header>
+                                                    <TextBlock Text="Time" TextAlignment="Center"/>
+                                                </GridViewColumn.Header>
+                                            </GridViewColumn>
+                                            <GridViewColumn  Width="140" DisplayMemberBinding="{Binding strLogType}">
+                                                <GridViewColumn.Header>
+                                                    <TextBlock Text="Log Type" TextAlignment="Center"/>
+                                                </GridViewColumn.Header>
+                                            </GridViewColumn>
+                                            <GridViewColumn  DisplayMemberBinding="{Binding strContent}">
+                                                <GridViewColumn.Header>
+                                                    <TextBlock Text="Description" TextAlignment="Center" TextWrapping="NoWrap"/>
+                                                </GridViewColumn.Header>
+                                            </GridViewColumn>
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </WrapPanel>
+
+                        </WrapPanel>
+                    </TabItem>
+                </TabControl>
+
+                <!--<TabControl SelectedIndex="{Binding PrecitecTabSelect}">
+                    <TabItem Header="1D Sensor" Margin="5 0 5 0">
+                        <TabItem.Style>
+                            <Style TargetType="TabItem">
+                                <Setter Property="Visibility" Value="Collapsed" />
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding IsTab1Visible}" Value="True">
+                                        <Setter Property="Visibility" Value="Visible" />
+                                        <Setter Property="Background" Value="LightSkyBlue"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TabItem.Style>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="333*"/>
+                                <ColumnDefinition Width="217*"/>
+                                <ColumnDefinition Width="116*"/>
+                            </Grid.ColumnDefinitions>
+                            <GroupBox Header="1D Sensor Control" FontSize="13" 
+                                      Margin="5,0,5,5" BorderThickness="2" Grid.Column="0"                 
+                                      Style="{DynamicResource MaterialDesignGroupBox}"
+                                      materialDesign:ColorZoneAssist.Mode="Custom"
+                                      materialDesign:ColorZoneAssist.Background="DimGray"
+                                      materialDesign:ColorZoneAssist.Foreground="WhiteSmoke">
+                                <WrapPanel Orientation="Vertical">
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Start Pos:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDStartPos}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Stop Pos:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDStopPos}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Interval:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDInterval}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Number of scan linear:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDScanLineNo}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Sample Counter Per Line:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDSampleCountPerLine}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80" IsReadOnly="True"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Device Output Signals:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDSignalOutput}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="120"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Set ENC X Pos"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDSetEncPos}"
+                                                CommandParameter="x"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDValueEncX}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Set ENC Y Pos"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDSetEncPos}"
+                                                CommandParameter="y"/>
+                                        <TextBox Text="{Binding AppService.PrecitecService.OneDValueEncY}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDSendSetting}"
+                                                CommandParameter="x">
+                                            <TextBlock Text="Send Enc X Setting" TextAlignment="Center"
+                                                       TextWrapping="Wrap"/>
+                                        </Button>
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDSendSetting}"
+                                                CommandParameter="y">
+                                            <TextBlock Text="Send Enc Y Setting" TextAlignment="Center"
+                                                       TextWrapping="Wrap"/>
+                                        </Button>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Start Scan"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDStartScan}"
+                                                CommandParameter="start"/>
+                                        <Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Stop Scan"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding AppCommand.cmdOneDStartScan}"
+                                                CommandParameter="stop"/>
+                                    </WrapPanel>
+                                </WrapPanel>
+                            </GroupBox>
+                            <GroupBox Header="Pattern Moving Setting" FontSize="13" 
+                                      Margin="5,0,5,5" BorderThickness="2" Grid.Column="1"                 
+                                      Style="{DynamicResource MaterialDesignGroupBox}"
+                                      materialDesign:ColorZoneAssist.Mode="Custom"
+                                      materialDesign:ColorZoneAssist.Background="DimGray"
+                                      materialDesign:ColorZoneAssist.Foreground="WhiteSmoke" Grid.ColumnSpan="2">
+                                <WrapPanel Orientation="Vertical">
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Start Pos X1:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmX1}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Start Pos Y1:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmY1}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Width DX:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmWidthDx}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Height DY:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmHeightDy}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Pitch Y:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmPitchy}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Speed:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmSpeed}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Acc:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmAcc}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                    <WrapPanel Orientation="Horizontal">
+                                        <TextBlock Grid.Row="0" Text="   ● Dcl:" VerticalAlignment="Center"/>
+                                        <TextBox Text="{Binding AppService.IAIMotion.PmDcl}" Margin="5 0" HorizontalContentAlignment="Center"
+                                                 VerticalAlignment="Center" HorizontalAlignment="Center" Width="80"/>
+                                    </WrapPanel>
+                                </WrapPanel>
+                            </GroupBox>
+                        </Grid>
+                    </TabItem>
+                    <TabItem Header="FSS Sensor">
+                        <TabItem.Style>
+                            <Style TargetType="TabItem">
+                                <Setter Property="Visibility" Value="Collapsed" />
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding IsTab3Visible}" Value="True">
+                                        <Setter Property="Visibility" Value="Visible" />
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TabItem.Style>
+                        <TextBlock Text="fss here"/>
+                    </TabItem>
+                    <TabItem Header="Send Command">
+                        <TabItem.Style>
+                            <Style TargetType="TabItem">
+                                <Setter Property="Visibility" Value="Collapsed" />
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding IsTab2Visible}" Value="True">
+                                        <Setter Property="Visibility" Value="Visible" />
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </TabItem.Style>
+                        <TextBlock Text="Send command here"/>
+                    </TabItem>
+
+                </TabControl>-->
+            </Grid>
+            <Border Grid.ColumnSpan="1" Grid.Row="1"
+                    Margin="7,0,7,5"
+                    BorderBrush="DimGray"
+                    BorderThickness="0,1,1,1">
+            </Border>
+            <Border Grid.Row="3"
+                    BorderBrush="Gray"
+                    BorderThickness="0,0,1,0"></Border>
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" Text="   ● Vacuum" VerticalAlignment="Center"/>
+                <TextBlock Grid.Row="1"
+                           Text="   ● Release Vaccum" VerticalAlignment="Center"/>
+                <TextBlock Grid.Row="2"
+                           Text="   ● Power For 1D/FSS
+                                      (ON: FSS, OFF: 1D)"
+                           TextWrapping="Wrap"
+                           VerticalAlignment="Center"/>
+                <TextBlock Grid.Row="3"
+                           Text="   ● Maitenance Light"
+                           VerticalAlignment="Center"/>
+                <WrapPanel  Grid.Column="1" Grid.Row="0" Orientation="Horizontal"
+                           HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                            Content="ON"
+                            Command="{Binding AppCommand.cmdDOVaccumOnOff}"
+                            CommandParameter="VacOn"
+                            Margin="0,0,10,0"
+                            FontWeight="Normal"
+                            FontSize="12"
+                            Width="90" Height="35"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Transparent"
+                            Background="#9FB6CD">
+                    </Button>
+                    <Button  HorizontalAlignment="Right"
+                             Margin="0,0,10,0"                          
+                             Height="30">
+                        <Button.Style>
+                            <Style TargetType="Button"
+                                   BasedOn="{StaticResource Lampt}">
+                                <Setter Property="Tag"
+                                        Value="False"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[5]}"
+                                                 Value="True">
+                                        <Setter Property="Tag"
+                                                Value="True" />
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                            Content="OFF"
+                            Command="{Binding AppCommand.cmdDOVaccumOnOff}"
+                            CommandParameter="VacOff"
+                            FontWeight="Normal"
+                            FontSize="12"
+                            Width="90" Height="35"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Transparent"
+                            Background="#9FB6CD"/>
+                </WrapPanel>
+                <WrapPanel  Grid.Column="1"
+                            Grid.Row="1"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center">
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                            Content="ON"
+                            Command="{Binding TestEvent}"
+                            Margin="0,0,10,0"
+                            FontWeight="Normal"
+                            FontSize="12"
+                            Width="90" Height="35"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Transparent"
+                            Background="#9FB6CD" Click="Button_Click"></Button>
+                    <Button HorizontalAlignment="Right"
+                            Margin="0,0,10,0"
+                            Height="30">
+                        <Button.Style>
+                            <Style TargetType="Button"
+                                   BasedOn="{StaticResource Lampt}">
+                                <Setter Property="Tag"
+                                        Value="False"></Setter>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding}"
+                                                 Value="True">
+                                        <Setter Property="Tag"
+                                                Value="True" />
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                            Content="OFF"
+                            Command="{Binding  ReleaseVaccumOnOffCmd}"
+                            CommandParameter="BlowOff"
+                            FontWeight="Normal"
+                            FontSize="12"
+                            Width="90" Height="35"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Transparent"
+                            Background="#9FB6CD"/>
+                </WrapPanel>
+                <WrapPanel  Grid.Column="1"
+                            Grid.Row="2"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center">
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                            Content="ON"
+                            Command="{Binding AppCommand.CmdDOPowerSupplySensor}"
+                            CommandParameter="FSS"
+                            Margin="0,0,10,0"
+                            FontWeight="Normal"
+                            FontSize="12"
+                            Width="90" Height="35"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Transparent"
+                            Background="#9FB6CD"/>
+                    <Button HorizontalAlignment="Right"
+                            Margin="0,0,10,0" Height="30">
+                        <Button.Style>
+                            <Style TargetType="Button"
+                                   BasedOn="{StaticResource Lampt}">
+                                <Setter Property="Tag"
+                                        Value="False"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding}"
+                                                 Value="True">
+                                        <Setter Property="Tag"
+                                                Value="True" />
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                            Content="OFF"
+                            Command="{Binding AppCommand.CmdDOPowerSupplySensor}"
+                            CommandParameter="1D"
+                            FontWeight="Normal"
+                            FontSize="12"
+                            Width="90" Height="35"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Transparent"
+                            Background="#9FB6CD"/>
+                </WrapPanel>
+                <WrapPanel  Grid.Column="1"
+                            Grid.Row="3"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center">
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                            Content="ON"
+                            Command="{Binding AppCommand.cmdDOLightOnOff}"
+                            CommandParameter="LOn"
+                            Margin="0,0,10,0"
+                            FontWeight="Normal"
+                            FontSize="12"
+                            Width="90" Height="35"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Transparent"
+                            Background="#9FB6CD"/>
+                    <Button HorizontalAlignment="Right"
+                            Margin="0,0,10,0"                                                     
+                            Height="30">
+                        <Button.Style>
+                            <Style TargetType="Button"
+                           BasedOn="{StaticResource Lampt}">
+                                <Setter Property="Tag"
+                                Value="False"></Setter>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding}"
+                                         Value="True">
+                                        <Setter Property="Tag"
+                                        Value="True"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                            Content="OFF"
+                            Command="{Binding AppCommand.cmdDOLightOnOff}"
+                            CommandParameter="LOff"
+                            FontWeight="Normal"
+                            FontSize="12"
+                            Width="90" Height="35"
+                            HorizontalAlignment="Right"
+                            BorderBrush="Transparent"
+                            Background="#9FB6CD"/>
+                </WrapPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

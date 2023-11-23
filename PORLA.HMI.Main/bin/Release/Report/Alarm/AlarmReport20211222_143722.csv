@@ -1,0 +1,8 @@
+ID,AlarmID,AlarmTime,AlarmClearedTime,Category,Source,Description
+5,Channel1.PLCOmron.A0,12/22/2021 2:25:57 PM,12/22/2021 2:28:25 PM,Error,System,PLC Not Connected
+6,Channel1.PLCOmron.A1,12/22/2021 2:26:56 PM,12/22/2021 2:29:21 PM,Warning,System,PLC Not Connected
+7,Channel1.PLCOmron.A1,12/22/2021 2:32:52 PM,12/22/2021 2:33:27 PM,Warring,System,PLC Not Connected
+8,Channel1.PLCOmron.A0,12/22/2021 2:32:58 PM,12/22/2021 2:33:52 PM,Error,System,PLC Not Connected
+9,Channel1.PLCOmron.A2,12/22/2021 2:31:52 PM,12/22/2021 2:35:09 PM,Warning,System1,ok a truong
+10,Channel1.PLCOmron.A1,12/22/2021 2:34:13 PM,12/22/2021 2:35:09 PM,Warning,System,PLC Not Connected
+11,Channel1.PLCOmron.A0,12/22/2021 2:34:44 PM,12/22/2021 2:35:09 PM,Error,System,PLC Not Connected

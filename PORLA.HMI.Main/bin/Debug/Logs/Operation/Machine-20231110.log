@@ -1,0 +1,1036 @@
+﻿[2023-11-10 12:44:04,902] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 12:44:05,187] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 12:44:05,303] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 12:44:07,192] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 12:44:07,192] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 12:44:07,192] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 12:44:07,204] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 12:44:07,627] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 12:44:07,989] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 12:44:08,020] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 12:44:08,042] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 12:44:08,058] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 12:44:08,074] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 12:44:08,089] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 12:44:08,121] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 12:44:08,143] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 12:44:08,158] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 12:44:08,174] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 12:44:08,190] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 12:44:08,205] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 12:44:08,221] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 12:44:08,243] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 12:44:08,259] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 12:44:08,380] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,82,83,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 12:44:08,382] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 12:48:25,449] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 12:48:25,464] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 12:48:32,100] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 12:48:32,523] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 12:48:32,632] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 12:48:35,261] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 12:48:35,266] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 12:48:35,267] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 12:48:35,302] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 12:48:35,977] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 12:48:36,402] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 12:48:36,420] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 12:48:36,436] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 12:48:36,452] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 12:48:36,465] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 12:48:36,477] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 12:48:36,495] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 12:48:36,513] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 12:48:36,525] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 12:48:36,539] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 12:48:36,550] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 12:48:36,567] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 12:48:36,579] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 12:48:36,598] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 12:48:36,610] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 12:48:36,835] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,82,83,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 12:48:36,836] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 12:58:31,223] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 12:58:31,586] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 12:58:31,686] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 12:58:34,339] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 12:58:34,346] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 12:58:34,382] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 12:58:34,389] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 12:58:35,165] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 12:58:35,601] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 12:58:35,619] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 12:58:35,635] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 12:58:35,651] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 12:58:35,665] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 12:58:35,677] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 12:58:35,695] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 12:58:35,713] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 12:58:35,727] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 12:58:35,739] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 12:58:35,763] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 12:58:35,777] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 12:58:35,789] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 12:58:35,813] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 12:58:35,837] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 12:58:36,035] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,82,83,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 12:58:36,036] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 13:00:05,097] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SHZ (?) 50000
+[2023-11-10 13:00:10,013] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 13:00:10,061] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 13:00:10,087] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 13:01:42,799] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:01:43,277] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:01:43,384] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:01:46,088] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 13:01:46,092] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 13:01:46,094] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 13:01:46,098] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 13:01:46,740] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 13:04:31,386] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 13:09:26,109] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:09:26,521] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:09:26,633] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:09:29,489] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 13:09:29,503] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 13:09:29,504] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 13:09:29,507] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 13:09:30,168] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 13:09:30,585] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 13:09:30,601] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 13:09:30,617] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 13:09:30,634] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 13:09:30,646] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 13:09:30,658] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 13:09:30,681] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 13:09:30,699] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 13:09:30,711] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 13:09:30,723] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 13:09:30,734] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 13:09:30,746] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:09:30,758] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:09:30,779] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 13:09:30,791] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 13:09:31,029] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,82,83,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 13:09:31,034] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 13:10:02,474] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 0
+[2023-11-10 13:10:27,818] [1  ] [710  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - 26500, Stop_Pos - 21500, interval - 20, OnReturnTrigger - True
+[2023-11-10 13:11:31,733] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 13:11:31,794] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 13:18:16,829] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:18:17,307] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:18:17,410] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:18:20,072] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 13:18:20,085] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 13:18:20,086] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 13:18:20,090] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 13:18:20,724] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 13:18:21,136] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 13:18:21,160] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 13:18:21,174] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 13:18:21,190] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 13:18:21,202] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 13:18:21,214] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 13:18:21,234] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 13:18:21,252] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 13:18:21,265] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 13:18:21,277] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 13:18:21,289] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 13:18:21,301] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:18:21,315] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:18:21,337] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 13:18:21,349] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 13:18:21,566] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,82,83,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 13:18:21,569] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 13:18:57,425] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SODX (?) [ 65 66 82 83 256 257 264 265 272 273 280 281 288 289 296 297 304 305 312 313 ]
+[2023-11-10 13:19:34,414] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 -4
+[2023-11-10 13:19:40,791] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 13:19:45,669] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 0
+[2023-11-10 13:24:34,960] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 13:24:36,802] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 13:24:40,759] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 13:24:44,021] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 13:25:14,186] [1  ] [611  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set encoder pos - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at POLAR.PrecitecControl.OneDAreaScan.SetTriggerEncoderPos(String EncoderPos, String axis) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 611
+[2023-11-10 13:26:06,647] [27 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 2, Description: Door opened, Alarm Module: DIO
+[2023-11-10 13:26:42,525] [1  ] [422  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - CHRocodileLib.Error: Cannot execute command or query - connection currently in recording mode.
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SendTriggerSetting(String axis, String StartPos, String StopPos, String intervalEncCount, Boolean triggerOnReturn) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 422
+[2023-11-10 13:26:48,598] [11 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 13:27:15,619] [1  ] [387  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set scan related parameters - CHRocodileLib.Error: error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.Connection.DeactivateAutoBufferMode() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 177
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.<>c__DisplayClass31_0.<StartScan>b__0() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 393
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at POLAR.PrecitecControl.OneDAreaScan.<StartScan>d__31.MoveNext() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 387
+[2023-11-10 13:28:37,565] [1  ] [422  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - CHRocodileLib.Error: error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.Connection.DeactivateAutoBufferMode() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 177
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SendTriggerSetting(String axis, String StartPos, String StopPos, String intervalEncCount, Boolean triggerOnReturn) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 422
+[2023-11-10 13:28:42,708] [1  ] [387  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set scan related parameters - CHRocodileLib.Error: error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.Connection.DeactivateAutoBufferMode() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 177
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.<>c__DisplayClass31_0.<StartScan>b__0() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 393
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at POLAR.PrecitecControl.OneDAreaScan.<StartScan>d__31.MoveNext() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 387
+[2023-11-10 13:30:17,559] [1  ] [611  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set encoder pos - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at POLAR.PrecitecControl.OneDAreaScan.SetTriggerEncoderPos(String EncoderPos, String axis) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 611
+[2023-11-10 13:30:38,455] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+[2023-11-10 13:31:22,451] [1  ] [422  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - CHRocodileLib.Error: error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.Connection.DeactivateAutoBufferMode() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 177
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SendTriggerSetting(String axis, String StartPos, String StopPos, String intervalEncCount, Boolean triggerOnReturn) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 422
+[2023-11-10 13:31:52,424] [1  ] [612  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set encoder pos - CHRocodileLib.Error: error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.Connection.DeactivateAutoBufferMode() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 177
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SetTriggerEncoderPos(String EncoderPos, String axis) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 612
+[2023-11-10 13:31:57,539] [1  ] [422  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - CHRocodileLib.Error: error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.Connection.DeactivateAutoBufferMode() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 177
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SendTriggerSetting(String axis, String StartPos, String StopPos, String intervalEncCount, Boolean triggerOnReturn) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 422
+[2023-11-10 13:32:06,533] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+[2023-11-10 13:32:31,039] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+[2023-11-10 13:32:59,185] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 13:33:04,247] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 13:33:13,163] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:33:13,605] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:33:13,734] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:33:17,547] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 13:33:17,551] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 13:33:17,553] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 13:33:17,556] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 13:33:18,197] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 13:33:18,648] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 13:33:18,665] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 13:33:18,679] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 13:33:18,696] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 13:33:18,707] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 13:33:18,721] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 13:33:18,741] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 13:33:18,760] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 13:33:18,772] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 13:33:18,784] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 13:33:18,795] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 13:33:18,806] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:33:18,818] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:33:18,838] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 13:33:18,851] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 13:33:19,088] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,82,83,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 13:33:19,091] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 13:34:25,630] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 26700
+[2023-11-10 13:34:45,329] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 26700
+[2023-11-10 13:36:28,541] [1  ] [612  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set encoder pos - CHRocodileLib.Error: Cannot execute command or query - connection currently in recording mode.
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SetTriggerEncoderPos(String EncoderPos, String axis) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 612
+[2023-11-10 13:36:45,124] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 13:39:03,018] [20 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 13:39:06,252] [4  ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 2, Description: Door opened, Alarm Module: DIO
+[2023-11-10 13:39:07,488] [12 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 13:39:28,560] [1  ] [612  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set encoder pos - CHRocodileLib.Error: Cannot execute command or query - connection currently in recording mode.
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SetTriggerEncoderPos(String EncoderPos, String axis) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 612
+[2023-11-10 13:39:35,080] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 13:39:47,411] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 13:39:56,289] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 13:40:01,463] [1  ] [145  ] [ERROR] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - CHRocodileLib.Error: error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.Connection.DeactivateAutoBufferMode() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 177
+   at CHRocodileLib.Connection.DetachRenewDataBuffer(Int32 newBufferSampleCount) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 74
+   at CHRocodileLib.SynchronousConnection.StopRecording() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 552
+   at POLAR.PrecitecControl.OneDAreaScan.CloseConnection() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 489
+   at PORLA.HMI.Main.ViewModels.MainWindowViewModel.OnDisconnectDevice(Boolean obj) in D:\Repo\ges-polar\PORLA.HMI.Main\ViewModels\MainWindowViewModel.cs:line 145
+[2023-11-10 13:40:07,814] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:40:08,271] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:40:08,399] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:40:11,652] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 13:40:11,657] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 13:40:11,658] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 13:40:11,661] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 13:40:12,297] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 13:40:12,727] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 13:40:12,743] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 13:40:12,759] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 13:40:12,777] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 13:40:12,789] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 13:40:12,801] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 13:40:12,821] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 13:40:12,839] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 13:40:12,851] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 13:40:12,863] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 13:40:12,875] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 13:40:12,889] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:40:12,901] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:40:12,923] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 13:40:12,936] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 13:40:13,131] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,82,83,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 13:40:13,133] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 13:40:27,055] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 26700
+[2023-11-10 13:40:34,161] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 26700
+[2023-11-10 13:41:04,738] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 19706
+[2023-11-10 13:41:46,035] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 26700
+[2023-11-10 13:43:20,966] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 13:43:21,017] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 13:44:02,524] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:44:03,010] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:44:03,127] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:44:05,743] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 13:44:05,756] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 13:44:05,757] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 13:44:05,762] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 13:44:06,379] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 13:44:06,795] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 13:44:06,818] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 13:44:06,834] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 13:44:06,849] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 13:44:06,860] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 13:44:06,872] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 13:44:06,892] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 13:44:06,910] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 13:44:06,922] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 13:44:06,934] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 13:44:06,946] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 13:44:06,958] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:44:06,970] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:44:06,993] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 13:44:07,013] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 13:44:07,220] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 13:44:07,221] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 13:44:58,436] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 26700
+[2023-11-10 13:45:09,978] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 26700
+[2023-11-10 13:45:18,102] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 26700
+[2023-11-10 13:47:59,444] [24 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 2, Description: Door opened, Alarm Module: DIO
+[2023-11-10 13:52:14,139] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:52:14,690] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:52:14,793] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:52:18,695] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 13:52:18,709] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 13:52:18,711] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 13:52:18,714] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 13:52:19,339] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 13:52:23,562] [1  ] [81   ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Openning connection 192.168.170.2 failed - error: Socket select error. (CHRocodileLib.Res_t)
+[2023-11-10 13:52:39,971] [12 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 13:52:43,643] [12 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 13:52:53,150] [18 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 2, Description: Door opened, Alarm Module: DIO
+[2023-11-10 13:52:55,162] [20 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 13:53:41,705] [1  ] [612  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set encoder pos - System.NullReferenceException: Object reference not set to an instance of an object.
+   at POLAR.PrecitecControl.OneDAreaScan.SetTriggerEncoderPos(String EncoderPos, String axis) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 612
+[2023-11-10 13:55:17,950] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:55:18,389] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:55:18,482] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:55:33,123] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 13:55:33,593] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 13:55:33,751] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 13:55:36,436] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 13:55:36,442] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 13:55:36,444] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 13:55:36,448] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 13:55:37,084] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 13:55:37,511] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 13:55:37,526] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 13:55:37,551] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 13:55:37,563] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 13:55:37,575] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 13:55:37,587] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 13:55:37,607] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 13:55:37,627] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 13:55:37,639] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 13:55:37,651] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 13:55:37,662] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 13:55:37,674] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:55:37,686] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 13:55:37,708] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 13:55:37,720] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 13:55:37,951] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 13:55:37,953] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 13:55:46,905] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 26700
+[2023-11-10 13:56:41,686] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 26700
+[2023-11-10 13:57:20,970] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 33394
+[2023-11-10 13:57:49,824] [9  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 13:57:49,860] [9  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 13:57:49,867] [9  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 13:59:53,016] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 26700
+[2023-11-10 13:59:59,873] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 26700
+[2023-11-10 14:00:14,790] [1  ] [387  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set scan related parameters - System.OverflowException: Arithmetic operation resulted in an overflow.
+   at CHRocodileLib.Data..ctor(Connection parent, Int64 bufSize) in D:\Repo\ges-polar\Common\CHRLibData.cs:line 191
+   at CHRocodileLib.Connection.DetachRenewDataBuffer(Int32 newBufferSampleCount) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 81
+   at CHRocodileLib.SynchronousConnection.StartRecording(Int32 recordingSampleCount) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 536
+   at POLAR.PrecitecControl.OneDAreaScan.<>c__DisplayClass31_0.<StartScan>b__0() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 395
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   at POLAR.PrecitecControl.OneDAreaScan.<StartScan>d__31.MoveNext() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 387
+[2023-11-10 14:06:34,645] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 0
+[2023-11-10 14:06:59,045] [24 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 2, Description: Door opened, Alarm Module: DIO
+[2023-11-10 14:07:30,836] [1  ] [612  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Cannot set encoder pos - CHRocodileLib.Error: error: Internal thread error! It may be caused by device connection problem. Please close connection and try to reconnect. (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 459
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SetTriggerEncoderPos(String EncoderPos, String axis) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 612
+[2023-11-10 14:07:33,721] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - error: Internal thread error! It may be caused by device connection problem. Please close connection and try to reconnect. (CHRocodileLib.Res_t)
+[2023-11-10 14:07:39,677] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 14:07:39,718] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 14:07:53,065] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 14:07:53,372] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 14:07:53,488] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 14:07:57,036] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 14:07:57,043] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 14:07:57,045] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 14:07:57,048] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 14:07:57,751] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 14:07:58,174] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 14:07:58,190] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 14:07:58,206] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 14:07:58,236] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 14:07:58,252] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 14:07:58,264] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 14:07:58,284] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 14:07:58,302] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 14:07:58,314] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 14:07:58,326] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 14:07:58,338] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 14:07:58,350] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 14:07:58,362] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 14:07:58,384] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 14:07:58,396] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 14:07:58,632] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 14:07:58,634] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 14:08:05,100] [1  ] [613  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Set encoder value: %EPS 0 0
+[2023-11-10 14:08:13,972] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 0
+[2023-11-10 14:08:16,570] [5  ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 14:08:33,119] [22 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 14:08:38,615] [19 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 14:08:40,945] [9  ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 14:08:49,441] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 -26696
+[2023-11-10 14:11:15,935] [9  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 14:11:15,959] [9  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 14:11:15,964] [9  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 14:26:37,262] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 14:26:37,708] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 14:26:37,817] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 14:26:40,509] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 14:26:40,522] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 14:26:40,528] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 14:26:40,532] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 14:26:41,169] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 14:26:41,597] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 14:26:41,613] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 14:26:41,628] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 14:26:41,643] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 14:26:41,655] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 14:26:41,667] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 14:26:41,688] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 14:26:41,709] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 14:26:41,722] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 14:26:41,735] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 14:26:41,788] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 14:26:41,799] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 14:26:41,811] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 14:26:41,831] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 14:26:41,847] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 14:26:42,054] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 14:26:42,056] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 14:26:58,639] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 14:27:07,952] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 810 ]
+[2023-11-10 14:27:16,952] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 0
+[2023-11-10 14:27:56,111] [1  ] [710  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -26500, Stop_Pos - -21500, interval - 20, OnReturnTrigger - True
+[2023-11-10 14:28:14,119] [29 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 14:28:14,141] [29 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 14:28:14,164] [29 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 14:49:37,978] [1  ] [710  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25820, Stop_Pos - -20820, interval - 2, OnReturnTrigger - True
+[2023-11-10 14:50:06,349] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 14:50:18,015] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 14:51:46,097] [1  ] [458  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - CHRocodileLib.Error: Cannot execute command or query - connection currently in recording mode.
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SendTriggerSetting(String axis, Int32 nStartPos, Int32 nStopPos, Single nInterval, Boolean triggerOnReturn) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 458
+[2023-11-10 14:54:21,715] [1  ] [458  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - CHRocodileLib.Error: Cannot execute command or query - connection currently in recording mode.
+   at CHRocodileLib.SynchronousConnection.Exec(Cmd_h cmdHandle) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 458
+   at CHRocodileLib.SynchronousCommandExecution.Exec(CmdID cmd, Object[] args) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 289
+   at POLAR.PrecitecControl.OneDAreaScan.SendTriggerSetting(String axis, Int32 nStartPos, Int32 nStopPos, Single nInterval, Boolean triggerOnReturn) in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 458
+[2023-11-10 14:54:43,838] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 14:54:43,934] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 14:55:28,160] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 14:55:28,697] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 14:55:28,812] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 14:55:32,215] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 14:55:32,219] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 14:55:32,221] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 14:55:32,226] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 14:55:32,881] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 14:55:33,353] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 14:55:33,369] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 14:55:33,397] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 14:55:33,408] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 14:55:33,420] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 14:55:33,432] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 14:55:33,450] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 14:55:33,470] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 14:55:33,486] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 14:55:33,500] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 14:55:33,511] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 14:55:33,522] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 14:55:33,534] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 14:55:33,557] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 14:55:33,569] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 14:55:33,783] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 14:55:33,785] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 14:55:42,351] [18 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 14:56:15,891] [1  ] [710  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -26500, Stop_Pos - -21500, interval - 20, OnReturnTrigger - True
+[2023-11-10 14:57:37,384] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - Cannot execute command or query - connection currently in recording mode.
+[2023-11-10 14:57:41,835] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 14:57:41,900] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 15:28:46,878] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 15:28:47,357] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 15:28:47,473] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 15:28:50,537] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 15:28:50,551] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 15:28:50,552] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 15:28:50,555] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 15:28:51,220] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 15:28:51,651] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 15:28:51,667] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 15:28:51,682] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 15:28:51,699] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 15:28:51,715] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 15:28:51,728] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 15:28:51,748] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 15:28:51,768] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 15:28:51,779] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 15:28:51,792] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 15:28:51,804] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 15:28:51,843] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 15:28:51,855] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 15:28:51,877] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 15:28:51,889] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 15:28:52,109] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 15:28:52,110] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 15:28:56,549] [5  ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 15:31:36,089] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 1
+[2023-11-10 15:31:41,934] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 15:32:57,417] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 15:32:57,469] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 15:33:33,104] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 15:33:33,484] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 15:33:33,590] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 15:33:37,136] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 15:33:37,154] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 15:33:37,155] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 15:33:37,159] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 15:33:37,817] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 15:33:38,297] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 15:33:38,315] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 15:33:38,330] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 15:33:38,346] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 15:33:38,357] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 15:33:38,369] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 15:33:38,404] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 15:33:38,422] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 15:33:38,454] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 15:33:38,468] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 15:33:38,480] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 15:33:38,495] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 15:33:38,507] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 15:33:38,527] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 15:33:38,541] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 15:33:38,752] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 15:33:38,753] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 15:34:07,384] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 -4
+[2023-11-10 15:34:12,207] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 15:34:34,728] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25820, Stop_Pos - -20820, interval - 2, OnReturnTrigger - True
+[2023-11-10 15:36:12,074] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 15:36:12,150] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 15:36:55,836] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 15:36:56,310] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 15:36:56,431] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 15:37:00,545] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 15:37:00,550] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 15:37:00,551] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 15:37:00,557] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 15:37:01,224] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 15:37:01,677] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 15:37:01,693] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 15:37:01,719] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 15:37:01,730] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 15:37:01,744] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 15:37:01,756] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 15:37:01,776] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 15:37:01,795] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 15:37:01,814] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 15:37:01,825] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 15:37:01,838] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 15:37:01,848] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 15:37:01,862] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 15:37:01,890] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 15:37:01,903] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 15:37:02,105] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 15:37:02,107] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 15:37:29,741] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 15:38:16,187] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25820, Stop_Pos - -20820, interval - 2, OnReturnTrigger - True
+[2023-11-10 15:38:32,868] [25 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 15:38:33,035] [25 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 15:38:33,172] [25 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 15:40:03,034] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 15:40:03,044] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 16:47:32,034] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 16:47:32,508] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 16:47:32,622] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 16:47:41,040] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-10 16:47:41,056] [1  ] [350  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-10 16:47:41,709] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 16:47:42,240] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 16:47:42,256] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 16:47:42,270] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 16:47:42,287] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 16:47:42,301] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 16:47:42,313] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 16:47:42,333] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 16:47:42,351] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 16:47:42,363] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 16:47:42,375] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 16:47:42,387] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 16:47:42,399] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 16:47:42,411] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 16:47:42,433] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 16:47:42,459] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 16:47:42,667] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 16:47:42,669] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 16:53:46,048] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 16:55:15,310] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 16:55:16,083] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 16:55:16,219] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 16:55:19,492] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 16:55:19,512] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 16:55:19,513] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 16:55:19,517] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 16:55:20,360] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 16:55:20,847] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 16:55:20,874] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 16:55:20,889] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 16:55:20,904] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 16:55:20,915] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 16:55:20,927] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 16:55:20,945] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 16:55:20,971] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 16:55:20,982] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 16:55:20,996] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 16:55:21,007] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 16:55:21,018] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 16:55:21,030] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 16:55:21,051] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 16:55:21,071] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 16:55:21,313] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 16:55:21,315] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 16:59:20,120] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 16:59:25,811] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC (?) 0 0
+[2023-11-10 16:59:37,010] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 810 ]
+[2023-11-10 16:59:57,184] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 20, OnReturnTrigger - True
+[2023-11-10 16:59:57,819] [26 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:00:27,277] [26 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 17:00:27,313] [26 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 17:00:27,357] [26 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 17:07:04,945] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:07:11,279] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD (?) [ 600 810 ]
+[2023-11-10 17:07:30,305] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:07:30,925] [30 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:08:19,011] [19 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 2, Description: Door opened, Alarm Module: DIO
+[2023-11-10 17:08:40,997] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 17:08:46,200] [1  ] [145  ] [ERROR] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - CHRocodileLib.Error: error: Timeout in (de)activating autobuffer mode (CHRocodileLib.Res_t)
+   at CHRocodileLib.Lib.Check(Res_t res, String msg) in D:\Repo\ges-polar\Common\CHRLibFunctions.cs:line 639
+   at CHRocodileLib.Connection.DeactivateAutoBufferMode() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 177
+   at CHRocodileLib.Connection.DetachRenewDataBuffer(Int32 newBufferSampleCount) in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 74
+   at CHRocodileLib.SynchronousConnection.StopRecording() in D:\Repo\ges-polar\Common\CHRLibConnection.cs:line 552
+   at POLAR.PrecitecControl.OneDAreaScan.CloseConnection() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 489
+   at PORLA.HMI.Main.ViewModels.MainWindowViewModel.OnDisconnectDevice(Boolean obj) in D:\Repo\ges-polar\PORLA.HMI.Main\ViewModels\MainWindowViewModel.cs:line 145
+[2023-11-10 17:08:51,251] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 17:09:40,250] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:09:40,738] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:09:40,850] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:09:48,892] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:09:48,902] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:09:48,903] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:09:48,906] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:09:49,550] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:09:49,993] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:09:50,011] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:09:50,040] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:09:50,051] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:09:50,065] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 17:09:50,077] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:09:50,095] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:09:50,115] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:09:50,127] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:09:50,139] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:09:50,152] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:09:50,164] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:09:50,176] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:09:50,198] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:09:50,211] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:09:50,449] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:09:50,452] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:10:30,382] [14 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 17:10:33,846] [23 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 17:10:34,186] [23 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 17:11:39,778] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD (?) [ 400 1100 ]
+[2023-11-10 17:11:49,357] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 800 ]
+[2023-11-10 17:11:54,481] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:12:20,844] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:12:21,472] [24 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:12:50,125] [10 ] [192  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - SetOutput - Set digital output failed
+[2023-11-10 17:12:50,190] [9  ] [171  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - RefreshDIO - Can not read status
+[2023-11-10 17:13:20,892] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 17:13:20,962] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 17:13:57,759] [1  ] [145  ] [ERROR] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at POLAR.PrecitecControl.OneDAreaScan.CloseConnection() in D:\Repo\ges-polar\POLAR.PrecitecControl\OneDAreaScan.cs:line 487
+   at PORLA.HMI.Main.ViewModels.MainWindowViewModel.OnDisconnectDevice(Boolean obj) in D:\Repo\ges-polar\PORLA.HMI.Main\ViewModels\MainWindowViewModel.cs:line 145
+[2023-11-10 17:14:02,528] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:14:03,004] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:14:03,095] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:14:12,485] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:14:12,492] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:14:12,494] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:14:12,497] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:14:13,118] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:14:13,625] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:14:13,641] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:14:13,667] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:14:13,679] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:14:13,693] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 17:14:13,705] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:14:13,725] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:14:13,745] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:14:13,757] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:14:13,769] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:14:13,780] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:14:13,791] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:14:13,803] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:14:13,825] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:14:13,837] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:14:14,040] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:14:14,042] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:14:20,673] [19 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 17:15:14,199] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:15:14,857] [22 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:16:26,475] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 17:16:26,556] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 17:17:26,864] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:17:27,347] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:17:27,466] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:17:34,313] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:17:34,318] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:17:34,319] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:17:34,323] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:17:34,972] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:17:35,418] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:17:35,436] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:17:35,449] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:17:35,466] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:17:35,478] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 17:17:35,490] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:17:35,510] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:17:35,530] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:17:35,541] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:17:35,557] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:17:35,570] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:17:35,582] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:17:35,594] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:17:35,614] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:17:35,638] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:17:35,841] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:17:35,843] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:18:36,899] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - error: Error in command response. (CHRocodileLib.Res_t)
+[2023-11-10 17:18:40,423] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:18:47,914] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 800 ]
+[2023-11-10 17:19:06,177] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:19:06,832] [18 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:20:04,430] [4  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 17:20:04,726] [4  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 17:20:04,968] [4  ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 17:22:05,109] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 800 ]
+[2023-11-10 17:22:11,722] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:22:26,949] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:22:27,574] [19 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:22:57,038] [21 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 17:22:57,295] [21 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 17:22:57,550] [21 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 17:23:33,137] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:23:36,923] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD (?) [ 600 800 ]
+[2023-11-10 17:24:04,703] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:24:05,331] [21 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:24:21,181] [25 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 17:24:21,440] [25 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 17:24:21,710] [25 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 17:26:29,454] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:26:34,846] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD (?) [ 600 800 ]
+[2023-11-10 17:26:49,947] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:26:50,567] [25 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:29:46,196] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:29:46,681] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:29:46,797] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:29:50,148] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:29:50,154] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:29:50,156] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:29:50,160] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:29:50,859] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:29:51,305] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:29:51,321] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:29:51,347] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:29:51,359] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:29:51,371] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 17:29:51,383] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:29:51,402] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:29:51,422] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:29:51,434] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:29:51,446] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:29:51,458] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:29:51,470] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:29:51,482] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:29:51,505] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:29:51,517] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:29:51,735] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:29:51,737] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:30:36,870] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - error: Error in command response. (CHRocodileLib.Res_t)
+[2023-11-10 17:30:40,515] [1  ] [654  ] [ERROR] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - error: Error in command response. (CHRocodileLib.Res_t)
+[2023-11-10 17:30:43,850] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:30:54,375] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 800 ]
+[2023-11-10 17:31:05,778] [5  ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 17:31:42,301] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:31:42,926] [4  ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:33:27,002] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 17:33:27,068] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 17:34:12,439] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:34:12,913] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:34:13,023] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:34:15,755] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:34:15,762] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:34:15,764] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:34:15,770] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:34:16,458] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:34:16,897] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:34:16,914] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:34:16,928] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:34:16,946] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:34:16,959] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 17:34:16,971] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:34:16,993] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:34:17,011] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:34:17,023] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:34:17,035] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:34:17,047] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:34:17,059] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:34:17,071] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:34:17,093] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:34:17,105] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:34:17,330] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:34:17,332] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:34:26,805] [4  ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 17:35:01,312] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:35:09,743] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 800 ]
+[2023-11-10 17:35:49,621] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:35:50,260] [12 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:38:34,132] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 17:38:34,202] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 17:46:27,270] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:46:27,616] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:46:27,716] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:46:30,706] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:46:30,720] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:46:30,722] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:46:30,729] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:46:31,440] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:46:31,879] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:46:31,905] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:46:31,919] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:46:31,936] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:46:31,949] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 17:46:31,961] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:46:31,981] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:46:32,001] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:46:32,012] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:46:32,024] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:46:32,036] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:46:32,048] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:46:32,060] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:46:32,084] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:46:32,096] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:46:32,343] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:46:32,345] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:47:11,086] [10 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 17:47:22,349] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:47:28,651] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 800 ]
+[2023-11-10 17:47:46,590] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:47:47,235] [4  ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &992232F
+
+[2023-11-10 17:50:18,777] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:50:19,583] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:50:19,705] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:50:23,201] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:50:23,226] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:50:23,229] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:50:23,233] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:50:24,116] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:50:26,680] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:50:26,705] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:50:26,726] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:50:26,739] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:50:26,758] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.9838
+[2023-11-10 17:50:26,772] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:50:26,802] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:50:26,851] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:50:26,866] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:50:26,882] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:50:26,896] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:50:26,934] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:50:26,952] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:50:26,972] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:50:26,984] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:50:27,102] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:50:27,104] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:50:31,600] [14 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 2, Description: Door opened, Alarm Module: DIO
+[2023-11-10 17:50:33,300] [17 ] [399  ] [INFO ] [PORLA.HMI.Module.ViewModels.AlarmPageViewModel                                       ] - Alarm Removed With Alarm ID: 6, Description: Safety circuit is violated, Alarm Module: DIO
+[2023-11-10 17:50:45,048] [15 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9949035
+
+[2023-11-10 17:50:56,983] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:51:02,285] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 800 ]
+[2023-11-10 17:51:24,448] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:51:25,082] [4  ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9947235
+
+[2023-11-10 17:51:54,260] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller
+[2023-11-10 17:51:54,324] [1  ] [147  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-11-10 17:52:45,467] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:52:46,024] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:52:46,130] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:52:51,360] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:52:51,365] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:52:51,367] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:52:51,370] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:52:52,015] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:52:52,455] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:52:52,472] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:52:52,488] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:52:52,503] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:52:52,514] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 17:52:52,526] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:52:52,546] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:52:52,566] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:52:52,578] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:52:52,592] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:52:52,603] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:52:52,617] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:52:52,630] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:52:52,653] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:52:52,665] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:52:52,896] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:52:52,898] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:53:18,450] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:55:02,543] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-10 17:55:02,979] [1  ] [83   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-10 17:55:03,093] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-10 17:55:07,969] [1  ] [125  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - connected to IAI motion
+[2023-11-10 17:55:07,990] [1  ] [126  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Axis pattern: 03
+[2023-11-10 17:55:07,991] [1  ] [127  ] [INFO ] [POLAR.IAIMotionControl.IAIMotion                                                     ] - Set Speed - 0032 and Acc/Dcc - 001E
+[2023-11-10 17:55:07,995] [1  ] [345  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - SVON
+[2023-11-10 17:55:08,629] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-10 17:55:09,070] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SCAN 6 0 0 0
+[2023-11-10 17:55:09,089] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 1 15
+[2023-11-10 17:55:09,105] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: NOP 10
+[2023-11-10 17:55:09,121] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: POD 1
+[2023-11-10 17:55:09,133] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LAI 94.95
+[2023-11-10 17:55:09,145] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: GAN 1
+[2023-11-10 17:55:09,174] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: SRI [ 1 ]
+[2023-11-10 17:55:09,194] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ABE [ 0 ]
+[2023-11-10 17:55:09,206] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVS 1
+[2023-11-10 17:55:09,219] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: AVD 1
+[2023-11-10 17:55:09,231] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: LMA 1
+[2023-11-10 17:55:09,244] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTI 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:55:09,256] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: FLTC 0 0 0 0 0 0 0 -64 128 -64 0 0 0 0 0 0 0
+[2023-11-10 17:55:09,277] [1  ] [238  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set measure mode - Interferometric - MMD 1
+[2023-11-10 17:55:09,302] [1  ] [223  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set scan rate 50000
+[2023-11-10 17:55:09,521] [1  ] [267  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Set Device Ouput - 65,66,256,257,264,265,272,273,280,281,288,289,296,297,304,305,312,313
+[2023-11-10 17:55:09,524] [1  ] [98   ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Precitec: Initialized!
+[2023-11-10 17:55:28,044] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:55:32,930] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: DWD [ 600 800 ]
+[2023-11-10 17:56:15,590] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:56:51,947] [11 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 17:56:52,327] [11 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 17:56:52,652] [11 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 17:58:18,133] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 17:58:36,341] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 17:59:23,176] [28 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 17:59:23,533] [18 ] [262  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - &9948C47
+
+[2023-11-10 17:59:23,600] [28 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 17:59:24,050] [28 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 18:00:24,515] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 18:00:38,468] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 18:01:25,338] [24 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 18:01:25,810] [24 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 18:01:26,256] [24 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 18:02:21,074] [1  ] [655  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD - Respone Command: ENC 0 0
+[2023-11-10 18:03:15,330] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 18:04:23,125] [24 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 18:04:23,832] [24 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 18:04:24,522] [24 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 18:06:10,719] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 18:08:21,356] [23 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 18:08:22,691] [23 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 18:08:24,083] [23 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 18:09:39,670] [5  ] [192  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - SetOutput - Set digital output failed
+[2023-11-10 18:09:39,695] [27 ] [171  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - RefreshDIO - Can not read status
+[2023-11-10 18:09:52,001] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 18:12:02,676] [27 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 18:12:04,017] [27 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 18:12:05,395] [27 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 18:12:44,887] [1  ] [711  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Set parameter for enc x axis trigger: Start_Pos - -25600, Stop_Pos - -20800, interval - 2, OnReturnTrigger - True
+[2023-11-10 18:13:14,958] [19 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 256 - 2
+[2023-11-10 18:13:15,236] [19 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 264 - 4
+[2023-11-10 18:13:15,488] [19 ] [544  ] [INFO ] [POLAR.PrecitecControl.OneDAreaScan                                                   ] - OneD_AreaScan - Save Data with index: 65 - 0, 66 -  1, 272 - 6
+[2023-11-10 18:14:03,699] [1  ] [335  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Disconnect IAI motion controller

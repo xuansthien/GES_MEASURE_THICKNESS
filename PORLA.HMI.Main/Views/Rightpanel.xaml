@@ -1,0 +1,171 @@
+﻿<UserControl x:Class="PORLA.HMI.Main.Views.Rightpanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="#EDEDED"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d"
+             d:DesignHeight="700"
+             d:DesignWidth="100">
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid>
+           
+           
+        </Grid>
+        
+        <StackPanel Grid.Row="1" VerticalAlignment="Bottom">
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="VersionPage"
+                       Margin="3"
+                       Height="60"
+                       Name="btnhelp"
+                       VerticalAlignment="Center"
+                       BorderThickness="0.75"
+                       BorderBrush="DimGray">
+               
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#D6D6D6"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.pageLogin}"
+                                         Value="VersionPage">
+                                <Setter Property="Background"
+                                        Value="#B2CAFE" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <StackPanel Height="55"
+                                Width="90"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                Orientation="Vertical"
+                                Margin="0">
+                        <TextBlock FontSize="13"
+                                   Foreground="#333333"
+                                   FontWeight="Normal"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Margin="0">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text"
+                                            Value="Version" />
+
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppServiceInstance.language}"
+                                                     Value="Vietnamese">
+                                            <Setter Property="Text"
+                                                    Value="Phiên Bản" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <materialDesign:PackIcon Kind="InformationOutline"
+                                                 VerticalAlignment="Center"
+                                                 HorizontalAlignment="Center"
+                                                 Foreground="#333333"
+                                                 Width="30"
+                                                 Height="30" />
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="AccountPage"
+                       Margin="3,3,3,0"
+                       Height="60"
+                       Name="btnLogin"
+                       BorderThickness="0.75"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray">
+                <!--<Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1"
+                                         StartPoint="0.5,0">
+                        <GradientStop Color="#FFFFFEFE"
+                                      Offset="0.005" />
+                        <GradientStop Color="White"
+                                      Offset="0.996" />
+                        <GradientStop Color="#FFD0D0D0"
+                                      Offset="0.497" />
+                    </LinearGradientBrush>
+                </Button.Background>-->
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#D6D6D6"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.pageLogin}"
+                                         Value="AccountPage">
+                                <Setter Property="Background"
+                                        Value="#B2CAFE" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </Button.Style>
+                <Button.Content>
+                    <StackPanel Height="55"
+                                Width="90"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                Orientation="Vertical"
+                                Margin="0">
+                        <TextBlock FontSize="13"
+                                   Foreground="#333333"
+                                   FontWeight="Normal"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Margin="0">
+                            <TextBlock.Style>
+                                <Style TargetType="TextBlock">
+                                    <Setter Property="Text"
+                                            Value="User" />
+
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding AppServiceInstance.language}"
+                                                     Value="Vietnamese">
+                                            <Setter Property="Text"
+                                                    Value="Tài Khoản" />
+                                        </DataTrigger>
+                                    </Style.Triggers>
+
+                                </Style>
+                            </TextBlock.Style>
+                        </TextBlock>
+                        <materialDesign:PackIcon Kind="AccountCogOutline"
+                                                 VerticalAlignment="Center"
+                                                 HorizontalAlignment="Center"
+                                                 Foreground="#333333"
+                                                 Width="30"
+                                                 Height="30" />
+                    </StackPanel>
+                </Button.Content>
+            </Button>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

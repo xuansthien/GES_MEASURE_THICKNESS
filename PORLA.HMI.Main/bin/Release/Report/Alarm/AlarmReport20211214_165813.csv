@@ -1,0 +1,14 @@
+ID,AlarmID,AlarmTime,AlarmClearedTime,Category,Source,Description
+24,Channel1.PLCOmron.A0,12/14/2021 3:54:30 PM,12/14/2021 3:54:37 PM,Error,System,Camera Not Connected
+25,Channel1.PLCOmron.A0,12/14/2021 3:55:29 PM,12/14/2021 3:55:50 PM,Error,System,Camera Not Connected
+26,Channel1.PLCOmron.A0,12/14/2021 3:56:52 PM,12/14/2021 3:56:56 PM,Error,System,Camera Not Connected
+27,Channel1.PLCOmron.A1,12/14/2021 3:56:52 PM,12/14/2021 3:56:56 PM,Error,System,PLC Not Connected
+28,Channel1.PLCOmron.A0,12/14/2021 3:56:52 PM,12/14/2021 3:56:57 PM,Error,System,Camera Not Connected
+29,Channel1.PLCOmron.A1,12/14/2021 3:56:52 PM,12/14/2021 3:56:57 PM,Error,System,PLC Not Connected
+30,Channel1.PLCOmron.A0,12/14/2021 3:56:52 PM,12/14/2021 3:56:58 PM,Error,System,Camera Not Connected
+31,Channel1.PLCOmron.A1,12/14/2021 3:56:52 PM,12/14/2021 3:56:58 PM,Error,System,PLC Not Connected
+32,Channel1.PLCOmron.A0,12/14/2021 3:59:06 PM,12/14/2021 3:59:20 PM,Error,System,Camera Not Connected
+33,Channel1.PLCOmron.A1,12/14/2021 3:59:06 PM,12/14/2021 3:59:20 PM,Error,System,PLC Not Connected
+34,Channel1.PLCOmron.A1,12/14/2021 4:56:29 PM,12/14/2021 4:56:42 PM,Error,System,PLC Not Connected
+35,Channel1.PLCOmron.A1,12/14/2021 4:56:46 PM,12/14/2021 4:57:42 PM,Error,System,PLC Not Connected
+36,Channel1.PLCOmron.A0,12/14/2021 4:56:13 PM,12/14/2021 4:57:48 PM,Error,System,Camera Not Connected

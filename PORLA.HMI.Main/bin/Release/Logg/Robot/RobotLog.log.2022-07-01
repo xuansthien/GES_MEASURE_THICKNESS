@@ -1,0 +1,162 @@
+[2022-07-01 08:30:31,781] [DEBUG] [ROBOT] - Regain start
+[2022-07-01 08:30:31,797] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 08:30:31,800] [INFO] [ROBOT] - Auto
+[2022-07-01 08:30:36,953] [INFO] [ROBOT] - Stopped
+[2022-07-01 08:30:37,603] [DEBUG] [ROBOT] - Regain ready
+[2022-07-01 08:30:38,310] [DEBUG] [ROBOT] - Program started
+[2022-07-01 08:30:39,003] [INFO] [ROBOT] - Running
+[2022-07-01 08:30:39,530] [DEBUG] [ROBOT] - Emergency stop state
+[2022-07-01 08:32:44,788] [DEBUG] [ROBOT] - Program stopped
+[2022-07-01 08:42:55,776] [DEBUG] [ROBOT] - System shutdown initiated
+[2022-07-01 09:16:06,186] [INFO] [ROBOT] - Stopped
+[2022-07-01 09:16:06,711] [DEBUG] [ROBOT] - System restarted
+[2022-07-01 09:16:07,509] [DEBUG] [ROBOT] - Missing time zone information
+[2022-07-01 09:16:08,177] [INFO] [ROBOT] - Running
+[2022-07-01 09:16:08,692] [DEBUG] [ROBOT] - Program restarted
+[2022-07-01 09:18:29,750] [DEBUG] [ROBOT] - Program stopped
+[2022-07-01 09:26:16,445] [DEBUG] [ROBOT] - Program stopped
+[2022-07-01 09:26:16,538] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 09:26:16,540] [INFO] [ROBOT] - Auto
+[2022-07-01 09:31:30,872] [DEBUG] [ROBOT] - Program stopped
+[2022-07-01 09:31:30,888] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 09:31:30,894] [INFO] [ROBOT] - Auto
+[2022-07-01 09:41:18,670] [INFO] [ROBOT] - Stopped
+[2022-07-01 09:41:19,141] [DEBUG] [ROBOT] - Time for service
+[2022-07-01 09:41:19,924] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 09:41:20,624] [INFO] [ROBOT] - Running
+[2022-07-01 09:41:21,171] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 09:41:42,482] [INFO] [ROBOT] - Stopped
+[2022-07-01 09:41:42,698] [INFO] [ROBOT] - GuardStop
+[2022-07-01 09:41:42,703] [INFO] [ROBOT] - ManualReducedSpeed
+[2022-07-01 09:41:42,888] [DEBUG] [ROBOT] - Regain start
+[2022-07-01 09:47:31,962] [DEBUG] [ROBOT] - Regain start
+[2022-07-01 09:47:31,978] [INFO] [ROBOT] - GuardStop
+[2022-07-01 09:47:31,981] [INFO] [ROBOT] - ManualReducedSpeed
+[2022-07-01 09:47:51,769] [INFO] [ROBOT] - MotorsOff
+[2022-07-01 09:47:51,772] [INFO] [ROBOT] - AutoChange
+[2022-07-01 09:47:51,939] [DEBUG] [ROBOT] - Program restarted
+[2022-07-01 09:47:56,583] [INFO] [ROBOT] - Auto
+[2022-07-01 09:47:56,791] [DEBUG] [ROBOT] - Short movements
+[2022-07-01 09:48:24,060] [DEBUG] [ROBOT] - Program stopped
+[2022-07-01 09:48:24,237] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 09:48:24,347] [DEBUG] [ROBOT] - Safety guard stop state
+[2022-07-01 09:48:24,434] [INFO] [ROBOT] - Running
+[2022-07-01 09:48:24,817] [DEBUG] [ROBOT] - Auto Stop open
+[2022-07-01 09:48:25,306] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 10:28:40,899] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 10:28:40,927] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:28:40,934] [INFO] [ROBOT] - Auto
+[2022-07-01 10:29:44,408] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 10:29:44,433] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:29:44,436] [INFO] [ROBOT] - Auto
+[2022-07-01 10:30:37,253] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:30:37,258] [INFO] [ROBOT] - Auto
+[2022-07-01 10:35:48,599] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 10:35:48,619] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:35:48,839] [INFO] [ROBOT] - Auto
+[2022-07-01 10:39:09,542] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:39:09,546] [INFO] [ROBOT] - Auto
+[2022-07-01 10:42:28,678] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 10:42:28,702] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:42:28,928] [INFO] [ROBOT] - Auto
+[2022-07-01 10:44:34,480] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 10:44:34,508] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:44:34,721] [INFO] [ROBOT] - Auto
+[2022-07-01 10:48:42,464] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 10:48:42,509] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:48:42,514] [INFO] [ROBOT] - Auto
+[2022-07-01 10:48:46,000] [INFO] [ROBOT] - Stopped
+[2022-07-01 10:48:46,535] [DEBUG] [ROBOT] - Regain start
+[2022-07-01 10:48:47,349] [DEBUG] [ROBOT] - Regain ready
+[2022-07-01 10:48:48,074] [INFO] [ROBOT] - Running
+[2022-07-01 10:48:48,590] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-07-01 10:49:07,579] [INFO] [ROBOT] - Stopped
+[2022-07-01 10:49:08,195] [DEBUG] [ROBOT] - Regain start
+[2022-07-01 10:49:09,104] [INFO] [ROBOT] - GuardStop
+[2022-07-01 10:49:09,223] [DEBUG] [ROBOT] - Program started
+[2022-07-01 10:49:09,396] [DEBUG] [ROBOT] - Program started
+[2022-07-01 10:51:28,976] [INFO] [ROBOT] - MotorsOff
+[2022-07-01 10:51:29,198] [DEBUG] [ROBOT] - Short movements
+[2022-07-01 10:51:37,566] [DEBUG] [ROBOT] - Safety guard stop state
+[2022-07-01 10:51:37,783] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:51:37,892] [DEBUG] [ROBOT] - Emergency stop state
+[2022-07-01 10:51:38,126] [INFO] [ROBOT] - Running
+[2022-07-01 10:51:38,770] [DEBUG] [ROBOT] - Emergency stop state
+[2022-07-01 10:51:39,354] [DEBUG] [ROBOT] - Emergency stop state
+[2022-07-01 10:52:20,070] [INFO] [ROBOT] - Stopped
+[2022-07-01 10:52:20,577] [DEBUG] [ROBOT] - Auto Stop open
+[2022-07-01 10:52:21,744] [INFO] [ROBOT] - GuardStop
+[2022-07-01 10:52:21,861] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 10:52:59,252] [INFO] [ROBOT] - EmergencyStop
+[2022-07-01 10:52:59,411] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 10:53:17,667] [INFO] [ROBOT] - EmergencyStopReset
+[2022-07-01 10:53:20,090] [INFO] [ROBOT] - MotorsOff
+[2022-07-01 10:53:20,282] [DEBUG] [ROBOT] - Regain start
+[2022-07-01 10:53:48,634] [DEBUG] [ROBOT] - Regain ready
+[2022-07-01 10:53:48,938] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 10:53:49,054] [DEBUG] [ROBOT] - Program restarted
+[2022-07-01 10:53:49,126] [INFO] [ROBOT] - Running
+[2022-07-01 10:53:49,641] [DEBUG] [ROBOT] - Safety guard stop state
+[2022-07-01 10:53:49,981] [DEBUG] [ROBOT] - Program stopped
+[2022-07-01 11:11:50,480] [DEBUG] [ROBOT] - Auto Stop open
+[2022-07-01 11:19:31,766] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 11:31:12,623] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 11:31:12,653] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 11:31:12,660] [INFO] [ROBOT] - Auto
+[2022-07-01 11:38:08,881] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 11:38:08,907] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 11:38:08,911] [INFO] [ROBOT] - Auto
+[2022-07-01 11:39:54,623] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 11:39:54,650] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 11:39:54,655] [INFO] [ROBOT] - Auto
+[2022-07-01 11:49:35,120] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 11:49:35,142] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 11:49:35,145] [INFO] [ROBOT] - Auto
+[2022-07-01 11:51:19,655] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 11:51:19,677] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 11:51:19,681] [INFO] [ROBOT] - Auto
+[2022-07-01 12:07:20,605] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 12:07:20,629] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 12:07:20,632] [INFO] [ROBOT] - Auto
+[2022-07-01 12:16:02,267] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 12:16:02,287] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 12:16:02,294] [INFO] [ROBOT] - Auto
+[2022-07-01 12:16:48,200] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 12:16:48,246] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 12:16:48,248] [INFO] [ROBOT] - Auto
+[2022-07-01 12:17:29,058] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 12:17:29,061] [INFO] [ROBOT] - Auto
+[2022-07-01 12:18:44,803] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 12:18:44,824] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 12:18:44,827] [INFO] [ROBOT] - Auto
+[2022-07-01 14:10:34,363] [DEBUG] [ROBOT] - Regain ready
+[2022-07-01 14:10:34,386] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 14:10:34,390] [INFO] [ROBOT] - Auto
+[2022-07-01 14:10:55,934] [INFO] [ROBOT] - Stopped
+[2022-07-01 14:10:56,293] [DEBUG] [ROBOT] - Program started
+[2022-07-01 14:10:57,433] [DEBUG] [ROBOT] - Program stopped
+[2022-07-01 14:10:57,957] [INFO] [ROBOT] - Running
+[2022-07-01 14:10:58,285] [DEBUG] [ROBOT] - Regain ready
+[2022-07-01 14:12:36,933] [INFO] [ROBOT] - Stopped
+[2022-07-01 14:12:37,360] [DEBUG] [ROBOT] - Program started
+[2022-07-01 14:12:38,625] [DEBUG] [ROBOT] - Program stopped
+[2022-07-01 14:12:38,992] [INFO] [ROBOT] - Running
+[2022-07-01 14:12:39,414] [DEBUG] [ROBOT] - Regain ready
+[2022-07-01 14:13:52,200] [DEBUG] [ROBOT] - Program started
+[2022-07-01 14:18:18,365] [DEBUG] [ROBOT] - Program started
+[2022-07-01 14:18:18,388] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 14:18:18,394] [INFO] [ROBOT] - Auto
+[2022-07-01 14:38:13,088] [DEBUG] [ROBOT] - Program started
+[2022-07-01 14:38:13,104] [INFO] [ROBOT] - MotorsOn
+[2022-07-01 14:38:13,107] [INFO] [ROBOT] - Auto
+[2022-07-01 14:38:45,342] [INFO] [ROBOT] - Stopped
+[2022-07-01 14:38:45,949] [DEBUG] [ROBOT] - Short movements
+[2022-07-01 14:38:46,629] [DEBUG] [ROBOT] - Safety guard stop state
+[2022-07-01 14:38:47,376] [INFO] [ROBOT] - Running
+[2022-07-01 14:38:47,816] [DEBUG] [ROBOT] - Motors OFF state
+[2022-07-01 14:38:49,074] [DEBUG] [ROBOT] - PP to Main rejected
+[2022-07-01 14:39:36,330] [INFO] [ROBOT] - Stopped
+[2022-07-01 14:39:37,016] [DEBUG] [ROBOT] - Motors ON state
+[2022-07-01 14:39:37,811] [DEBUG] [ROBOT] - Regain start
+[2022-07-01 14:39:38,507] [INFO] [ROBOT] - Running
+[2022-07-01 14:39:38,957] [DEBUG] [ROBOT] - Program stopped

@@ -1,0 +1,9 @@
+ID,AlarmID,AlarmTime,AlarmClearedTime,Category,Source,Description
+73,A3,6/29/2022 11:36:51 AM,6/29/2022 11:40:39 AM,Error,System,Cover Right Open
+74,A20,6/29/2022 11:36:47 AM,6/29/2022 11:41:05 AM,Warning,System,Service Key in Teach Mode
+75,A3,6/29/2022 12:03:31 PM,6/29/2022 12:04:01 PM,Error,System,Cover Right Open
+76,A7,6/29/2022 12:03:31 PM,6/29/2022 12:04:03 PM,Error,Robot,Robot Error
+77,A10,6/29/2022 12:03:54 PM,6/29/2022 12:05:15 PM,Error,Actuator,Actuator Error
+78,A20,6/29/2022 1:35:19 PM,6/29/2022 1:35:48 PM,Warning,System,Service Key in Teach Mode
+79,A3,6/29/2022 1:35:25 PM,6/29/2022 1:35:49 PM,Error,System,Cover Right Open
+80,A20,6/29/2022 11:52:51 PM,6/30/2022 7:20:44 AM,Warning,System,Service Key in Teach Mode

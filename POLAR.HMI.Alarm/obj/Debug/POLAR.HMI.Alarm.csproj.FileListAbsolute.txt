@@ -1,0 +1,66 @@
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm_MarkupCompile.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.HMI.Alarm.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.HMI.Alarm.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignColors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignColors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.Wpf.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\Views\AlarmTestPage.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\Views\AlarmTestPage.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.g.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.csproj.CopyComplete
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\log4net.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.EventAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.EventAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\log4net.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.HMI.Alarm.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.HMI.Alarm.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\log4net.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignColors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.EventAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.EventAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\log4net.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignColors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\bin\Debug\Prism.Wpf.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\Views\AlarmTestPage.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\Views\AlarmTestPage.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm_MarkupCompile.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.g.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.csproj.CopyComplete
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.HMI.Alarm\obj\Debug\POLAR.HMI.Alarm.pdb

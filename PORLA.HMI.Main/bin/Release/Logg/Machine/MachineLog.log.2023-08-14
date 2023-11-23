@@ -1,0 +1,122 @@
+[2023-08-14 08:32:19,732] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 08:32:19,739] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 08:32:22,070] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 08:32:23,094] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 08:57:02,213] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 08:57:02,218] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 08:57:04,232] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 08:57:05,259] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 09:06:05,460] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 09:06:05,465] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 09:06:07,126] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 09:06:08,148] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 10:42:25,236] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 10:42:25,241] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 10:42:27,073] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 10:42:28,095] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 11:14:33,965] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 11:14:33,971] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 11:14:35,808] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 11:14:36,825] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 11:17:01,730] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 11:17:01,736] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 11:17:03,323] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 11:17:04,347] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 12:35:18,801] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 12:35:18,806] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 12:35:20,650] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 12:35:21,672] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 13:42:10,800] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 13:42:10,806] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 13:42:12,630] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 13:42:13,658] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 14:12:19,361] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 14:12:19,366] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 14:12:21,272] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 14:12:22,294] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 14:14:41,837] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 14:14:41,842] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 14:14:43,666] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 14:14:44,689] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 14:19:10,002] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 14:19:10,007] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 14:19:11,632] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 14:19:12,661] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 14:44:14,654] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 14:44:14,659] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 14:44:16,454] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 14:44:17,478] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 14:47:29,937] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 14:47:29,944] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 14:47:31,584] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 14:47:32,606] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 14:49:15,437] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 14:49:15,443] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 14:49:17,005] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 14:49:18,026] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 14:51:34,889] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 14:51:34,895] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 14:51:36,716] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 14:51:37,743] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 15:40:24,286] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 15:40:24,291] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 15:40:26,168] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 15:40:27,195] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 15:47:56,058] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 15:47:56,064] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 15:49:11,124] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 15:49:11,130] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 15:53:58,947] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 15:53:58,952] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 15:54:00,543] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 15:54:01,567] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 15:55:39,158] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 15:55:39,163] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 15:57:18,035] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 15:57:18,040] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 15:59:08,269] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 15:59:08,274] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:04:20,352] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:04:20,358] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:04:22,084] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 16:04:23,107] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 16:04:47,013] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:04:47,018] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:06:38,136] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:06:38,141] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:08:24,854] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:08:24,859] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:10:04,867] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:10:04,872] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:11:19,014] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:11:19,019] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:14:30,513] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:14:30,518] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:18:16,178] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:18:16,183] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:22:57,556] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:22:57,561] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:22:59,216] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 16:23:00,237] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 16:23:32,658] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:23:32,663] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:25:26,680] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:25:26,686] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:28:21,307] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:28:21,313] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:42:00,257] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:42:00,263] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:42:54,155] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:42:54,160] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:51:55,853] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:51:55,857] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:51:57,586] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 16:51:58,610] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 16:53:06,669] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:53:06,673] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:53:08,161] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-14 16:53:09,183] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-14 16:53:38,687] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:53:38,693] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-14 16:55:22,144] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-14 16:55:22,148] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:

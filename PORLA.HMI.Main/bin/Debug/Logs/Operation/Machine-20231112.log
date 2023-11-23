@@ -1,0 +1,183 @@
+﻿[2023-11-12 15:15:08,722] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 15:15:10,780] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 15:15:12,170] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 15:18:17,213] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 15:18:19,372] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 15:18:20,781] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 15:18:33,783] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 15:18:33,799] [1  ] [355  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 15:18:34,441] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 15:18:35,107] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 15:23:06,251] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 15:23:07,884] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 15:23:09,157] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 15:23:22,200] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 15:23:22,217] [1  ] [355  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 15:23:22,686] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 15:23:23,143] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 20:38:04,278] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 20:38:06,214] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 20:38:07,563] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 20:38:20,534] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 20:38:20,550] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 20:38:21,145] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 20:38:21,826] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 20:39:38,772] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 20:39:40,520] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 20:39:41,826] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 20:39:54,871] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 20:39:55,067] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 20:39:55,831] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 20:39:56,509] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 20:40:27,600] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 20:40:29,252] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 20:40:30,510] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 20:40:42,861] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 20:40:42,876] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 20:40:43,336] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 20:40:43,922] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 20:43:44,281] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 20:43:45,827] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 20:43:47,103] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 20:43:59,953] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 20:43:59,969] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 20:44:00,439] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 20:44:00,982] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 20:48:52,130] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 20:48:53,752] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 20:48:55,063] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 20:49:07,791] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 20:49:07,808] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 20:49:08,197] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 20:49:08,678] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 20:55:08,356] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 20:55:10,148] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 20:55:11,500] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 20:55:24,716] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 20:55:24,730] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 20:55:25,406] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 20:55:26,054] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 20:57:23,675] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 20:57:25,456] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 20:57:26,706] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 20:58:17,402] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 20:58:17,419] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 20:58:17,799] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 20:58:18,294] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 20:59:34,825] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 20:59:36,481] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 20:59:37,736] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 20:59:58,520] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 20:59:58,533] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 20:59:58,946] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 20:59:59,552] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 22:28:36,982] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 22:28:38,785] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 22:28:40,113] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 22:28:53,203] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 22:28:53,221] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 22:28:53,966] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 22:28:54,632] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 22:29:08,959] [1  ] [464  ] [INFO ] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - init
+{
+	$OFN 0 1;
+	$SODX 65 66 67 68 69 82 83 256 257 264 265 272 273 280 281 288 289 296 297 304 305 312 313;
+	// 256 -  Thickness 1, 264 -  Thickness 2, 272 - Thickness 3, 83 Sample Counter, 82 Intensity, 65-69 - Encoder
+}
+
+fn main(scanFreq= 50000) //Frequency the mirror speed is based on, should for must purposes be the same as the SHZ setting of the CHRocodile
+{
+	setFrequency(50000)
+	exposure(50000, 50)	//50 KHz, LAI 50
+	rect(x0=-25,y0=-25,x1=25,y1=25,nCols=875,nRows=1500,interp=0,waitAtBegin=15000,waitAtEnd=250,label="AreaScan 1")
+}
+
+[2023-11-12 22:29:08,974] [1  ] [464  ] [INFO ] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - init
+{
+	$OFN 0 1;
+	$SODX 65 66 67 68 69 82 83 256 257 264 265 272 273 280 281 288 289 296 297 304 305 312 313;
+	// 256 -  Thickness 1, 264 -  Thickness 2, 272 - Thickness 3, 83 Sample Counter, 82 Intensity, 65-69 - Encoder
+}
+
+fn main(scanFreq= 50000) //Frequency the mirror speed is based on, should for must purposes be the same as the SHZ setting of the CHRocodile
+{
+	setFrequency(50000)
+	exposure(50000, 50)	//50 KHz, LAI 50
+	rect(x0=-25,y0=-25,x1=25,y1=25,nCols=1,nRows=1,interp=0,waitAtBegin=15000,waitAtEnd=250,label="AreaScan 1")
+}
+
+[2023-11-12 22:29:41,196] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 22:29:42,891] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 22:29:48,523] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 22:29:48,532] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 22:29:49,041] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 22:29:49,577] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 22:30:21,643] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 22:30:23,309] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 22:30:24,590] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 22:30:32,169] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 22:30:32,178] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 22:30:32,579] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 22:30:33,084] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 22:36:27,776] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 22:36:29,465] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 22:36:30,740] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 22:36:39,239] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 22:36:39,256] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 22:36:39,627] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 22:36:40,155] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 22:41:19,373] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 22:41:21,189] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 22:41:22,513] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 22:41:30,443] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 22:41:30,458] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 22:41:31,046] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 22:41:31,772] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 22:48:33,692] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 22:48:35,270] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 22:48:36,540] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 22:48:43,695] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 22:48:43,714] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 22:48:44,118] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 22:48:44,616] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete
+[2023-11-12 22:50:18,556] [1  ] [81   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-12 22:50:20,213] [1  ] [90   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connect is failure
+[2023-11-12 22:50:21,485] [1  ] [126  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connect is failure
+[2023-11-12 22:50:28,943] [1  ] [107  ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.TimeoutException: Timeout connecting to 192.168.1.19:64516
+   at SuperSimpleTcp.SimpleTcpClient.Connect()
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 107
+[2023-11-12 22:50:28,958] [1  ] [378  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-12 22:50:29,413] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-12 22:50:29,914] [1  ] [27   ] [INFO ] [PORLA.HMI.Module.DataService.DataHandle.DataHandle                                   ] - Module DataHandler Initialize Complete

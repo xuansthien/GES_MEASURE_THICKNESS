@@ -1,0 +1,80 @@
+﻿<Window x:Class="PORLA.HMI.Main.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:prism="http://prismlibrary.com/"
+        prism:ViewModelLocator.AutoWireViewModel="True"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Title="PORLA"
+        Height="1024"
+        Width="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.3*"></RowDefinition>
+            <RowDefinition Height="12*"></RowDefinition>
+            <RowDefinition Height="0.9*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0"
+                BorderBrush="#414141"
+                BorderThickness="0">
+            <ContentControl Grid.Row="0"
+                            prism:RegionManager.RegionName="TopPanelRegion" />
+        </Border>
+        <Border Grid.Row="2"
+                BorderBrush="#414141"
+                BorderThickness="0">
+            <ContentControl prism:RegionManager.RegionName="BottomPanelRegion" />
+
+        </Border>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="11.5*"></ColumnDefinition>
+                <ColumnDefinition Width="120"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.7*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Border Grid.Column="0"
+                    Grid.RowSpan="2"
+                    BorderBrush="DimGray"
+                    BorderThickness="1"
+                    Margin="3,2,3,0"
+                    Background="#D6D6D6">
+                <ContentControl prism:RegionManager.RegionName="ContentRegion" />
+
+            </Border>
+
+            <Border Grid.Column="1"
+                    Grid.Row="0"
+                    BorderBrush="DimGray"
+                    BorderThickness="1,1,1,0"
+                    Margin="1,2,3,0"
+                    Background="#D6D6D6">
+                <ContentControl prism:RegionManager.RegionName="OptionPanelRegion" />
+
+            </Border>
+
+            <Border Grid.Column="1"
+                    Grid.Row="1"
+                    BorderBrush="DimGray"
+                    BorderThickness="1,0,1,1"
+                    Margin="1,0,3,0"
+                    Background="#D6D6D6"
+                    >
+                <ContentControl prism:RegionManager.RegionName="RightPanelRegion" />
+
+            </Border>
+
+        </Grid>
+
+
+
+
+    </Grid>
+</Window>

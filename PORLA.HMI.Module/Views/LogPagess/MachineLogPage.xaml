@@ -1,0 +1,66 @@
+﻿<UserControl x:Class="PORLA.HMI.Module.Views.LogPagess.MachineLogPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d"
+             Background="#EDEDED"
+             d:DesignHeight="1000"
+             d:DesignWidth="1000">
+    <Grid VerticalAlignment="Top">
+        <GroupBox Header="Log Information" FontSize="13" BorderThickness="0" Margin="0"                 
+                                      Style="{DynamicResource MaterialDesignGroupBox}"
+                                      materialDesign:ColorZoneAssist.Mode="Custom"
+                                      materialDesign:ColorZoneAssist.Background="Gray"
+                                      materialDesign:ColorZoneAssist.Foreground="WhiteSmoke" Grid.Column="0" Grid.ColumnSpan="2" Height="850">
+            <ScrollViewer Name="ScrollViewer1"               
+                          VerticalScrollBarVisibility="Auto"                 
+                          HorizontalScrollBarVisibility="Auto">
+                <!--<ListBox Name="LogListBox" ItemsSource="{Binding LogMessages}" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" FontSize="15">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding}" Margin="5" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>-->
+                <ListView Margin="5,0,5,5"  Grid.Row="1" 
+                         VerticalAlignment="Stretch" HorizontalAlignment="Stretch" 
+                         ItemsSource="{Binding AppService.LogInfors}"
+                         SelectedIndex="{Binding AppService.ScrollViewerVerticalOffset}">
+                    <ListView.View>
+                        <GridView >
+                            <GridViewColumn DisplayMemberBinding="{Binding DateTime}">
+                                <GridViewColumn.Header>
+                                    <TextBlock Text="Time" TextAlignment="Center"/>
+                                </GridViewColumn.Header>
+                            </GridViewColumn>
+                            <GridViewColumn  Width="140" DisplayMemberBinding="{Binding strLogType}">
+                                <GridViewColumn.Header>
+                                    <TextBlock Text="Log Type" TextAlignment="Center"/>
+                                </GridViewColumn.Header>
+                            </GridViewColumn>
+                            <GridViewColumn  DisplayMemberBinding="{Binding strContent}">
+                                <GridViewColumn.Header>
+                                    <TextBlock Text="Description" TextAlignment="Center" TextWrapping="NoWrap"/>
+                                </GridViewColumn.Header>
+                            </GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </ScrollViewer>
+        </GroupBox>
+    </Grid>
+  
+</UserControl>

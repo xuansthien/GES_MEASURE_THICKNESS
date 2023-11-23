@@ -1,0 +1,8 @@
+D:\Repo\ges-polar\POLAR.ModelAggregator\bin\x64\Debug\POLAR.ModelAggregator.dll
+D:\Repo\ges-polar\POLAR.ModelAggregator\bin\x64\Debug\POLAR.ModelAggregator.pdb
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\x64\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\x64\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\x64\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\x64\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\x64\Debug\POLAR.ModelAggregator.dll
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\x64\Debug\POLAR.ModelAggregator.pdb

@@ -1,0 +1,24 @@
+ID,AlarmID,AlarmTime,AlarmClearedTime,Category,Source,Description
+60,A0,4/29/2022 10:33:27 AM,4/29/2022 10:34:10 AM,Error,System,Emergency EMO Front Pressed
+61,A4,4/29/2022 10:33:27 AM,4/29/2022 10:34:12 AM,Warning,System,Front Door Open or Not Lock
+62,A0,4/29/2022 2:22:18 PM,4/29/2022 2:22:24 PM,Error,System,Emergency EMO Front Pressed
+63,A1,4/29/2022 2:22:18 PM,4/29/2022 2:22:27 PM,Error,System,Emergency EMO Back Pressed
+64,A2,4/29/2022 2:22:18 PM,4/29/2022 2:22:32 PM,Error,System,Cover Left Open
+65,A3,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,System,Cover Right Open
+66,A4,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Warning,System,Front Door Open or Not Lock
+67,A5,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Robot,Robot not connected
+68,A6,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Robot,Robot EMO Pressed
+69,A7,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Robot,Robot Error
+70,A8,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Warning,Robot,Robot in Teach Mode
+71,A9,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Actuator,Actuator Not Connected
+72,A10,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Actuator,Actuator Error
+73,A11,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Actuator,Actuator Nagative Limit Activated
+74,A12,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Actuator,Actuator Positive Limit Activated
+75,A13,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Camera,Camera Not Connected
+76,A14,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,Camera,Camera Error
+77,A15,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,IO Module,IO Module 1 Not Connected
+78,A16,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,IO Module,IO Module 2 Not Connected
+79,A17,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,IO Module,IO Module 1 Error
+80,A18,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Error,IO Module,IO Module 2 Error
+81,A19,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Warning,System,Summary file opening
+82,A20,4/29/2022 2:22:18 PM,4/29/2022 2:22:36 PM,Warning,System,Service Key in Teach Mode

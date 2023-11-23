@@ -1,0 +1,536 @@
+2023-11-22 13:26:03 Load in CHRocodile.ini
+2023-11-22 13:26:03 Load in Plugins
+2023-11-22 13:26:03 Try to load in plugin: .//Plugin//CLS2CalibrationPlugin.dll
+2023-11-22 13:26:03 Try to get plugin interface functions.
+2023-11-22 13:26:03 Try to load in plugin: .//Plugin//FlyingSpotPlugin.dll
+2023-11-22 13:26:03 Try to get plugin interface functions.
+2023-11-22 13:26:03 Connect to CHRocodile device!
+2023-11-22 13:26:04 Receive command: $VER firmware_version=1.4.3
+build=r # 84a8b7d83 # 1929 # 2023-04-12T10:11:03+0000 # mainline
+hardware_serial_number=007777
+device_serial_number=207777
+ Ticket: 0
+2023-11-22 13:26:04 Receive command: $IDMX 0; 14; 0; 1; 1; 511; v; 262; 263; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 4; 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SRI 1.5 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ABE 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SRT 0; 0: no table active Ticket: 0
+2023-11-22 13:26:04 Receive command: $CTN  Ticket: 0
+2023-11-22 13:26:04 Receive command: $IDMP 3; 1; 1; 0; 10000; 5000; 192; 0; 1; 1000; 1000; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $FLTC 0; 0; 0; 0; 0; 0; 0; -64; -128; -64; 0; 0; 0; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $HAN 0; 1024 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 0; 4; 7 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 1; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 2; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 3; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 4; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 5; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $GAN 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $FLTI 0; 0; 0; 0; 0; 0; 0; -64; -128; -64; 0; 0; 0; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ANAX 256; 15000; 20000; 0; 0; 0; 0; 256; 15000; 20000; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $EQN 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 2; 20 Ticket: 0
+2023-11-22 13:26:04 Receive command: $MEDX 7; 50 Ticket: 0
+2023-11-22 13:26:04 Receive command: $QTH 5 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 0; 1; 14 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 1; 1; 14 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 2; 1; 15 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 3; 1; 14 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 4; 1; 14 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SHZ 50000 Ticket: 0
+2023-11-22 13:26:04 Receive command: $DCY 100 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AAL 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AAL 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $LAI 50 Ticket: 0
+2023-11-22 13:26:04 Receive command: $LOC 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 1; -20800 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 0; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 1; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 2; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 3; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 4; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 0; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 1; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 2; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 3; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 4; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SCA 2166 Ticket: 0
+2023-11-22 13:26:04 Receive command: $STR 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 0; -25600 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AVDS 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SCAN 0.999969; 0.999969; 0; 0; no filename specified; -1; -1; 1; 1; x; 11; 1000; 10000; 1000; 1000; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 32768; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $THR 40 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CRA 0; 1000 Ticket: 0
+2023-11-22 13:26:04 Receive command: $MMD 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $IPCN 0; 192; 168; 170; 2; 255; 255; 255; 0; 1500 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ALI 255 Ticket: 0
+2023-11-22 13:26:04 Receive command: $STR 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $OFN 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AVS 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CRDK 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $POD 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $NOP 10 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CWF 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AVD 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SEN 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SODX 65; 66; 67; 68; 69; 82; 83; 256; 257; 264; 265; 272; 273; 280; 281; 288; 289; 296; 297; 304; 305; 312; 313 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 7; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $PSM 50 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CALC 0; 1; -1; 0; 0; 0; 1; -1; 0; 0; 0; 1; -1; 0; 0; 0; 1; -1; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $LMA 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $DWD 600; 800 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 5; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SENI 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ANAM 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CONF  Ticket: 0
+2023-11-22 13:26:04 Receive CHRocodile device data format packet!
+2023-11-22 13:26:04 Connect to CHR device at: 192.168.170.2
+2023-11-22 13:26:04 Receive Data Format Packet with Counter: 1
+2023-11-22 13:26:04 Send command: PRSN Ticket: 1
+2023-11-22 13:26:04 Send command: CTN Ticket: 2
+2023-11-22 13:26:04 Send command: SODX Ticket: 3
+2023-11-22 13:26:04 Receive command: $PRSN ? personality.caps.light=led/sld personality.caps.max_frequency=70000 personality.caps.spectrometer=LR_V2 personality.channelcount=1 personality.ecatconfiguration=0 personality.oem.bootmessage= personality.oem.branded=false personality.oem.devicetype=LR_V2 personality.oem.id=207777 personality.proddate=28.08.2023 personality.productcode=5103080 personality.revision=2880_I.0210 personality.serial=007777 personality.softwareconfiguration=0  Ticket: 1
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 7980; FSS Plugin init: MMD Flag: 0x0, Ticket: 0 #params: 1 467980; FSS Restart processing sequence...7980; FSS isPluginPendingCommand: 03748; FSS OnDeviceResponse: PRSN Flag: 0x1, Ticket: 1 #params: 17980; FSS ExecPluginCommand: CFG Flag: 0x0, Ticket: 65537 #params: 2
+2023-11-22 13:26:04 7980; FSS State change: EIdle -> EIdle
+2023-11-22 13:26:04 7980; FSS CFG with path: ScannerGlobalConfig.cfg
+2023-11-22 13:26:04 7980; FSS arrayToPolynomialZ: polyOrder: 4; num: 15
+2023-11-22 13:26:04 7980; FSS Config file has been successfully loaded
+2023-11-22 13:26:04 7980; FSS State change: EIdle -> ECfgRunning
+2023-11-22 13:26:04 7980; FSS addExtern cmd: MMD Flag: 0x0, Ticket: 39321 #params: 1
+2023-11-22 13:26:04 7980; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39322 #params: 2
+2023-11-22 13:26:04 7980; FSS useXYCoeffsFromDevice: 1; useZCoeffsFromDevice: 1
+2023-11-22 13:26:04 7980; FSS Starting SCAN13 query..
+2023-11-22 13:26:04 7980; FSS addExtern cmd: SCAN Flag: 0x1, Ticket: 39323 #params: 1
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 7980; FSS Replacing ticket: 39323 --> 6
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Send command: MMD Ticket: 4
+2023-11-22 13:26:04 Send command: SCAN Ticket: 5
+2023-11-22 13:26:04 Send command: SCAN Ticket: 6
+2023-11-22 13:26:04 Receive command: $CTN  Ticket: 2
+2023-11-22 13:26:04 Receive Data Format Packet with Counter: 2
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: %TRM Flag: 0x0, Ticket: 2 #params: 1
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 Receive Data Format Packet with Counter: 3
+2023-11-22 13:26:04 Receive command: $SODX  Ticket: 3
+2023-11-22 13:26:04 Quit AutoBufferSave because data format received!
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SODX Flag: 0x0, Ticket: 3 #params: 0
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %SIG Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 Receive command: $MMD 1 Ticket: 4
+2023-11-22 13:26:04 Receive command: $SRI 1.5 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ABE 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SRT 0; 0: no table active Ticket: 0
+2023-11-22 13:26:04 Receive command: $SCA 2166 Ticket: 0
+2023-11-22 13:26:04 Receive command: $LMA 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $DWD 600; 800 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SCAN 6; 1; 1; 1 Ticket: 5
+2023-11-22 13:26:04 Receive command: $IDMX 0; 14; 0; 1; 1; 511; v; 262; 263; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 4; 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SRI 1.5 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ABE 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SRT 0; 0: no table active Ticket: 0
+2023-11-22 13:26:04 Receive command: $CTN  Ticket: 0
+2023-11-22 13:26:04 Receive command: $IDMP 3; 1; 1; 0; 10000; 5000; 192; 0; 1; 1000; 1000; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $FLTC 0; 0; 0; 0; 0; 0; 0; -64; -128; -64; 0; 0; 0; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $HAN 0; 1024 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 0; 4; 7 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 1; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 2; 4; 0 Ticket: 0
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: MMD Flag: 0x0, Ticket: 4 #params: 1
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 Receive command: $ENC 3; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 4; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 5; 4; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $GAN 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $FLTI 0; 0; 0; 0; 0; 0; 0; -64; -128; -64; 0; 0; 0; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ANAX 256; 15000; 20000; 0; 0; 0; 0; 256; 15000; 20000; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $EQN 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 2; 20 Ticket: 0
+2023-11-22 13:26:04 Receive command: $MEDX 7; 50 Ticket: 0
+2023-11-22 13:26:04 Receive command: $QTH 5 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 0; 1; 14 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 1; 1; 14 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 2; 1; 15 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 3; 1; 14 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 4; 1; 14 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SHZ 50000 Ticket: 0
+2023-11-22 13:26:04 Receive command: $DCY 100 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AAL 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AAL 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $LAI 50 Ticket: 0
+2023-11-22 13:26:04 Receive command: $LOC 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 1; -20800 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 0; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 1; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 2; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 3; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 4; 3; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 0; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 1; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 2; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 3; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ENC 4; 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SCA 2166 Ticket: 0
+2023-11-22 13:26:04 Receive command: $STR 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 0; -25600 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AVDS 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SCAN 0.999969; 0.999969; 0; 0; no filename specified; -1; -1; 1; 1; x; 11; 1000; 10000; 1000; 1000; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 32768; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $THR 40 Ticket: 0
+2023-11-22 13:26:04 Receive command: $MMD 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CRA 0; 1000 Ticket: 0
+2023-11-22 13:26:04 Receive command: $IPCN 0; 192; 168; 170; 2; 255; 255; 255; 0; 1500 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ALI 255 Ticket: 0
+2023-11-22 13:26:04 Receive command: $STR 2; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $OFN 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AVS 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CRDK 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $POD 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $NOP 10 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CWF 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $AVD 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SEN 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 7; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $PSM 50 Ticket: 0
+2023-11-22 13:26:04 Receive command: $CALC 0; 1; -1; 0; 0; 0; 1; -1; 0; 0; 0; 1; -1; 0; 0; 0; 1; -1; 0; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $LMA 1 Ticket: 0
+2023-11-22 13:26:04 Receive command: $DWD 600; 800 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ETR 5; 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $SENI 0 Ticket: 0
+2023-11-22 13:26:04 Receive command: $ANAM 0 Ticket: 0
+2023-11-22 13:26:04 Receive Data Format Packet with Counter: 4
+2023-11-22 13:26:04 Receive command: $SCAN ? 13; 
+[x type=poly; dir=RWTo32k; deg=4]
+0,0:0
+1,0:1
+0,1:0
+1,1:0
+2,0:0
+0,2:0
+2,1:0
+1,2:0
+2,2:0
+3,0:0
+0,3:0
+3,1:0
+1,3:0
+4,0:0
+0,4:0
+
+[y type=poly; dir=RWTo32k; deg=4]
+0,0:0
+1,0:0
+0,1:1
+1,1:0
+2,0:0
+0,2:0
+2,1:0
+1,2:0
+2,2:0
+3,0:0
+0,3:0
+3,1:0
+1,3:0
+4,0:0
+0,4:0
+
+[z_offset type=poly; dir=32kToRW; deg=4]
+0,0:910.36822509765625
+1,0:0.00701628858223557472
+0,1:-0.00199673417955636978
+2,0:5.06635160490986891E-06
+0,2:3.01911018141254317E-06
+1,1:2.41464408645697404E-06
+3,0:-3.48767438540509289E-11
+0,3:-1.87029853410125568E-11
+1,2:-6.65065849614343563E-11
+2,1:-2.56766153478027448E-11
+4,0:-1.71692477265615248E-14
+0,4:-2.94908344164283853E-14
+1,3:-1.67057699325488113E-14
+2,2:-1.06903901218023158E-14
+3,1:-9.33705508878801896E-15
+ Ticket: 6
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: SRI Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ABE Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SRT Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SCA Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: LMA Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: DWD Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 5 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: IDMX Flag: 0x2000, Ticket: 0 #params: 10
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ETP Flag: 0x2000, Ticket: 0 #params: 5
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SRI Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ABE Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SRT Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %TRM Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: IDMP Flag: 0x2000, Ticket: 0 #params: 12
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ETE Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: FLTC Flag: 0x2000, Ticket: 0 #params: 17
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: HAN Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ENC Flag: 0x2000, Ticket: 0 #params: 3
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ENC Flag: 0x2000, Ticket: 0 #params: 3
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ENC Flag: 0x2000, Ticket: 0 #params: 3
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ENC Flag: 0x2000, Ticket: 0 #params: 3
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ENC Flag: 0x2000, Ticket: 0 #params: 3
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ENC Flag: 0x2000, Ticket: 0 #params: 3
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: GAN Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: FLTI Flag: 0x2000, Ticket: 0 #params: 17
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ANAX Flag: 0x2000, Ticket: 0 #params: 7
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: EQN Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ETP Flag: 0x2000, Ticket: 0 #params: 5
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: MEDX Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: QTH Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ECS Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ECS Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ECS Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ECS Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ECS Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SHZ Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: DCY Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: AAL Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: AAL Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: LAI Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: LOC Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ETP Flag: 0x2000, Ticket: 0 #params: 5
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %EPF Flag: 0x2000, Ticket: 0 #params: 4
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SCA Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: STR Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ETP Flag: 0x2000, Ticket: 0 #params: 5
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: AVDS Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SCAN Flag: 0x2000, Ticket: 0 #params: 102
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: THR Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: MMD Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: CRA Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: IPCN Flag: 0x2000, Ticket: 0 #params: 10
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ALI Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: STR Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: OFN Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: AVS Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: CRDK Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: POD Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: NOP Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: CWF Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: AVD Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SEN Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ETP Flag: 0x2000, Ticket: 0 #params: 5
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: PSM Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: CALC Flag: 0x2000, Ticket: 0 #params: 20
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: LMA Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: DWD Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: %ETP Flag: 0x2000, Ticket: 0 #params: 5
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SENI Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ANAM Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SCAN Flag: 0x1, Ticket: 6 #params: 2
+2023-11-22 13:26:04 5876; FSS === Inverting XY polynomial coefficients..
+2023-11-22 13:26:04 5876; FSS corrX:  -3.83956699124e-12 +1*x +7.623296525289e-20*x^2 +5.707546226616e-23*x^3 -2.230440422684e-29*x^4 -6.225488874412e-16*y -6.903318520123e-19*x*y +5.066481251887e-24*x^2*y +3.329623629414e-27*x^3*y +6.606856988584e-20*y^2 +4.632211430297e-23*x*y^2 -1.416559444065e-28*x^2*y^2 +3.483495762344e-24*y^3 +3.769278019179e-27*x*y^3 -2.587927707834e-28*y^4
+2023-11-22 13:26:04 5876; FSS corrY:  +5.949017074614e-11 -1.088006338017e-15*x -1.17758755492e-18*x^2 +8.212029401576e-24*x^3 +4.368498989452e-27*x^4 +1*y +1.863472483959e-19*x*y -4.135903062765e-24*x^2*y -1.073634407261e-27*x^3*y -1.165093818948e-18*y^2 +6.62390724896e-24*x*y^2 +8.606288515055e-27*x^2*y^2 -5.790222576758e-24*y^3 -1.012748990021e-27*x*y^3 +4.421120641733e-27*y^4
+2023-11-22 13:26:04 5876; FSS addExtern cmd: ANAX Flag: 0x0, Ticket: 39324 #params: 8
+2023-11-22 13:26:04 5876; FSS addExtern cmd: ANAX Flag: 0x0, Ticket: 39325 #params: 8
+2023-11-22 13:26:04 5876; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39326 #params: 3
+2023-11-22 13:26:04 5876; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39327 #params: 3
+2023-11-22 13:26:04 5876; FSS addExtern cmd: ETR Flag: 0x0, Ticket: 39328 #params: 2
+2023-11-22 13:26:04 5876; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39329 #params: 3
+2023-11-22 13:26:04 5876; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39330 #params: 2
+2023-11-22 13:26:04 5876; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39331 #params: 3
+2023-11-22 13:26:04 5876; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39332 #params: 3
+2023-11-22 13:26:04 5876; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39333 #params: 1
+2023-11-22 13:26:04 5876; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39334 #params: 3
+2023-11-22 13:26:04 5876; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39335 #params: 3
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Translated to internal command struct.
+2023-11-22 13:26:04 Start to execute internal command structs: 1
+2023-11-22 13:26:04 Start to send command
+2023-11-22 13:26:04 Post process command
+2023-11-22 13:26:04 Wait for command response
+2023-11-22 13:26:04 5876; FSS Replacing ticket: 39335 --> 18
+2023-11-22 13:26:04 Response comes back
+2023-11-22 13:26:04 Add response entry.
+2023-11-22 13:26:04 Finish adding response entry.
+2023-11-22 13:26:04 Finish execute command
+2023-11-22 13:26:04 Send command: ANAX Ticket: 7
+2023-11-22 13:26:04 Send command: ANAX Ticket: 8
+2023-11-22 13:26:04 Send command: SCAN Ticket: 9
+2023-11-22 13:26:04 Send command: SCAN Ticket: 10
+2023-11-22 13:26:04 Send command: ETR Ticket: 11
+2023-11-22 13:26:04 Send command: ENC Ticket: 12
+2023-11-22 13:26:04 Send command: SCAN Ticket: 13
+2023-11-22 13:26:04 Send command: ENC Ticket: 14
+2023-11-22 13:26:04 Send command: ENC Ticket: 15
+2023-11-22 13:26:04 Send command: SCAN Ticket: 16
+2023-11-22 13:26:04 Send command: ENC Ticket: 17
+2023-11-22 13:26:04 Send command: ENC Ticket: 18
+2023-11-22 13:26:04 Receive command: $ANAX 0; 256; 15000; 20000; 0; 0; 0; 0 Ticket: 7
+2023-11-22 13:26:04 Receive command: $ANAX 1; 256; 15000; 20000; 0; 0; 0; 0 Ticket: 8
+2023-11-22 13:26:04 Receive command: $SCAN 1; 1; 1 Ticket: 9
+2023-11-22 13:26:04 Receive command: $SCAN 2; 0; 0 Ticket: 10
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ANAX Flag: 0x0, Ticket: 7 #params: 7
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: ANAX Flag: 0x0, Ticket: 8 #params: 7
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 9 #params: 3
+2023-11-22 13:26:04 5876; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 10 #params: 3
+2023-11-22 13:26:04 Receive command: $ETR 3; 0 Ticket: 11
+2023-11-22 13:26:04 Receive command: $ENC 2; 1; 15 Ticket: 12
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: %ETE Flag: 0x0, Ticket: 11 #params: 1
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 12 #params: 2
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 Receive command: $SCAN 6; 1; 1; 1 Ticket: 13
+2023-11-22 13:26:04 Receive command: $ENC 0; 1; 14 Ticket: 14
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 13 #params: 4
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 14 #params: 2
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 Receive command: $ENC 1; 1; 14 Ticket: 15
+2023-11-22 13:26:04 Receive command: $SCAN 0; no filename specified Ticket: 16
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 15 #params: 2
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 16 #params: 2
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 Receive command: $ENC 3; 1; 14 Ticket: 17
+2023-11-22 13:26:04 Receive command: $ENC 4; 1; 14 Ticket: 18
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 17 #params: 2
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 3748; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 18 #params: 2
+2023-11-22 13:26:04 3748; FSS ++++++++++ FSS has been configured ++++++++++
+2023-11-22 13:26:04 3748; FSS State change: ECfgRunning -> EConfigured
+2023-11-22 13:26:04 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:04 5876; FSS IsPluginResponseReady CFG Flag: 0x0, Ticket: 65537 #params: 2
+2023-11-22 13:26:04 5876; FSS OnSendOutPluginCmdRsp: CFG Flag: 0x0, Ticket: 65537 #params: 2; state: 2 cmdFailed: 0

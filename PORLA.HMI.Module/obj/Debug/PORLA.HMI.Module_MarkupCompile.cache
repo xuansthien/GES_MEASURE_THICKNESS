@@ -1,0 +1,20 @@
+﻿PORLA.HMI.Module
+
+
+library
+C#
+.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Module\obj\Debug\
+PORLA.HMI.Module
+none
+false
+DEBUG;TRACE
+
+18559434351
+
+67-298905141
+55230543057
+Resource\styleGui.xaml;Views\AccountPage.xaml;Views\AlarmPage.xaml;Views\Dialogs\CreateNewRecipe.xaml;Views\Dialogs\EditRecipe.xaml;Views\Dialogs\ProccessScanDialog.xaml;Views\Dialogs\ScanDutBarcodeDialog.xaml;Views\HomePage.xaml;Views\LogPagess\LogPanel.xaml;Views\LogPagess\MachineLogPage.xaml;Views\SettingPages\ManualPageView.xaml;Views\SettingPages\SettingPage.xaml;Views\SettingPages\RecipePage.xaml;Views\SettingPages\SettingPanel.xaml;Views\SettingPages\ShowDialogView.xaml;Views\Statistic\StatisticPanel.xaml;Views\Statistic\TestResult.xaml;Views\VersionPage.xaml;
+
+False
+

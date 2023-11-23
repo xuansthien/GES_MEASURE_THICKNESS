@@ -1,0 +1,4 @@
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\x64\Debug\POLAR.DIOADAM6052.csproj.AssemblyReference.cache
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\x64\Debug\POLAR.DIOADAM6052.Properties.Resources.resources
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\x64\Debug\POLAR.DIOADAM6052.csproj.GenerateResource.cache
+D:\Repo\ges-polar\POLAR.DIOADAM6052\obj\x64\Debug\POLAR.DIOADAM6052.csproj.CoreCompileInputs.cache

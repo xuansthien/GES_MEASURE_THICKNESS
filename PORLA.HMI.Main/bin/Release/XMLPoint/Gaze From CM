@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PointData>
+  <data Position="Left" Roll="0" Pitch="0" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Left" Roll="0" Pitch="0" Yaw="10" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Left" Roll="0" Pitch="10" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Left" Roll="0" Pitch="0" Yaw="-10" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Left" Roll="0" Pitch="-10" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Left" Roll="0" Pitch="0" Yaw="20" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Left" Roll="0" Pitch="20" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Left" Roll="0" Pitch="0" Yaw="-20" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Left" Roll="0" Pitch="-20" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="0" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="0" Yaw="10" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="10" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="0" Yaw="-10" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="-10" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="0" Yaw="20" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="20" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="0" Yaw="-20" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+  <data Position="Right" Roll="0" Pitch="-20" Yaw="0" X="0" Y="0" Z="0" BFD="1" DUTImage="652" />
+</PointData>

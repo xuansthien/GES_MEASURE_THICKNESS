@@ -1,0 +1,624 @@
+[2023-08-06 16:39:40,392] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 16:39:41,640] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 16:39:43,152] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 16:39:43,577] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 16:39:43,593] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 16:39:43,726] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 16:39:43,783] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 16:39:43,783] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 16:39:44,149] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 16:39:44,149] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 16:39:44,149] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 16:39:44,149] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 16:40:38,046] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 16:40:39,312] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 16:40:40,430] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 16:40:40,818] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 16:40:40,835] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 16:40:40,967] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 16:40:41,001] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 16:40:41,001] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 16:40:41,378] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 16:40:41,378] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 16:40:41,378] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 16:40:41,378] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 16:41:31,367] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 16:41:32,627] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 16:41:33,742] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 16:41:34,118] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 16:41:34,133] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 16:41:34,258] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 16:41:34,291] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 16:41:34,291] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 16:41:34,702] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 16:41:34,702] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 16:41:34,702] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 16:41:34,702] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 16:46:05,379] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 16:46:06,651] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 16:46:07,762] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 16:46:08,130] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 16:46:08,148] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 16:46:08,272] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 16:46:08,303] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 16:46:08,304] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 16:46:08,653] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 16:46:08,653] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 16:46:08,653] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 16:46:08,654] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 17:21:44,782] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 17:21:46,036] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 17:21:47,497] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 17:21:47,962] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 17:21:47,979] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 17:21:48,109] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 17:21:48,172] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 17:21:48,172] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 17:21:48,597] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 17:21:48,597] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 17:21:48,597] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 17:21:48,597] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 17:39:08,033] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 17:39:09,288] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 17:39:10,393] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 17:39:10,744] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 17:39:10,760] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 17:39:10,900] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 17:39:10,927] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 17:39:10,927] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 17:39:11,265] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 17:39:11,266] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 17:39:11,266] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 17:39:11,266] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:03:12,181] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:03:13,430] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:03:14,545] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:03:14,907] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:03:14,924] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:03:15,064] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:03:15,094] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:03:15,094] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:03:15,446] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:03:15,446] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:03:15,446] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:03:15,446] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:04:34,516] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:04:35,765] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:04:36,864] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:04:37,242] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:04:37,258] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:04:37,383] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:04:37,413] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:04:37,413] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:04:37,780] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:04:37,780] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:04:37,780] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:04:37,780] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:17:42,945] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:17:44,201] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:17:45,317] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:17:45,680] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:17:45,696] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:17:45,822] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:17:45,852] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:17:45,853] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:17:46,186] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:17:46,186] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:17:46,186] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:17:46,186] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:20:37,001] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:20:38,262] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:20:39,359] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:20:39,743] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:20:39,758] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:20:39,880] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:20:39,889] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:20:39,889] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:20:40,225] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:20:40,225] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:20:40,225] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:20:40,225] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:22:28,907] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:22:30,162] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:22:31,261] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:22:31,638] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:22:31,655] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:22:31,775] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:22:31,803] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:22:31,803] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:22:32,150] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:22:32,150] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:22:32,150] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:22:32,150] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:41:03,491] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:41:04,754] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:41:05,865] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:41:06,234] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:41:06,251] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:41:06,371] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:41:06,399] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:41:06,399] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:41:06,727] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:41:06,727] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:41:06,727] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:41:06,727] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:43:43,211] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:43:44,468] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:43:45,588] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:43:45,940] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:43:45,955] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:43:46,074] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:43:46,104] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:43:46,104] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:43:46,433] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:43:46,433] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:43:46,433] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:43:46,433] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:46:58,179] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:46:59,438] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:47:00,554] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:47:00,955] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:47:00,972] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:47:01,105] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:47:01,115] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:47:01,115] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:47:01,445] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:47:01,446] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:47:01,446] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:47:01,446] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 18:51:26,065] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 18:51:27,314] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 18:51:28,442] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 18:51:28,792] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 18:51:28,808] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 18:51:28,928] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 18:51:28,936] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 18:51:28,937] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 18:51:29,262] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 18:51:29,262] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 18:51:29,262] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 18:51:29,262] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 19:32:40,398] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 19:32:41,648] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 19:32:42,771] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 19:32:43,134] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 19:32:43,152] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 19:32:43,272] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 19:32:43,302] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 19:32:43,302] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 19:32:43,640] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 19:32:43,640] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 19:32:43,640] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 19:32:43,640] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 19:39:59,595] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 19:40:00,847] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 19:40:01,966] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 19:40:02,593] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 19:40:02,614] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 19:40:02,771] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 19:40:02,811] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 19:40:02,811] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 19:40:03,198] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 19:40:03,198] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 19:40:03,198] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 19:40:03,198] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 20:10:47,760] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 20:10:49,007] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 20:10:50,107] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 20:10:50,482] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 20:10:50,497] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 20:10:50,615] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 20:10:50,625] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 20:10:50,625] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 20:10:50,956] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 20:10:50,957] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 20:10:50,957] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 20:10:50,957] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 20:11:34,993] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 20:11:36,247] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 20:11:37,351] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 20:11:37,731] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 20:11:37,749] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 20:11:37,869] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 20:11:37,898] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 20:11:37,898] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 20:11:38,257] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 20:11:38,257] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 20:11:38,257] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 20:11:38,257] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 20:14:08,726] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 20:14:09,980] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 20:14:11,092] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 20:14:11,458] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 20:14:11,473] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 20:14:11,603] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 20:14:11,632] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 20:14:11,632] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 20:14:11,985] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 20:14:11,986] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 20:14:11,986] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 20:14:11,986] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 20:20:19,916] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 20:20:21,169] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 20:20:22,274] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 20:20:22,648] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 20:20:22,664] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 20:20:22,796] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 20:20:22,831] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 20:20:22,831] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 20:20:23,181] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 20:20:23,181] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 20:20:23,181] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 20:20:23,181] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 20:25:34,501] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 20:25:35,775] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 20:25:36,890] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 20:25:37,251] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 20:25:37,267] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 20:25:37,389] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 20:25:37,416] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 20:25:37,417] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 20:25:37,735] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 20:25:37,735] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 20:25:37,735] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 20:25:37,735] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 20:32:54,002] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 20:32:55,258] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 20:32:56,365] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 20:32:56,725] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 20:32:56,741] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 20:32:56,861] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 20:32:56,889] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 20:32:56,889] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 20:32:57,225] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 20:32:57,225] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 20:32:57,225] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 20:32:57,225] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-06 20:35:14,110] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-06 20:35:15,371] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-06 20:35:16,490] [ERROR] [MACHINE] - Robot | System.ComponentModel.Win32Exception (0x80004005): Class not registered
+
+Class not registered
+
+   at Adapters.NetscanAdapter.Scan()
+   at ControllerAPI.Internal.NetworkScannerInternal.GetControllers()
+   at ABB.Robotics.Controllers.Discovery.NetworkScanner.Scan()
+   at RobotControl.Robot.FindControllers() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 868
+   at RobotControl.Robot.ConnectRobot() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\RobotControl\Robot.cs:line 460
+[2023-08-06 20:35:16,860] [ERROR] [MACHINE] - Camera | System.Runtime.InteropServices.SEHException (0x80004005): External component has thrown an exception.
+   at Pylon.DeviceInfoList.{ctor}(DeviceInfoList* )
+   at Basler.Pylon.CameraFinder.Enumerate()
+   at CameraControl.Camera_Control.UpdateDeviceList() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\CameraControl\Camera_Control.cs:line 264
+[2023-08-06 20:35:16,876] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2023-08-06 20:35:16,996] [ERROR] [MACHINE] - Actuator | Initialize axis no: 1 fail, with exception: System.BadImageFormatException: An attempt was made to load a program with an incorrect format. (Exception from HRESULT: 0x8007000B)
+   at PI.GCS2.EnumerateUSB(StringBuilder sBuffer, Int32 iBufferSize, String sFilter)
+   at PIControl.PI_Control.SearchDevice(ConnectionType type, String hostName) in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 479
+   at PIControl.PI_Control.Initialize() in C:\Users\Duong Van Hoan\Desktop\Porla\Porla\PIControl\PI_Control.cs:line 160
+[2023-08-06 20:35:17,019] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-06 20:35:17,020] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-06 20:35:17,364] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2023-08-06 20:35:17,364] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2023-08-06 20:35:17,364] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-06 20:35:17,364] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected

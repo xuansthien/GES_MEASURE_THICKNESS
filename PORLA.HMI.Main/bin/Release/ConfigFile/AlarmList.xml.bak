@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<AlarmList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<PLC>
+<a0>\A0\Error\System\Emergency EMO Front Pressed\</a0>
+<a1>\A1\Error\System\Emergency\Error\System\Emergency EMO Back Pressed\</a1>
+<a2>\A2\Error\System\Cover\Error\System\Cover Left Open\</a2>
+<a3>\A3\Error\System\Cover\Error\System\Cover Right Open\</a3>
+<a4>\A4\Error\System\Front\Error\System\Front Door Open or Not Lock\</a4>
+<a5>\A5\Error\Robot\Robot\Error\Robot\Robot not connected\</a5>
+<a6>\A6\Error\Robot\Robot EMO Pressed\</a6>
+<a7>\A7\Error\Robot\Robot Error\</a7>
+<a8>\A8\Error\Robot\Robot in Teach Mode\</a8>
+<a9>\A9\Error\Actuator\Actuator Not Connected\</a9>
+<a10>\A10\Error\Actuator\Actuator Error\</a10>
+<a11>\A11\Error\Actuator\Actuator Nagative Limit Activated\</a11>
+<a12>\A12\Error\Actuator\Actuator Positive Limit Activated\</a12>
+<a13>\A13\Error\Camera\Camera Not Connected\</a13>
+<a14>\A14\Error\Camera\Camera Error\</a14>
+<a15>\A15\Error\IO Module\IO Module 1 Not Connected\</a15>
+<a16>\A16\Error\IO Module\IO Module 2 Not Connected\</a16>
+<a17>\A17\Error\IO Module\IO Module 1 Error\</a17>
+<a18>\A18\Error\IO Module\IO Module 2 Error\</a18>
+<a19>\A19\Error\System\Summary file opening\</a19>
+<a20>\A20\Error\System\Service Key in Teach Mode\</a20>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IO Module 1 Not Connected
+IO Module 2 Not Connected
+IO Module 1 Error
+IO Module 2 Error
+Summary file opening
+Service Key in Teach Mode
+
+
+
+
+
+
+
+
+
+</PLC>	
+</AlarmList>

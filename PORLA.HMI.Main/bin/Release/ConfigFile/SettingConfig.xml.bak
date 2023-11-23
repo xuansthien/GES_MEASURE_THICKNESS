@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="Vision" ReportPath="./Report1" MaxSize="10" />   
+  </appSettings>
+</configuration>

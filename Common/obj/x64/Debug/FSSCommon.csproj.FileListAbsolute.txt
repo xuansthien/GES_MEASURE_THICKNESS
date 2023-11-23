@@ -1,0 +1,117 @@
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\Scripts\EllipseOutline.rs
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\Scripts\Spiral.rs
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\Scripts\TriangleOutline.rs
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\FSSCommon.dll
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\libcore\lib\win\x64\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\CSharpDemo\Plugin\FlyingSpotPlugin\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\CSharpDemo\Plugin\FlyingSpotPlugin\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\CSharpDemo\Plugin\FlyingSpotPlugin\Common\obj\x64\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\1. Latest Docs\OneDrive_1_9-23-2023\chrocolib-R5-1-0-3-72afe13e\chrocodilelib\CSharpDemo\Plugin\FlyingSpotPlugin\Common\obj\x64\Debug\FSSCommon.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\Common\obj\x64\Debug\FSSCommon.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\Common\obj\x64\Debug\FSSCommon.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\Scripts\CrossedHousePuzzle.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\Scripts\EllipseOutline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\Scripts\Spiral.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\Scripts\TriangleOutline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\Scripts\CrossedHousePuzzleInfinity.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\Scripts\LargeAreaScanInline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\Scripts\LargeAreaScan.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\FSSCommon.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\libcore\lib\win\x64\FSSCommon.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\Common\obj\x64\Debug\FSSCommon.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\Common\obj\x64\Debug\FSSCommon.pdb
+D:\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\POLAR App\Common\obj\x64\Debug\FSSCommon.dll
+D:\POLAR App\Common\obj\x64\Debug\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\Scripts\EllipseOutline.rs
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\Scripts\Spiral.rs
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\Scripts\TriangleOutline.rs
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\FSSCommon.dll
+D:\1. DE_Project\3. Polar\libcore\lib\win\x64\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.pdb
+D:\FromX\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\FromX\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\FromX\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.dll
+D:\FromX\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\Scripts\EllipseOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\Scripts\Spiral.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\Scripts\TriangleOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\libcore\lib\win\x64\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\Common\obj\x64\Debug\FSSCommon.pdb
+D:\1. DE_Project\libcore\lib\win\x64\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\libcore\lib\win\x64\Scripts\EllipseOutline.rs
+D:\1. DE_Project\libcore\lib\win\x64\Scripts\Spiral.rs
+D:\1. DE_Project\libcore\lib\win\x64\Scripts\TriangleOutline.rs
+D:\1. DE_Project\libcore\lib\win\x64\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\libcore\lib\win\x64\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\libcore\lib\win\x64\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\libcore\lib\win\x64\FSSCommon.dll
+D:\1. DE_Project\libcore\lib\win\x64\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\Common\obj\x64\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\Common\obj\x64\Debug\FSSCommon.pdb
+D:\libcore\lib\win\x64\Scripts\CrossedHousePuzzle.rs
+D:\libcore\lib\win\x64\Scripts\EllipseOutline.rs
+D:\libcore\lib\win\x64\Scripts\Spiral.rs
+D:\libcore\lib\win\x64\Scripts\TriangleOutline.rs
+D:\libcore\lib\win\x64\Scripts\CrossedHousePuzzleInfinity.rs
+D:\libcore\lib\win\x64\Scripts\LargeAreaScanInline.rs
+D:\libcore\lib\win\x64\Scripts\LargeAreaScan.rs
+D:\libcore\lib\win\x64\FSSCommon.dll
+D:\libcore\lib\win\x64\FSSCommon.pdb
+D:\Repo\ges-polar\Common\obj\x64\Debug\FSSCommon.csproj.AssemblyReference.cache
+D:\Repo\ges-polar\Common\obj\x64\Debug\FSSCommon.csproj.CoreCompileInputs.cache
+D:\Repo\ges-polar\Common\obj\x64\Debug\FSSCommon.dll
+D:\Repo\ges-polar\Common\obj\x64\Debug\FSSCommon.pdb
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\Scripts\EllipseOutline.rs
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\Scripts\Spiral.rs
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\Scripts\TriangleOutline.rs
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\Scripts\LargeAreaScan.rs
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\FSSCommon.dll
+D:\Repo\ges-polar\POLAR.PrecitecControl\bin\Debug\FSSCommon.pdb
+D:\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\bin\Debug\Scripts\EllipseOutline.rs
+D:\bin\Debug\Scripts\Spiral.rs
+D:\bin\Debug\Scripts\TriangleOutline.rs
+D:\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\bin\Debug\Scripts\LargeAreaScan.rs
+D:\bin\Debug\FSSCommon.dll
+D:\bin\Debug\FSSCommon.pdb
+D:\Repo\ges-polar\Common\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\Repo\ges-polar\Common\bin\Debug\Scripts\EllipseOutline.rs
+D:\Repo\ges-polar\Common\bin\Debug\Scripts\Spiral.rs
+D:\Repo\ges-polar\Common\bin\Debug\Scripts\TriangleOutline.rs
+D:\Repo\ges-polar\Common\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\Repo\ges-polar\Common\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\Repo\ges-polar\Common\bin\Debug\Scripts\LargeAreaScan.rs
+D:\Repo\ges-polar\Common\bin\Debug\FSSCommon.dll
+D:\Repo\ges-polar\Common\bin\Debug\FSSCommon.pdb

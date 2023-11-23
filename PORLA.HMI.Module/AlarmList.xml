@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<AlarmList>
+<PLC>
+<a0>\A0\Error\Camera Not Connected\System\</a0>
+<a1>\A1\Error\PLC Not Connected\System\</a1>
+<a2>\A2\Error\No connection to Database\System\</a2>
+</PLC>	
+</AlarmList>

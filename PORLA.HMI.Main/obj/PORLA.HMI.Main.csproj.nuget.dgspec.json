@@ -1,0 +1,410 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Main\\PORLA.HMI.Main.csproj": {}
+  },
+  "projects": {
+    "D:\\1. Repo\\1. Latest\\ges-polar\\Common\\FSSCommon.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\Common\\FSSCommon.csproj",
+        "projectName": "FSSCommon",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\Common\\FSSCommon.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj",
+        "projectName": "POLAR.CompositeAppCommand",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj",
+        "projectName": "POLAR.DIOADAM6052",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj",
+        "projectName": "POLAR.EventAggregator",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.IAIMotionControl\\POLAR.IAIMotionControl.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.IAIMotionControl\\POLAR.IAIMotionControl.csproj",
+        "projectName": "POLAR.IAIMotionControl",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.IAIMotionControl\\POLAR.IAIMotionControl.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj",
+        "projectName": "POLAR.ModelAggregator",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.PrecitecControl\\POLAR.PrecitecControl.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.PrecitecControl\\POLAR.PrecitecControl.csproj",
+        "projectName": "POLAR.PrecitecControl",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.PrecitecControl\\POLAR.PrecitecControl.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\1. Repo\\1. Latest\\ges-polar\\Common\\FSSCommon.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\Common\\FSSCommon.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Main\\PORLA.HMI.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Main\\PORLA.HMI.Main.csproj",
+        "projectName": "PORLA",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Main\\PORLA.HMI.Main.csproj",
+        "packagesPath": "C:\\Users\\IPC-Polar\\.nuget\\packages\\",
+        "outputPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\IPC-Polar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.IAIMotionControl\\POLAR.IAIMotionControl.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.IAIMotionControl\\POLAR.IAIMotionControl.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.PrecitecControl\\POLAR.PrecitecControl.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.PrecitecControl\\POLAR.PrecitecControl.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Module\\PORLA.HMI.Module.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Module\\PORLA.HMI.Module.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "LiveCharts.Geared": {
+              "target": "Package",
+              "version": "[1.2.9, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Prism.DryIoc": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Module\\PORLA.HMI.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Module\\PORLA.HMI.Module.csproj",
+        "projectName": "PORLA.HMI.Module",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Module\\PORLA.HMI.Module.csproj",
+        "packagesPath": "C:\\Users\\IPC-Polar\\.nuget\\packages\\",
+        "outputPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\IPC-Polar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.CompositeAppCommand\\POLAR.CompositeAppCommand.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.DIOADAM6052\\POLAR.DIOADAM6052.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.EventAggregator\\POLAR.EventAggregator.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.IAIMotionControl\\POLAR.IAIMotionControl.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.IAIMotionControl\\POLAR.IAIMotionControl.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.PrecitecControl\\POLAR.PrecitecControl.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.PrecitecControl\\POLAR.PrecitecControl.csproj"
+              },
+              "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "LiveCharts.Geared": {
+              "target": "Package",
+              "version": "[1.2.9, )"
+            },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Microsoft.UI.Xaml": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "TestStack.White": {
+              "target": "Package",
+              "version": "[0.13.3, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj",
+        "projectName": "PORLA.HMI.Service",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj",
+        "packagesPath": "C:\\Users\\IPC-Polar\\.nuget\\packages\\",
+        "outputPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\IPC-Polar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.26, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,595 @@
+﻿<UserControl x:Class="PORLA.HMI.Module.Views.HomePage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:local="clr-namespace:PORLA.HMI.Module.Views"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="#EDEDED"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d"
+             d:DesignHeight="905"
+             d:DesignWidth="1150">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+                <ResourceDictionary Source="/Resource/styleGui.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <StackPanel>
+                <GroupBox Header="RECIPE INFOR" FontSize="13" BorderThickness="2" 
+                          Margin="5,10,5,5"                 
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        materialDesign:ColorZoneAssist.Mode="Custom"
+                        materialDesign:ColorZoneAssist.Background="DimGray"
+                        materialDesign:ColorZoneAssist.Foreground="WhiteSmoke" Grid.Column="0" Grid.ColumnSpan="2" Height="250">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Center"                                                                               
+                                       Margin="0,9,0,0">
+                                <TextBlock Margin="0,0,0,20" Text="Recipe Name:"/>
+                                <TextBlock Margin="0,0,0,20" Text="Sensor Type:"/>
+                                <TextBlock Margin="0,0,0,20" Text="Dut Barcode:"/>
+                                <Button Style="{StaticResource CustomButtonStyle}"
+                                    Margin="0,0,10,0"
+                                    Content="Scan Barcode"
+                                    FontWeight="Normal"
+                                    FontSize="12"
+                                    Height="35" Width="90"
+                                    BorderBrush="Transparent"
+                                    Command="{Binding ScanBarcodeCmd}"
+                                    Background="#9FB6CD"/>
+                            </WrapPanel>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <WrapPanel                                                                          
+                                Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center"                                                                               
+                                Margin="0,9,0,0">
+                                <TextBlock Margin="0,0,0,20" Text="{Binding AppService.RecipeName}"/>
+                                <TextBlock Margin="0,0,0,20" Text="{Binding AppService.PrecitecService.SensorType}"/>
+                                <TextBlock Margin="0,0,0,20" Text="{Binding AppService.DutBarcode}"/>
+                            </WrapPanel>
+                        </StackPanel>
+                    </Grid>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <StackPanel>
+                <GroupBox Header="HARDWARE STATUS " FontSize="12" BorderThickness="2" 
+                          Margin="5,10,5,5"                 
+                        Style="{DynamicResource MaterialDesignGroupBox}"
+                        materialDesign:ColorZoneAssist.Mode="Custom"
+                        materialDesign:ColorZoneAssist.Background="DimGray"
+                        materialDesign:ColorZoneAssist.Foreground="WhiteSmoke" Grid.Column="0" Grid.ColumnSpan="2" Height="250">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Center"
+                                       Margin="0,9,0,0">
+                                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                           VerticalAlignment="Center">
+                                    <Button HorizontalAlignment="Right"
+                                            Margin="0,0,3,0" Height="30">
+                                        <Button.Style>
+                                            <Style TargetType="Button"
+                                                   BasedOn="{StaticResource Lampt}">
+                                                <Setter Property="Tag"                                
+                                                        Value="False"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding AppService.DIOModule1.Connected}"
+                                                                 Value="True">
+                                                        <Setter Property="Tag"
+                                                                Value="True" />
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                    <Label>
+                                        <StackPanel Orientation="Horizontal">
+                                            <materialDesign:PackIcon Kind="Connection" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                            <TextBlock Text="DIO Module 1" VerticalAlignment="Center" FontSize="12" FontWeight="Bold"/>
+                                        </StackPanel>
+                                    </Label>
+                                </WrapPanel>
+                                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                           VerticalAlignment="Center">
+                                    <Button HorizontalAlignment="Right"
+                                            Margin="0,0,3,0" Height="30">
+                                        <Button.Style>
+                                            <Style TargetType="Button"
+                                                   BasedOn="{StaticResource Lampt}">
+                                                <Setter Property="Tag"                                
+                                                        Value="False"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding AppService.DIOModule2.Connected}"
+                                                                 Value="True">
+                                                        <Setter Property="Tag"
+                                                                Value="True" />
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                    <Label>
+                                        <StackPanel Orientation="Horizontal">
+                                            <materialDesign:PackIcon Kind="Connection" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                            <TextBlock Text="DIO Module 2" VerticalAlignment="Center" FontSize="12" FontWeight="Bold"/>
+                                        </StackPanel>
+                                    </Label>
+                                </WrapPanel>
+                                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                           VerticalAlignment="Center">
+                                    <Button HorizontalAlignment="Right"
+                                            Margin="0,0,3,0" Height="30">
+                                        <Button.Style>
+                                            <Style TargetType="Button"
+                                                   BasedOn="{StaticResource Lampt}">
+                                                <Setter Property="Tag"                                
+                                                        Value="False"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding AppService.DIOModule2.IOMapping[5]}"
+                                                                 Value="True">
+                                                        <Setter Property="Tag"
+                                                                Value="True" />
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                    <Label>
+                                        <StackPanel Orientation="Horizontal">
+                                            <materialDesign:PackIcon Kind="Connection" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                            <TextBlock Text="Safety Circuit" VerticalAlignment="Center" FontSize="12" FontWeight="Bold"/>
+                                        </StackPanel>
+                                    </Label>
+                                </WrapPanel>
+                                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                           VerticalAlignment="Center">
+                                    <Button HorizontalAlignment="Right"
+                                            Margin="0,0,3,0" Height="30">
+                                        <Button.Style>
+                                            <Style TargetType="Button"
+                                                   BasedOn="{StaticResource Lampt}">
+                                                <Setter Property="Tag"                                
+                                                        Value="False"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding AppService.DIOModule1.IOMapping[5]}"
+                                                                 Value="True">
+                                                        <Setter Property="Tag"
+                                                                Value="True" />
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                    <Label>
+                                        <StackPanel Orientation="Horizontal">
+                                            <materialDesign:PackIcon Kind="Vacuum" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                            <TextBlock Text="Vacuum Status" VerticalAlignment="Center" FontSize="12" FontWeight="Bold"/>
+                                        </StackPanel>
+                                    </Label>
+                                </WrapPanel>
+
+                            </WrapPanel>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center"
+                                       Margin="0,9,0,0">
+                                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                           VerticalAlignment="Center">
+                                    <Button HorizontalAlignment="Right"
+                                            Margin="0,0,3,0" Height="30">
+                                        <Button.Style>
+                                            <Style TargetType="Button"
+                                                   BasedOn="{StaticResource Lampt}">
+                                                <Setter Property="Tag"                                
+                                                        Value="False"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding AppService.IAIMotion.Connected}"
+                                                                 Value="True">
+                                                        <Setter Property="Tag"
+                                                                Value="True" />
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                    <Label>
+                                        <StackPanel Orientation="Horizontal">
+                                            <materialDesign:PackIcon Kind="Connection" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                            <TextBlock Text="IAI Motion" VerticalAlignment="Center" FontSize="12" FontWeight="Bold"/>
+                                        </StackPanel>
+                                    </Label>
+                                </WrapPanel>
+                                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                           VerticalAlignment="Center">
+                                    <Button HorizontalAlignment="Right"
+                                            Margin="0,0,3,0" Height="30">
+                                        <Button.Style>
+                                            <Style TargetType="Button"
+                                                   BasedOn="{StaticResource Lampt}">
+                                                <Setter Property="Tag"                                
+                                                        Value="False"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding AppService.IAIMotion.ServoOn}"
+                                                                 Value="True">
+                                                        <Setter Property="Tag"
+                                                                Value="True" />
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                    <Label>
+                                        <StackPanel Orientation="Horizontal">
+                                            <materialDesign:PackIcon Kind="Motor" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                            <TextBlock Text="Servo On" VerticalAlignment="Center" FontSize="12" FontWeight="Bold"/>
+                                        </StackPanel>
+                                    </Label>
+                                </WrapPanel>
+                                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left"
+                                           VerticalAlignment="Center">
+                                    <Button HorizontalAlignment="Right"
+                                            Margin="0,0,3,0" Height="30">
+                                        <Button.Style>
+                                            <Style TargetType="Button"
+                                                   BasedOn="{StaticResource Lampt}">
+                                                <Setter Property="Tag"                                
+                                                        Value="False"></Setter>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding AppService.PrecitecService.Connected}"
+                                                                 Value="True">
+                                                        <Setter Property="Tag"
+                                                                Value="True" />
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Button.Style>
+                                    </Button>
+                                    <Label>
+                                        <StackPanel Orientation="Horizontal">
+                                            <materialDesign:PackIcon Kind="Connection" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                            <TextBlock Text="Precitec Controller" VerticalAlignment="Center" FontSize="12" FontWeight="Bold"/>
+                                        </StackPanel>
+                                    </Label>
+                                </WrapPanel>
+                            </WrapPanel>
+                        </StackPanel>
+                    </Grid>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="2">
+            <StackPanel>
+                <GroupBox Header="CONTROL PANEL" FontSize="13" BorderThickness="2" Margin="5,10,5,5"                 
+                                      Style="{DynamicResource MaterialDesignGroupBox}"
+                                      materialDesign:ColorZoneAssist.Mode="Custom"
+                                      materialDesign:ColorZoneAssist.Background="DimGray"
+                                      materialDesign:ColorZoneAssist.Foreground="WhiteSmoke" Grid.Column="0" Grid.ColumnSpan="2" Height="250">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0">
+                            <WrapPanel                                                                          
+                                Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center"                                                                               
+                                Margin="0,9,0,0">
+                                <Button Command="{Binding AutoCmd}"                                     
+                                        Content="Auto">
+                                    <Button.Style>
+                                        <Style TargetType="Button"
+                                               BasedOn="{StaticResource CustomButtonStyle}">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding Auto}" Value="True">
+                                                    <Setter Property="Background" Value="#00FF00" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+                                <Button Command="{Binding ManualCmd}"                                                       
+                                        Content="Manual">
+                                    <Button.Style>
+                                        <Style TargetType="Button"                                              
+                                               BasedOn="{StaticResource CustomButtonStyle}">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding Auto}" Value="False">
+                                                    <Setter Property="Background" Value="#00FF00" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+                                <Button Command="{Binding InitCmd}"                                                        
+                                        Content="Initialize">
+                                    <Button.Style>
+                                        <Style TargetType="Button"                                              
+                                               BasedOn="{StaticResource CustomButtonStyle}">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding Init}" Value="True">
+                                                    <Setter Property="Background" Value="#00FF00" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+                            </WrapPanel>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1">
+                            <WrapPanel                                                                          
+                                Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center"                                                                               
+                                Margin="0,9,0,0">
+                                <Button Command="{Binding StartCmd}"                                                                                                                                      
+                                        Content="Start" IsEnabled="{Binding IsStartEna}">
+                                    <Button.Style>
+                                        <Style TargetType="Button"                                              
+                                               BasedOn="{StaticResource CustomButtonStyle}">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding IsStart}" Value="True">
+                                                    <Setter Property="Background" Value="#00FF00" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+
+                                </Button>
+
+                                <Button Command="{Binding StopCmd}"                                                        
+                                        Content="Stop">
+                                    <Button.Style>
+                                        <Style TargetType="Button"                                              
+                                               BasedOn="{StaticResource CustomButtonStyle}">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding IsStop}" Value="True">
+                                                    <Setter Property="Background" Value="#FF3333" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>
+                                <!--<Button Command="{Binding ResetCmd}"                                                            
+                                        Content="Reset">
+                                    <Button.Style>
+                                        <Style TargetType="Button"                                              
+                                               BasedOn="{StaticResource CustomButtonStyle}">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding ResetCmd}" Value="True">
+                                                    <Setter Property="Background" Value="#00FF00" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </Button.Style>
+                                </Button>-->
+                            </WrapPanel>
+                        </StackPanel>
+                    </Grid>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="2">
+            <StackPanel>
+                <GroupBox Header="Fixture Axes Status" FontSize="13" BorderThickness="2" Margin="5,10,5,0"                 
+                            Style="{DynamicResource MaterialDesignGroupBox}"
+                            materialDesign:ColorZoneAssist.Mode="Custom"
+                            materialDesign:ColorZoneAssist.Background="DimGray"
+                            materialDesign:ColorZoneAssist.Foreground="WhiteSmoke" Grid.Column="0" Grid.ColumnSpan="2" Height="210">
+                    <Grid>
+                        <WrapPanel HorizontalAlignment="Center" Orientation="Horizontal" VerticalAlignment="top">
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left" 
+                                       Margin="0 0 3 0">
+                                <Label FontWeight="Bold" FontStyle="Italic" FontSize="16"
+                           Content="Axis" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                                <Label Width="25" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="X" HorizontalContentAlignment="Left" FontSize="16"
+                           VerticalContentAlignment="Top"/>
+
+                                <Label Width="25" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="Y" HorizontalContentAlignment="Left" FontSize="16"
+                           VerticalContentAlignment="Top"/>
+
+                            </WrapPanel>
+                            <WrapPanel Orientation="Vertical" HorizontalAlignment="Left"
+                                       Margin="0 0 3 0">
+                                <Label FontWeight="Bold" FontStyle="Italic" FontSize="16"
+                           Content="Coordinates" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                                <Label Width="100" Height="30" FontWeight="Bold" FontStyle="Italic" FontSize="16"
+                           Content="{Binding AppService.IAIMotion.XAxisFixture}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                                <Label Width="100" Height="30" FontWeight="Bold" FontStyle="Italic" FontSize="16"
+                           Content="{Binding AppService.IAIMotion.YAxisFixture}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                            </WrapPanel>
+                            <!--<Button Style="{StaticResource CustomButtonStyle}"
+                                                Margin="5"
+                                                Content="Test MultiPoint"
+                                                FontWeight="Normal"
+                                                FontSize="12"
+                                                Height="35" Width="90"
+                                                BorderBrush="Transparent"
+                                                Background="#9FB6CD"
+                                                Command="{Binding TestMultiPointCmd}"
+                                                CommandParameter="y"/>-->
+
+                            <!--<Button Command="{Binding ConnectFssCmd}" Visibility="Hidden"                                                           
+                                    Content="Connect Fss">
+                                <Button.Style>
+                                    <Style TargetType="Button"                                              
+                                               BasedOn="{StaticResource CustomButtonStyle}">
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding ResetCmd}" Value="True">
+                                                <Setter Property="Background" Value="#00FF00" />
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Button.Style>
+                            </Button>-->
+                        </WrapPanel>
+                    </Grid>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1" Grid.RowSpan="2" 
+              Grid.Column="0" Grid.ColumnSpan="2">
+            <GroupBox Header="DATA VISUALIZATION" FontSize="13" BorderThickness="2" Margin="5,10,5,0"                 
+                          Style="{DynamicResource MaterialDesignGroupBox}"
+                          materialDesign:ColorZoneAssist.Mode="Custom"
+                          materialDesign:ColorZoneAssist.Background="DimGray"
+                          materialDesign:ColorZoneAssist.Foreground="WhiteSmoke">
+                <TabControl SelectedIndex="{Binding PrecitecTabSelect}">
+                    <!--<TabItem Header="Heat Map" Visibility="{Binding TabFss}" Height="40">
+                        <WrapPanel Orientation="Vertical" >
+                            <StackPanel>
+                                <Border BorderBrush="DimGray"
+                                    BorderThickness="1 0 0 1">
+                                    <Label HorizontalContentAlignment="Left"
+                                       VerticalContentAlignment="Center"
+                                     HorizontalAlignment="Left"
+                                     Width="120"
+                                     Background="DimGray"
+                                     Foreground="WhiteSmoke"
+                                     FontSize="13"
+                                     Content=" Plot Signal"/>
+                                </Border>
+                                <ComboBox Width="200" HorizontalAlignment="Left"
+                                      VerticalContentAlignment="Bottom"                              
+                                      VerticalAlignment="Bottom"
+                                      Background="White"
+                                      ItemsSource="{Binding AppService.PrecitecService.PlotSignal}"
+                                      SelectedItem="{Binding SelectedSignalId,Mode=TwoWay}">
+                                </ComboBox>
+                                --><!--<Border BorderBrush="DimGray"
+                                    BorderThickness="1 0 0 1">
+                                <Label HorizontalContentAlignment="Left"
+                                       VerticalContentAlignment="Center"
+                                     HorizontalAlignment="Left"
+                                     Width="120"
+                                     Background="DimGray"
+                                     Foreground="WhiteSmoke"
+                                     FontSize="13"
+                                     Content=" Spectrum"/>
+                            </Border>
+                            <Border Width="600" Height="400" BorderBrush="DimGray"
+                                    BorderThickness="1 0 1 1">
+                                <lvc:CartesianChart Name="chart">
+                                    <lvc:CartesianChart.Series>
+                                        <lvc:LineSeries Values="{Binding DataPoints}" Title="Data" />
+                                    </lvc:CartesianChart.Series>
+                                    <lvc:CartesianChart.AxisX>
+                                        <lvc:Axis Name="XAxis" Title="X-Axis" MaxValue="{Binding AutoScaleXMax}" MinValue="{Binding AutoScaleXMin}" />
+                                    </lvc:CartesianChart.AxisX>
+                                    <lvc:CartesianChart.AxisY>
+                                        <lvc:Axis Name="YAxis" Title="Y-Axis" MaxValue="{Binding AutoScaleYMax}" MinValue="{Binding AutoScaleYMin}" />
+                                    </lvc:CartesianChart.AxisY>
+                                </lvc:CartesianChart>
+                            </Border>--><!--
+                            </StackPanel>
+                            <Border BorderThickness="1" BorderBrush="DimGray">
+                                <Image Height="auto" Width="auto"
+                                       Source="{Binding AppService.PrecitecService.HeatMap}"/>
+                            </Border>
+                        </WrapPanel>
+                    </TabItem>-->
+                    <TabItem Header="Spectrum" Visibility="{Binding Tab1D}">
+                        <StackPanel Orientation="Vertical">
+                            <StackPanel Orientation="Horizontal">
+                                <!--<WrapPanel>
+                                    <Label Content="Raw Spectrum:" VerticalAlignment="Center" Margin="0,5,0,0"/>
+                                    <CheckBox Width="50" Height="40" 
+                                          VerticalAlignment="Center" 
+                                          HorizontalAlignment="Center" 
+                                          Margin="5" 
+                                          IsChecked="{Binding AppService.PrecitecService.SpecTrumRaw}">
+                                    </CheckBox>
+                                </WrapPanel>
+                                <WrapPanel Margin="20,0,0,0">
+                                    <Label Content="FFT Spectrum: " VerticalAlignment="Center"></Label>
+                                    <CheckBox Width="50" Height="40" 
+                                          VerticalAlignment="Center" 
+                                          HorizontalAlignment="Center" 
+                                          Margin="5"
+                                          IsChecked="{Binding AppService.PrecitecService.SpecTrumFt}">
+                                    </CheckBox>
+                                </WrapPanel>-->
+                                <WrapPanel Margin="20,0,0,0">
+                                    <Label Content="Dowload Spectrum" VerticalAlignment="Center"/>
+                                    <CheckBox Width="50" Height="40"
+                                              VerticalAlignment="Center" 
+                                              HorizontalAlignment="Center" Margin="5"
+                                              IsChecked="{Binding IsDownloadSpectrum}">
+                                    </CheckBox>
+                                </WrapPanel>
+                            </StackPanel>
+                            <Border Width="auto" Height="430" BorderBrush="DimGray"
+                                    BorderThickness="1 1 1 1">
+                                <Grid>
+                                    <lvc:CartesianChart Series="{Binding DataPoints}" Background="Black" Margin="25">
+                                        <lvc:CartesianChart.AxisX>
+                                            <lvc:Axis Title="X-Axis"/>
+                                        </lvc:CartesianChart.AxisX>
+                                        <lvc:CartesianChart.AxisY>
+                                            <lvc:Axis Title="Y-Axis"/>
+                                        </lvc:CartesianChart.AxisY>
+                                        <!--<lvc:CartesianChart.Series >
+                                        <lvc:LineSeries Title="Data" Values="{Binding DataPoints}"
+                                                PointGeometry="{x:Null}" LineSmoothness="0.7" Stroke="Blue" StrokeThickness="2" />
+                                    </lvc:CartesianChart.Series>-->
+                                        <!--<lvc:CartesianChart.Series>
+                                    <lvc:LineSeries Values="{Binding DataPoints}" Title="Data" />
+                                </lvc:CartesianChart.Series>
+                                <lvc:CartesianChart.AxisX>
+                                    <lvc:Axis Name="XAxis" Title="X-Axis" MaxValue="{Binding AutoScaleXMax}" MinValue="{Binding AutoScaleXMin}" />
+                                </lvc:CartesianChart.AxisX>
+                                <lvc:CartesianChart.AxisY>
+                                    <lvc:Axis Name="YAxis" Title="Y-Axis" MaxValue="{Binding AutoScaleYMax}" MinValue="{Binding AutoScaleYMin}" />
+                                </lvc:CartesianChart.AxisY>-->
+                                    </lvc:CartesianChart>
+                                </Grid>
+                            </Border>
+                        </StackPanel>
+                    </TabItem>
+                </TabControl>
+            </GroupBox>
+        </Grid>
+    </Grid>
+</UserControl>

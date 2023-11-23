@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<AlarmList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AlarmCategory>
+    <Alarm>
+      <ID>A0</ID>
+      <Description>\A0\Error\System\Emergency EMO Front Pressed\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A1</ID>
+      <Description>\A1\Error\System\Emergency EMO Back Pressed\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A2</ID>
+      <Description>\A2\Error\System\Cover Left Open\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A3</ID>
+      <Description>\A3\Error\System\Cover Right Open\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A4</ID>
+      <Description>\A4\Warning\System\Front Door Open or Not Lock\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A5</ID>
+      <Description>\A5\Error\Robot\Robot not connected\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A6</ID>
+      <Description>\A6\Error\Robot\Robot EMO Pressed\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A7</ID>
+      <Description>\A7\Error\Robot\Robot Error\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A8</ID>
+      <Description>\A8\Warning\Robot\Robot in Teach Mode\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A9</ID>
+      <Description>\A9\Error\Actuator\Actuator Not Connected\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A10</ID>
+      <Description>\A10\Error\Actuator\Actuator Error\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A11</ID>
+      <Description>\A11\Error\Actuator\Actuator Negative Limit Activated\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A12</ID>
+      <Description>\A12\Error\Actuator\Actuator Positive Limit Activated\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A13</ID>
+      <Description>\A13\Error\Camera\Camera Not Connected\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A14</ID>
+      <Description>\A14\Error\Camera\Camera Error\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A15</ID>
+      <Description>\A15\Error\IO Module\IO Module 1 Not Connected\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A16</ID>
+      <Description>\A16\Error\IO Module\IO Module 2 Not Connected\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A17</ID>
+      <Description>\A17\Error\IO Module\IO Module 1 Error\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A18</ID>
+      <Description>\A18\Error\IO Module\IO Module 2 Error\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A19</ID>
+      <Description>\A19\Warning\System\Summary File Opening\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A20</ID>
+      <Description>\A20\Warning\System\Service Key in Teach Mode\</Description>
+    </Alarm>
+    <Alarm>
+      <ID>A21</ID>
+      <Description>\A21\Warning\System\D Disk Space Not Enough Space, Less than 2Gb\</Description>
+    </Alarm>
+  </AlarmCategory>
+</AlarmList>

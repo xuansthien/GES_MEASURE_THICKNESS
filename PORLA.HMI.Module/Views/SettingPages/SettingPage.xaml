@@ -1,0 +1,271 @@
+﻿<UserControl x:Class="PORLA.HMI.Module.Views.SettingPages.SettingPage" 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:winui="using:Microsoft.UI.Xaml.Controls"
+             xmlns:local="clr-namespace:PORLA.HMI.Module.Views.SettingPages"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             xmlns:vm="clr-namespace:PORLA.HMI.Module.ViewModels"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="#EDEDED"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d"
+             d:DesignHeight="900" d:DesignWidth="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Border BorderBrush="Gray"  BorderThickness="0,0,1,1" Grid.Column="0" Grid.Row="0"/>
+        <Border BorderBrush="Gray"  BorderThickness="0,0,1,1" Grid.Column="0" Grid.Row="1"/>
+        <Border BorderBrush="Gray"  BorderThickness="0,0,1,1" Grid.Column="1" Grid.Row="0"/>
+        <Grid Grid.Row="0" Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.55*"/>
+                <ColumnDefinition Width="0.6*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Settings" Width="40" Height="50" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock Text="IAI Motion" VerticalAlignment="Center" FontSize="15" FontWeight="Bold"/>
+                </StackPanel>
+            </Label>
+            <Label Content="IP IAI:" Grid.Row="1" Margin="10" VerticalAlignment="Center"/>
+            <TextBox IsReadOnly="True"
+                VerticalAlignment="Center"
+                Text="{Binding AppService.IAIMotion.IPIAI}" 
+                Grid.Row="1" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="IAI Motion"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+            <Label Content="Port IAI Motion:" Grid.Row="2" Margin="10" VerticalAlignment="Center"/>
+            <TextBox IsReadOnly="True"
+                Text="{Binding AppService.IAIMotion.PortAuto}" 
+                Grid.Row="2" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="Port"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+            <Label Content="Axis X Acc, Dcc:" Grid.Row="4" Margin="10" VerticalAlignment="Center"/>
+            <TextBox
+                Text="{Binding AppService.IAIMotion.AccX}" Grid.Row="4" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="X Acc, Dcc"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+            <Label Content="Axis X Speed:" Grid.Row="5" Margin="10" VerticalAlignment="Center"/>
+            <TextBox
+                Text="{Binding AppService.IAIMotion.SpeedX}" Grid.Row="5" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="X Speed"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+            <Label Content="Axis Y Acc, Dcc:" Grid.Row="6" Margin="10" VerticalAlignment="Center"/>
+            <TextBox
+                Text="{Binding AppService.IAIMotion.AccY}" Grid.Row="6" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="Y Acc, Dcc"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+            <Label Content="Axis Y Speed:" Grid.Row="7" Margin="10" VerticalAlignment="Center"/>
+            <TextBox
+                Text="{Binding AppService.IAIMotion.SpeedY}" Grid.Row="7" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="Y Speed"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+            <Label Content="Station:" Grid.Row="3" Margin="10" VerticalAlignment="Center"/>
+            <TextBox IsReadOnly="True"
+                Text="{Binding AppService.IAIMotion.Station}" Grid.Row="3" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="Station"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+            <Button Style="{StaticResource CustomButtonStyle}"
+                    Grid.Column="2" Grid.Row="7"
+                    Content="Update Change"
+                    FontWeight="Normal" FontSize="14"
+                    Height="45" Width="110"
+                    Command=""
+                    CommandParameter=""
+                    Background="#9FB6CD">
+            </Button>
+            <Border Grid.Column="2" Grid.Row="1" Grid.RowSpan="2"
+                    BorderBrush="DimGray"
+                    BorderThickness="1">
+                <GroupBox Header="IAI Axes Status" BorderBrush="#FF747474" 
+                          BorderThickness="1">
+                    <WrapPanel Orientation="Horizontal" VerticalAlignment="top" HorizontalAlignment="Left">
+                        <WrapPanel Orientation="Vertical" HorizontalAlignment="Left" 
+                                       Margin="0 0 3 0">
+                            <Label FontWeight="Bold" FontStyle="Italic" FontSize="12"
+                           Content="Axis" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                            <Label Width="25" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="X" HorizontalContentAlignment="Left" FontSize="12"
+                           VerticalContentAlignment="Top"/>
+
+                            <Label Width="25" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="Y" HorizontalContentAlignment="Left" FontSize="12"
+                           VerticalContentAlignment="Top"/>
+
+                        </WrapPanel>
+                        <WrapPanel Orientation="Vertical" HorizontalAlignment="Left"
+                                       Margin="0 0 3 0">
+                            <Label FontWeight="Bold" FontStyle="Italic" FontSize="12"
+                           Content="Coordinates" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                            <Label Width="80" Height="30" FontWeight="Bold" FontStyle="Italic" FontSize="12"
+                           Content="{Binding AppService.IAIMotion.XCoordinate}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                            <Label Width="80" Height="30" FontWeight="Bold" FontStyle="Italic" FontSize="12"
+                           Content="{Binding AppService.IAIMotion.YCoordinate}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                        </WrapPanel>
+                        
+                    </WrapPanel>
+                </GroupBox>
+            </Border>
+            <Border Grid.Column="2" Grid.Row="3" Grid.RowSpan="2"
+                    BorderBrush="DimGray"
+                    BorderThickness="1,1,1,1">
+                <GroupBox Header="Fixture Axes Status" BorderBrush="#FF747474" 
+                          BorderThickness="1">
+                    <WrapPanel Orientation="Horizontal" VerticalAlignment="top" HorizontalAlignment="Left">
+                        <WrapPanel Orientation="Vertical" HorizontalAlignment="Left" 
+                                       Margin="0 0 3 0">
+                            <Label FontWeight="Bold" FontStyle="Italic" FontSize="12"
+                           Content="Axis" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                            <Label Width="25" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="X" HorizontalContentAlignment="Left" FontSize="12"
+                           VerticalContentAlignment="Top"/>
+
+                            <Label Width="25" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="Y" HorizontalContentAlignment="Left" FontSize="12"
+                           VerticalContentAlignment="Top"/>
+
+                        </WrapPanel>
+                        <WrapPanel Orientation="Vertical" HorizontalAlignment="Left"
+                                       Margin="0 0 3 0">
+                            <Label FontWeight="Bold" FontStyle="Italic" FontSize="12"
+                           Content="Coordinates" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                            <Label Width="80" Height="30" FontWeight="Bold" FontStyle="Italic" FontSize="12"
+                           Content="{Binding AppService.IAIMotion.XAxisFixture}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                            <Label Width="80" Height="30" FontWeight="Bold" FontStyle="Italic" FontSize="12"
+                           Content="{Binding AppService.IAIMotion.YAxisFixture}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Top"/>
+
+                        </WrapPanel>
+                        <Button Style="{StaticResource CustomButtonStyle}"                   
+                                Content="Set Zero"
+                                FontWeight="Normal" FontSize="12"
+                                Height="35" Width="90"
+                                Command="{Binding SetFixtureCoordinate}"
+                                Background="#9FB6CD">
+                        </Button>
+
+                    </WrapPanel>
+
+                </GroupBox>
+            </Border>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.5*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" >
+                <StackPanel Orientation="Horizontal" Width="220">
+                    <materialDesign:PackIcon Kind="Settings" Width="40" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock Text="ADAM 6052 Module1" VerticalAlignment="Center" FontSize="15" FontWeight="Bold" ></TextBlock>
+                </StackPanel>
+            </Label>
+            <Label Content="IP ADAM 6052:" Grid.Row="1" Margin="10" VerticalAlignment="Center"/>
+            <TextBox IsReadOnly="True"
+                VerticalAlignment="Center"
+                Text="{Binding AppService.DIOModule1.IpAddress}" Grid.Row="1" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="IAI Motion"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+            <Label Content="Port ADAM" Grid.Row="2" Margin="10" VerticalAlignment="Center"/>
+            <TextBox IsReadOnly="True"
+                Text="502" Grid.Row="2" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="Port"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+            <Label Grid.Row="4" Grid.Column="0" >
+                <StackPanel Orientation="Horizontal" Width="220">
+                    <materialDesign:PackIcon Kind="Settings" Width="40" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock Text="ADAM 6052 Module 2" VerticalAlignment="Center" FontSize="15" FontWeight="Bold" ></TextBlock>
+                </StackPanel>
+            </Label>
+            <Label Content="IP ADAM 6052:" Grid.Row="5" Margin="10" VerticalAlignment="Center"/>
+            <TextBox IsReadOnly="True"
+                VerticalAlignment="Center"
+                Text="{Binding AppService.DIOModule2.IpAddress}" Grid.Row="5" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="IAI Motion"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+            <Label Content="Port ADAM" Grid.Row="6" Margin="10" VerticalAlignment="Center"/>
+            <TextBox IsReadOnly="True"
+                Text="502" Grid.Row="6" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="Port"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1.2*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0">
+                <StackPanel Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="Settings" Width="40" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock Text="Precitec Controller" VerticalAlignment="Center" FontSize="15" FontWeight="Black"/>
+                </StackPanel>
+            </Label>
+            <Label Content="IP Precitec" Grid.Row="1" Margin="10" VerticalAlignment="Center"/>
+            <TextBox IsReadOnly="True"
+                Text="192.168.170.2" Grid.Row="1" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="IP Precitec"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+            <Label Content="Port Precitec" Grid.Row="2" Margin="10" VerticalAlignment="Center" />
+            <TextBox IsReadOnly="True"
+                Text="7891" Grid.Row="2" Grid.Column="1" Margin="10" Width="Auto" HorizontalAlignment="Left"
+                materialDesign:HintAssist.Hint="Port Precitec"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Center"/>
+        </Grid>
+    </Grid>
+</UserControl>

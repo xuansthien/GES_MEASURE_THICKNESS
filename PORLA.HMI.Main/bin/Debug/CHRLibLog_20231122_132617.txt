@@ -1,0 +1,1055 @@
+2023-11-22 13:26:17 Load in CHRocodile.ini
+2023-11-22 13:26:17 Load in Plugins
+2023-11-22 13:26:17 Try to load in plugin: .//Plugin//CLS2CalibrationPlugin.dll
+2023-11-22 13:26:17 Try to get plugin interface functions.
+2023-11-22 13:26:17 Try to load in plugin: .//Plugin//FlyingSpotPlugin.dll
+2023-11-22 13:26:17 Try to get plugin interface functions.
+2023-11-22 13:26:17 Connect to CHRocodile device!
+2023-11-22 13:26:17 Receive command: $VER firmware_version=1.4.3
+build=r # 84a8b7d83 # 1929 # 2023-04-12T10:11:03+0000 # mainline
+hardware_serial_number=007777
+device_serial_number=207777
+ Ticket: 0
+2023-11-22 13:26:17 Receive Data Format Packet with Counter: 1
+2023-11-22 13:26:17 Receive command: $ANAX 256; 15000; 20000; 0; 0; 0; 0; 256; 15000; 20000; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ETR 2; 20 Ticket: 0
+2023-11-22 13:26:17 Receive command: $QTH 5 Ticket: 0
+2023-11-22 13:26:17 Receive command: $AVD 1 Ticket: 0
+2023-11-22 13:26:17 Receive command: $FLTC 0; 0; 0; 0; 0; 0; 0; -64; -128; -64; 0; 0; 0; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $HAN 0; 1024 Ticket: 0
+2023-11-22 13:26:17 Receive command: $MMD 1 Ticket: 0
+2023-11-22 13:26:17 Receive command: $FLTI 0; 0; 0; 0; 0; 0; 0; -64; -128; -64; 0; 0; 0; 0; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ETR 1; -20800 Ticket: 0
+2023-11-22 13:26:17 Receive command: $SCA 2166 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 0; 3; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 1; 3; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 2; 3; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 3; 3; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 4; 3; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $IDMX 0; 14; 0; 1; 1; 511; v; 262; 263; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $IPCN 0; 192; 168; 170; 2; 255; 255; 255; 0; 1500 Ticket: 0
+2023-11-22 13:26:17 Receive command: $STR 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $SHZ 50000 Ticket: 0
+2023-11-22 13:26:17 Receive command: $DCY 100 Ticket: 0
+2023-11-22 13:26:17 Receive command: $AAL 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $AAL 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $LAI 50 Ticket: 0
+2023-11-22 13:26:17 Receive command: $SCAN 0.999969; 0.999969; 0; 0; no filename specified; -1; -1; 1; 1; x; 11; 1000; 10000; 1000; 1000; 0; 0; 0; 1; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 0; 32768; 0; 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $EQN 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ETR 0; -25600 Ticket: 0
+2023-11-22 13:26:17 Receive command: $AVDS 1 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ALI 255 Ticket: 0
+2023-11-22 13:26:17 Receive command: $STR 2; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $THR 40 Ticket: 0
+2023-11-22 13:26:17 Receive command: $LMA 1 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 0; 4; 7 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 1; 4; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 2; 4; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 3; 4; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 4; 4; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 5; 4; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $DWD 600; 800 Ticket: 0
+2023-11-22 13:26:17 Receive command: $OFN 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $CRDK 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $NOP 10 Ticket: 0
+2023-11-22 13:26:17 Receive command: $SEN 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $IDMP 3; 1; 1; 0; 10000; 5000; 192; 0; 1; 1000; 1000; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 0; 1; 14 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 1; 1; 14 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 2; 1; 15 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 3; 1; 14 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 4; 1; 14 Ticket: 0
+2023-11-22 13:26:17 Receive command: $LOC 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 0; 2; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 1; 2; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 2; 2; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 3; 2; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ENC 4; 2; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $MEDX 7; 50 Ticket: 0
+2023-11-22 13:26:17 Receive command: $SODX  Ticket: 0
+2023-11-22 13:26:17 Receive command: $CWF 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $CALC 0; 1; -1; 0; 0; 0; 1; -1; 0; 0; 0; 1; -1; 0; 0; 0; 1; -1; 0; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ETR 7; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $PSM 50 Ticket: 0
+2023-11-22 13:26:17 Receive command: $CRA 0; 1000 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ETR 5; 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $SENI 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ANAM 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $POD 1 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ETR 4; 1 Ticket: 0
+2023-11-22 13:26:17 Receive command: $GAN 1 Ticket: 0
+2023-11-22 13:26:17 Receive command: $AVS 1 Ticket: 0
+2023-11-22 13:26:17 Receive command: $SRI 1.5 Ticket: 0
+2023-11-22 13:26:17 Receive command: $ABE 0 Ticket: 0
+2023-11-22 13:26:17 Receive command: $SRT 0; 0: no table active Ticket: 0
+2023-11-22 13:26:17 Receive command: $CTN  Ticket: 0
+2023-11-22 13:26:17 Receive command: $ETR 3; 0 Ticket: 0
+2023-11-22 13:26:17 Receive Data Format Packet with Counter: 2
+2023-11-22 13:26:18 Receive command: $CONF  Ticket: 0
+2023-11-22 13:26:18 Receive CHRocodile device data format packet!
+2023-11-22 13:26:18 Connect to CHR device at: 192.168.170.2
+2023-11-22 13:26:18 Send command: PRSN Ticket: 1
+2023-11-22 13:26:18 Send command: CTN Ticket: 2
+2023-11-22 13:26:18 Send command: SODX Ticket: 3
+2023-11-22 13:26:18 Receive command: $PRSN ? personality.caps.light=led/sld personality.caps.max_frequency=70000 personality.caps.spectrometer=LR_V2 personality.channelcount=1 personality.ecatconfiguration=0 personality.oem.bootmessage= personality.oem.branded=false personality.oem.devicetype=LR_V2 personality.oem.id=207777 personality.proddate=28.08.2023 personality.productcode=5103080 personality.revision=2880_I.0210 personality.serial=007777 personality.softwareconfiguration=0  Ticket: 1
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 18556; FSS Plugin init: MMD Flag: 0x0, Ticket: 0 #params: 1 4618556; FSS Restart processing sequence...18556; FSS isPluginPendingCommand: 018556; FSS ExecPluginCommand: CFG Flag: 0x0, Ticket: 65537 #params: 2
+2023-11-22 13:26:18 18556; FSS State change: EIdle -> EIdle
+2023-11-22 13:26:18 18556; FSS CFG with path: ScannerGlobalConfig.cfg
+2023-11-22 13:26:18 18556; FSS arrayToPolynomialZ: polyOrder: 4; num: 15
+2023-11-22 13:26:18 18556; FSS Config file has been successfully loaded
+2023-11-22 13:26:18 18556; FSS State change: EIdle -> ECfgRunning
+2023-11-22 13:26:18 18556; FSS addExtern cmd: MMD Flag: 0x0, Ticket: 39321 #params: 1
+2023-11-22 13:26:18 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39322 #params: 2
+2023-11-22 13:26:18 18556; FSS useXYCoeffsFromDevice: 1; useZCoeffsFromDevice: 1
+2023-11-22 13:26:18 18556; FSS Starting SCAN13 query..
+2023-11-22 13:26:18 18556; FSS addExtern cmd: SCAN Flag: 0x1, Ticket: 39323 #params: 1
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 18556; FSS Replacing ticket: 39323 --> 6
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Send command: MMD Ticket: 4
+2023-11-22 13:26:18 Send command: SCAN Ticket: 5
+2023-11-22 13:26:18 Send command: SCAN Ticket: 6
+2023-11-22 13:26:18 Receive command: $CTN  Ticket: 2
+2023-11-22 13:26:18 Receive Data Format Packet with Counter: 3
+2023-11-22 13:26:18 Receive Data Format Packet with Counter: 4
+2023-11-22 13:26:18 Receive command: $SODX  Ticket: 3
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: %TRM Flag: 0x0, Ticket: 2 #params: 1
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: SODX Flag: 0x0, Ticket: 3 #params: 0
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: %SIG Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:18 Receive command: $MMD 1 Ticket: 4
+2023-11-22 13:26:18 Receive command: $SCA 2166 Ticket: 0
+2023-11-22 13:26:18 Receive command: $LMA 1 Ticket: 0
+2023-11-22 13:26:18 Receive command: $DWD 600; 800 Ticket: 0
+2023-11-22 13:26:18 Receive command: $SRI 1.5 Ticket: 0
+2023-11-22 13:26:18 Receive command: $ABE 0 Ticket: 0
+2023-11-22 13:26:18 Receive command: $SRT 0; 0: no table active Ticket: 0
+2023-11-22 13:26:18 Receive command: $SCAN 6; 1; 1; 1 Ticket: 5
+2023-11-22 13:26:18 13676; FSS OnDeviceResponse: MMD Flag: 0x0, Ticket: 4 #params: 1
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: SCA Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: LMA Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: DWD Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: SRI Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: ABE Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: SRT Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 5 #params: 4
+2023-11-22 13:26:18 Receive command: $SCAN ? 13; 
+[x type=poly; dir=RWTo32k; deg=4]
+0,0:0
+1,0:1
+0,1:0
+1,1:0
+2,0:0
+0,2:0
+2,1:0
+1,2:0
+2,2:0
+3,0:0
+0,3:0
+3,1:0
+1,3:0
+4,0:0
+0,4:0
+
+[y type=poly; dir=RWTo32k; deg=4]
+0,0:0
+1,0:0
+0,1:1
+1,1:0
+2,0:0
+0,2:0
+2,1:0
+1,2:0
+2,2:0
+3,0:0
+0,3:0
+3,1:0
+1,3:0
+4,0:0
+0,4:0
+
+[z_offset type=poly; dir=32kToRW; deg=4]
+0,0:910.36822509765625
+1,0:0.00701628858223557472
+0,1:-0.00199673417955636978
+2,0:5.06635160490986891E-06
+0,2:3.01911018141254317E-06
+1,1:2.41464408645697404E-06
+3,0:-3.48767438540509289E-11
+0,3:-1.87029853410125568E-11
+1,2:-6.65065849614343563E-11
+2,1:-2.56766153478027448E-11
+4,0:-1.71692477265615248E-14
+0,4:-2.94908344164283853E-14
+1,3:-1.67057699325488113E-14
+2,2:-1.06903901218023158E-14
+3,1:-9.33705508878801896E-15
+ Ticket: 6
+2023-11-22 13:26:18 13676; FSS OnDeviceResponse: SCAN Flag: 0x1, Ticket: 6 #params: 2
+2023-11-22 13:26:18 13676; FSS === Inverting XY polynomial coefficients..
+2023-11-22 13:26:18 13676; FSS corrX:  -3.83956699124e-12 +1*x +7.623296525289e-20*x^2 +5.707546226616e-23*x^3 -2.230440422684e-29*x^4 -6.225488874412e-16*y -6.903318520123e-19*x*y +5.066481251887e-24*x^2*y +3.329623629414e-27*x^3*y +6.606856988584e-20*y^2 +4.632211430297e-23*x*y^2 -1.416559444065e-28*x^2*y^2 +3.483495762344e-24*y^3 +3.769278019179e-27*x*y^3 -2.587927707834e-28*y^4
+2023-11-22 13:26:18 13676; FSS corrY:  +5.949017074614e-11 -1.088006338017e-15*x -1.17758755492e-18*x^2 +8.212029401576e-24*x^3 +4.368498989452e-27*x^4 +1*y +1.863472483959e-19*x*y -4.135903062765e-24*x^2*y -1.073634407261e-27*x^3*y -1.165093818948e-18*y^2 +6.62390724896e-24*x*y^2 +8.606288515055e-27*x^2*y^2 -5.790222576758e-24*y^3 -1.012748990021e-27*x*y^3 +4.421120641733e-27*y^4
+2023-11-22 13:26:18 13676; FSS addExtern cmd: ANAX Flag: 0x0, Ticket: 39324 #params: 8
+2023-11-22 13:26:18 13676; FSS addExtern cmd: ANAX Flag: 0x0, Ticket: 39325 #params: 8
+2023-11-22 13:26:18 13676; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39326 #params: 3
+2023-11-22 13:26:18 13676; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39327 #params: 3
+2023-11-22 13:26:18 13676; FSS addExtern cmd: ETR Flag: 0x0, Ticket: 39328 #params: 2
+2023-11-22 13:26:18 13676; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39329 #params: 3
+2023-11-22 13:26:18 13676; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39330 #params: 2
+2023-11-22 13:26:18 13676; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39331 #params: 3
+2023-11-22 13:26:18 13676; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39332 #params: 3
+2023-11-22 13:26:18 13676; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39333 #params: 1
+2023-11-22 13:26:18 13676; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39334 #params: 3
+2023-11-22 13:26:18 13676; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39335 #params: 3
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Translated to internal command struct.
+2023-11-22 13:26:18 Start to execute internal command structs: 1
+2023-11-22 13:26:18 Start to send command
+2023-11-22 13:26:18 Post process command
+2023-11-22 13:26:18 Wait for command response
+2023-11-22 13:26:18 19028; FSS Replacing ticket: 39335 --> 18
+2023-11-22 13:26:18 Response comes back
+2023-11-22 13:26:18 Add response entry.
+2023-11-22 13:26:18 Finish adding response entry.
+2023-11-22 13:26:18 Finish execute command
+2023-11-22 13:26:18 Send command: ANAX Ticket: 7
+2023-11-22 13:26:18 Send command: ANAX Ticket: 8
+2023-11-22 13:26:18 Send command: SCAN Ticket: 9
+2023-11-22 13:26:18 Send command: SCAN Ticket: 10
+2023-11-22 13:26:18 Send command: ETR Ticket: 11
+2023-11-22 13:26:18 Send command: ENC Ticket: 12
+2023-11-22 13:26:18 Send command: SCAN Ticket: 13
+2023-11-22 13:26:18 Send command: ENC Ticket: 14
+2023-11-22 13:26:18 Send command: ENC Ticket: 15
+2023-11-22 13:26:18 Send command: SCAN Ticket: 16
+2023-11-22 13:26:18 Send command: ENC Ticket: 17
+2023-11-22 13:26:18 Send command: ENC Ticket: 18
+2023-11-22 13:26:18 Receive command: $ANAX 0; 256; 15000; 20000; 0; 0; 0; 0 Ticket: 7
+2023-11-22 13:26:18 13676; FSS OnDeviceResponse: ANAX Flag: 0x0, Ticket: 7 #params: 7
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 Receive command: $ANAX 1; 256; 15000; 20000; 0; 0; 0; 0 Ticket: 8
+2023-11-22 13:26:18 Receive command: $SCAN 1; 1; 1 Ticket: 9
+2023-11-22 13:26:18 13676; FSS OnDeviceResponse: ANAX Flag: 0x0, Ticket: 8 #params: 7
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 9 #params: 3
+2023-11-22 13:26:18 Receive command: $SCAN 2; 0; 0 Ticket: 10
+2023-11-22 13:26:18 Receive command: $ETR 3; 0 Ticket: 11
+2023-11-22 13:26:18 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 10 #params: 3
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: %ETE Flag: 0x0, Ticket: 11 #params: 1
+2023-11-22 13:26:18 Receive command: $ENC 2; 1; 15 Ticket: 12
+2023-11-22 13:26:18 Receive command: $SCAN 6; 1; 1; 1 Ticket: 13
+2023-11-22 13:26:18 13676; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 12 #params: 2
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 13 #params: 4
+2023-11-22 13:26:18 Receive command: $ENC 0; 1; 14 Ticket: 14
+2023-11-22 13:26:18 Receive command: $ENC 1; 1; 14 Ticket: 15
+2023-11-22 13:26:18 13676; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 14 #params: 2
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 15 #params: 2
+2023-11-22 13:26:18 Receive command: $SCAN 0; no filename specified Ticket: 16
+2023-11-22 13:26:18 Receive command: $ENC 3; 1; 14 Ticket: 17
+2023-11-22 13:26:18 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 16 #params: 2
+2023-11-22 13:26:18 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:18 Receive command: $ENC 4; 1; 14 Ticket: 18
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 17 #params: 2
+2023-11-22 13:26:18 19028; FSS OnDeviceResponse: %ECS Flag: 0x0, Ticket: 18 #params: 2
+2023-11-22 13:26:18 19028; FSS ++++++++++ FSS has been configured ++++++++++
+2023-11-22 13:26:18 19028; FSS State change: ECfgRunning -> EConfigured
+2023-11-22 13:26:18 19028; FSS IsPluginResponseReady CFG Flag: 0x0, Ticket: 65537 #params: 2
+2023-11-22 13:26:18 19028; FSS OnSendOutPluginCmdRsp: CFG Flag: 0x0, Ticket: 65537 #params: 2; state: 2 cmdFailed: 0
+2023-11-22 13:26:19 Translated to internal command struct.
+2023-11-22 13:26:19 Start to execute internal command structs: 1
+2023-11-22 13:26:19 Start to send command
+2023-11-22 13:26:19 Post process command
+2023-11-22 13:26:19 Wait for command response
+2023-11-22 13:26:19 Response comes back
+2023-11-22 13:26:19 Add response entry.
+2023-11-22 13:26:19 Finish adding response entry.
+2023-11-22 13:26:19 Finish execute command
+2023-11-22 13:26:19 Finish execute command
+2023-11-22 13:26:19 Translated to internal command struct.
+2023-11-22 13:26:19 Start to execute internal command structs: 1
+2023-11-22 13:26:19 Start to send command
+2023-11-22 13:26:19 Post process command
+2023-11-22 13:26:19 Wait for command response
+2023-11-22 13:26:19 Response comes back
+2023-11-22 13:26:19 Add response entry.
+2023-11-22 13:26:19 Finish adding response entry.
+2023-11-22 13:26:19 Finish execute command
+2023-11-22 13:26:19 Finish execute command
+2023-11-22 13:26:19 Send command: FLTI Ticket: 19
+2023-11-22 13:26:19 Send command: FLTC Ticket: 20
+2023-11-22 13:26:19 Receive command: $FLTI 0; 0; 0; 0; 0; 0; 0; -64; 128; -64; 0; 0; 0; 0; 0; 0; 0 Ticket: 19
+2023-11-22 13:26:19 19028; FSS OnDeviceResponse: FLTI Flag: 0x0, Ticket: 19 #params: 17
+2023-11-22 13:26:19 Receive command: $FLTC 0; 0; 0; 0; 0; 0; 0; -64; 128; -64; 0; 0; 0; 0; 0; 0; 0 Ticket: 20
+2023-11-22 13:26:19 13676; FSS OnDeviceResponse: FLTC Flag: 0x0, Ticket: 20 #params: 17
+2023-11-22 13:26:19 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:32 Translated to internal command struct.
+2023-11-22 13:26:32 Start to execute internal command structs: 1
+2023-11-22 13:26:32 Start to send command
+2023-11-22 13:26:32 Post process command
+2023-11-22 13:26:32 Wait for command response
+2023-11-22 13:26:32 Response comes back
+2023-11-22 13:26:32 Add response entry.
+2023-11-22 13:26:32 Finish adding response entry.
+2023-11-22 13:26:32 Finish execute command
+2023-11-22 13:26:32 Finish execute command
+2023-11-22 13:26:32 Translated to internal command struct.
+2023-11-22 13:26:32 Start to execute internal command structs: 1
+2023-11-22 13:26:32 Start to send command
+2023-11-22 13:26:32 Post process command
+2023-11-22 13:26:32 Wait for command response
+2023-11-22 13:26:32 Response comes back
+2023-11-22 13:26:32 Add response entry.
+2023-11-22 13:26:32 Finish adding response entry.
+2023-11-22 13:26:32 Finish execute command
+2023-11-22 13:26:32 Finish execute command
+2023-11-22 13:26:32 Send command: DWD Ticket: 21
+2023-11-22 13:26:32 Send command: QTH Ticket: 22
+2023-11-22 13:26:32 Receive command: $DWD 600; 750 Ticket: 21
+2023-11-22 13:26:32 Receive command: $LMA 1 Ticket: 0
+2023-11-22 13:26:32 13676; FSS OnDeviceResponse: DWD Flag: 0x0, Ticket: 21 #params: 1
+2023-11-22 13:26:32 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:26:32 Receive command: $QTH 35 Ticket: 22
+2023-11-22 13:26:32 19028; FSS OnDeviceResponse: LMA Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:26:32 19028; FSS OnDeviceResponse: QTH Flag: 0x0, Ticket: 22 #params: 1
+2023-11-22 13:27:17 18556; FSS ExecPluginCommand: PROG Flag: 0x0, Ticket: 65538 #params: 2
+2023-11-22 13:27:17 18556; FSS Constructed root node with mem resource: 000001E85FE19230
+2023-11-22 13:27:17 18556; FSS Adding init section to the root node
+2023-11-22 13:27:17 18556; FSS Adding fn main to the root node
+2023-11-22 13:27:17 18556; FSS ******************* compilation successful #ticket: 65538; ProgID: 0x46651E3 *******************
+2023-11-22 13:27:17 13676; FSS IsPluginResponseReady PROG Flag: 0x0, Ticket: 65538 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 19028; FSS IsPluginResponseReady PROG Flag: 0x0, Ticket: 65538 #params: 2
+2023-11-22 13:27:17 19028; FSS OnSendOutPluginCmdRsp: PROG Flag: 0x0, Ticket: 65538 #params: 2; state: 2 cmdFailed: 0
+2023-11-22 13:27:17 18556; FSS ExecPluginCommand: EXEC Flag: 0x0, Ticket: 65539 #params: 1
+2023-11-22 13:27:17 18556; FSS State change: EConfigured -> EConfigured
+2023-11-22 13:27:17 18556; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39336 #params: 3
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39337 #params: 1
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39338 #params: 2
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39339 #params: 3
+2023-11-22 13:27:17 18556; FSS addExtern cmd: OFN Flag: 0x0, Ticket: 0 #params: 2
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SODX Flag: 0x0, Ticket: 0 #params: 23
+2023-11-22 13:27:17 18556; FSS addExtern cmd: TRW Flag: 0x0, Ticket: 39340 #params: 0
+2023-11-22 13:27:17 18556; FSS ************** executing program with ID: 0x46651E3 of size 57880 bytes *************** 
+2023-11-22 13:27:17 18556; FSS addExtern cmd: ETR Flag: 0x0, Ticket: 39341 #params: 2
+2023-11-22 13:27:17 18556; FSS addExtern cmd: DCY Flag: 0x0, Ticket: 39342 #params: 1
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39343 #params: 2
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39344 #params: 5
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39345 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39346 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39347 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39348 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39349 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39350 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39351 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39352 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39353 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39354 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39355 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39356 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39357 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39358 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39359 #params: 4
+2023-11-22 13:27:17 18556; FSS addExtern cmd: TRW Flag: 0x0, Ticket: 39360 #params: 0
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Send command: ENC Ticket: 23
+2023-11-22 13:27:17 Send command: SCAN Ticket: 24
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Send command: SCAN Ticket: 25
+2023-11-22 13:27:17 Send command: SCAN Ticket: 26
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Send command: OFN Ticket: 27
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Send command: SODX Ticket: 28
+2023-11-22 13:27:17 Send command: TRW Ticket: 29
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Send command: ETR Ticket: 30
+2023-11-22 13:27:17 Send command: DCY Ticket: 31
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Send command: SCAN Ticket: 32
+2023-11-22 13:27:17 Send command: SCAN Ticket: 33
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Send command: SCAN Ticket: 34
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 18556; FSS Replacing ticket: 39360 --> 49
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 18556; FSS State change: EConfigured -> EScanStarting
+2023-11-22 13:27:17 Send command: SCAN Ticket: 35
+2023-11-22 13:27:17 Send command: SCAN Ticket: 36
+2023-11-22 13:27:17 Send command: SCAN Ticket: 37
+2023-11-22 13:27:17 Receive command: $ENC 4; 0; 0 Ticket: 23
+2023-11-22 13:27:17 Receive command: $SCAN 0; no filename specified Ticket: 24
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: %EPS Flag: 0x0, Ticket: 23 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 Send command: SCAN Ticket: 38
+2023-11-22 13:27:17 Send command: SCAN Ticket: 39
+2023-11-22 13:27:17 Send command: SCAN Ticket: 40
+2023-11-22 13:27:17 Send command: SCAN Ticket: 41
+2023-11-22 13:27:17 Send command: SCAN Ticket: 42
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 24 #params: 2
+2023-11-22 13:27:17 Send command: SCAN Ticket: 43
+2023-11-22 13:27:17 Send command: SCAN Ticket: 44
+2023-11-22 13:27:17 Send command: SCAN Ticket: 45
+2023-11-22 13:27:17 Send command: SCAN Ticket: 46
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 25
+2023-11-22 13:27:17 Receive command: $SCAN 3; 0; 0 Ticket: 26
+2023-11-22 13:27:17 Send command: SCAN Ticket: 47
+2023-11-22 13:27:17 Send command: SCAN Ticket: 48
+2023-11-22 13:27:17 Send command: TRW Ticket: 49
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 25 #params: 2
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 26 #params: 3
+2023-11-22 13:27:17 Receive command: $OFN 0; 1 Ticket: 27
+2023-11-22 13:27:17 Receive command: $SODX 65; 66; 67; 68; 69; 82; 83; 256; 257; 264; 265; 272; 273; 280; 281; 288; 289; 296; 297; 304; 305; 312; 313 Ticket: 28
+2023-11-22 13:27:17 Receive Data Format Packet with Counter: 5
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: OFN Flag: 0x0, Ticket: 27 #params: 2
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SODX Flag: 0x0, Ticket: 28 #params: 0
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: %SIG Flag: 0x2000, Ticket: 0 #params: 47
+2023-11-22 13:27:17 Receive command: $TRW  Ticket: 29
+2023-11-22 13:27:17 Receive Data Format Packet with Counter: 6
+2023-11-22 13:27:17 Receive command: $ETR 3; 0 Ticket: 30
+2023-11-22 13:27:17 Receive command: $DCY 100 Ticket: 31
+2023-11-22 13:27:17 Receive command: $SCAN 6; 1; 1; 1 Ticket: 32
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: %TRM Flag: 0x0, Ticket: 29 #params: 1
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: %ETE Flag: 0x0, Ticket: 30 #params: 1
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: DCY Flag: 0x0, Ticket: 31 #params: 1
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 32 #params: 4
+2023-11-22 13:27:17 Receive command: $SCAN 8; 0; 0; 32768; 0 Ticket: 33
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 34
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 33 #params: 5
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 34 #params: 2
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 35
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 36
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 35 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 36 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 37
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 38
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 37 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 38 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 39
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 40
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 39 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 40 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 41
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 42
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 41 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 42 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 43
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 44
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 43 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 44 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 45
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 46
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 45 #params: 2
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 46 #params: 2
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 47
+2023-11-22 13:27:17 Receive command: $SCAN 0; direct Ticket: 48
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 47 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 48 #params: 2
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 Receive command: $TRW  Ticket: 49
+2023-11-22 13:27:17 Receive Data Format Packet with Counter: 7
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: %TRM Flag: 0x0, Ticket: 49 #params: 1
+2023-11-22 13:27:17 13676; FSS addExtern cmd: STR Flag: 0x0, Ticket: 39361 #params: 0
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 Quit AutoBufferSave because data format received!
+2023-11-22 13:27:17 Translated to internal command struct.
+2023-11-22 13:27:17 Start to execute internal command structs: 1
+2023-11-22 13:27:17 Start to send command
+2023-11-22 13:27:17 Post process command
+2023-11-22 13:27:17 Wait for command response
+2023-11-22 13:27:17 19028; FSS Replacing ticket: 39361 --> 50
+2023-11-22 13:27:17 Response comes back
+2023-11-22 13:27:17 Add response entry.
+2023-11-22 13:27:17 Finish adding response entry.
+2023-11-22 13:27:17 Finish execute command
+2023-11-22 13:27:17 Send command: STR Ticket: 50
+2023-11-22 13:27:17 Receive command: $STR  Ticket: 50
+2023-11-22 13:27:17 Receive command: $SHZ 50000 Ticket: 0
+2023-11-22 13:27:17 Receive command: $DCY 100 Ticket: 0
+2023-11-22 13:27:17 Receive command: $AAL 0; 0 Ticket: 0
+2023-11-22 13:27:17 Receive command: $AAL 0; 0 Ticket: 0
+2023-11-22 13:27:17 Receive command: $LAI 50 Ticket: 0
+2023-11-22 13:27:17 Receive Data Format Packet with Counter: 8
+2023-11-22 13:27:17 13676; FSS OnDeviceResponse: STR Flag: 0x0, Ticket: 50 #params: 0
+2023-11-22 13:27:17 13676; FSS ++++++++++ starting scanning process ++++++++++
+2023-11-22 13:27:17 13676; FSS State change: EScanStarting -> EScanRunning
+2023-11-22 13:27:17 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:27:17 19028; FSS IsPluginResponseReady EXEC Flag: 0x0, Ticket: 65539 #params: 1
+2023-11-22 13:27:17 19028; FSS OnSendOutPluginCmdRsp: EXEC Flag: 0x0, Ticket: 65539 #params: 1; state: 4 cmdFailed: 0
+2023-11-22 13:27:17 19028; FSS Scan is running.. updates will follow
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: SHZ Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: DCY Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: AAL Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: AAL Flag: 0x2000, Ticket: 0 #params: 2
+2023-11-22 13:27:17 19028; FSS OnDeviceResponse: LAI Flag: 0x2000, Ticket: 0 #params: 1
+2023-11-22 13:27:17 19028; FSS Calling setupInputSignals..
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 0
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 1
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 2
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 3
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 4
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 5
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 6
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 7
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 8
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 9
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 10
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 11
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 12
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 13
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 14
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 15
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 16
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 17
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 18
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 19
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 20
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 21
+2023-11-22 13:27:17 19028; FSS m_sigOfs = 22
+2023-11-22 13:27:17 19028; FSS m_outSigs = 65 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 66 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 67 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 68 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 69 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 82 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 83 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 256 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 257 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 264 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 265 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 272 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 273 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 280 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 281 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 288 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 289 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 296 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 297 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 304 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 305 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 312 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigs = 313 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 82 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 83 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 256 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 257 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 264 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 265 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 272 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 273 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 280 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 281 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 288 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 289 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 296 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 297 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 304 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 305 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 312 (255)
+2023-11-22 13:27:17 19028; FSS m_outSigsRect = 313 (255)
+2023-11-22 13:27:17 19028; FSS m_ctrlOfs = 0
+2023-11-22 13:27:17 19028; FSS m_ctrlOfs = 1
+2023-11-22 13:27:17 19028; FSS m_ctrlOfs = 4
+2023-11-22 13:27:17 19028; FSS reserve 000001E864DC55E0: numElems: 11000000; total: 2024000000; m_total: 0; rebuild: 1; basePtr: 0000000000000000
+2023-11-22 13:27:17 19028; FSS reserve 000001E864DC55E0: final total: 2024000000; m_total: 2024000000; basePtr: 000001E86CF8C050; dontAlloc: 0
+2023-11-22 13:27:17 19028; FSS ---------- new figure: 'AreaScan 1' with ID: 1; startIdx: 0
+2023-11-22 13:29:00 
+2023-11-22 13:29:00 19028; FSS ========== got terminate marker ==========
+2023-11-22 13:29:00 19028; FSS State change: EScanRunning -> EConfigured
+2023-11-22 13:29:00 
+2023-11-22 13:29:01 18520; FSS ExecPluginCommand: STOP Flag: 0x0, Ticket: 65540 #params: 0
+2023-11-22 13:29:01 18520; FSS State change: EConfigured -> EScanStopping
+2023-11-22 13:29:01 18520; FSS addExtern cmd: ENC Flag: 0x0, Ticket: 39362 #params: 3
+2023-11-22 13:29:01 18520; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39363 #params: 1
+2023-11-22 13:29:01 18520; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39364 #params: 2
+2023-11-22 13:29:01 18520; FSS addExtern cmd: SCAN Flag: 0x0, Ticket: 39365 #params: 3
+2023-11-22 13:29:01 18520; FSS addExtern cmd: CTN Flag: 0x0, Ticket: 39366 #params: 0
+2023-11-22 13:29:01 Translated to internal command struct.
+2023-11-22 13:29:01 Start to execute internal command structs: 1
+2023-11-22 13:29:01 Start to send command
+2023-11-22 13:29:01 Post process command
+2023-11-22 13:29:01 Wait for command response
+2023-11-22 13:29:01 Response comes back
+2023-11-22 13:29:01 Add response entry.
+2023-11-22 13:29:01 Finish adding response entry.
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Translated to internal command struct.
+2023-11-22 13:29:01 Start to execute internal command structs: 1
+2023-11-22 13:29:01 Start to send command
+2023-11-22 13:29:01 Post process command
+2023-11-22 13:29:01 Wait for command response
+2023-11-22 13:29:01 Response comes back
+2023-11-22 13:29:01 Add response entry.
+2023-11-22 13:29:01 Finish adding response entry.
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Translated to internal command struct.
+2023-11-22 13:29:01 Start to execute internal command structs: 1
+2023-11-22 13:29:01 Start to send command
+2023-11-22 13:29:01 Post process command
+2023-11-22 13:29:01 Wait for command response
+2023-11-22 13:29:01 Response comes back
+2023-11-22 13:29:01 Add response entry.
+2023-11-22 13:29:01 Finish adding response entry.
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Translated to internal command struct.
+2023-11-22 13:29:01 Start to execute internal command structs: 1
+2023-11-22 13:29:01 Start to send command
+2023-11-22 13:29:01 Post process command
+2023-11-22 13:29:01 Wait for command response
+2023-11-22 13:29:01 Response comes back
+2023-11-22 13:29:01 Add response entry.
+2023-11-22 13:29:01 Finish adding response entry.
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Translated to internal command struct.
+2023-11-22 13:29:01 Start to execute internal command structs: 1
+2023-11-22 13:29:01 Start to send command
+2023-11-22 13:29:01 Post process command
+2023-11-22 13:29:01 Wait for command response
+2023-11-22 13:29:01 Response comes back
+2023-11-22 13:29:01 Add response entry.
+2023-11-22 13:29:01 Finish adding response entry.
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Translated to internal command struct.
+2023-11-22 13:29:01 Start to execute internal command structs: 1
+2023-11-22 13:29:01 Start to send command
+2023-11-22 13:29:01 Post process command
+2023-11-22 13:29:01 Wait for command response
+2023-11-22 13:29:01 18520; FSS Replacing ticket: 39366 --> 56
+2023-11-22 13:29:01 Response comes back
+2023-11-22 13:29:01 Add response entry.
+2023-11-22 13:29:01 Finish adding response entry.
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Finish execute command
+2023-11-22 13:29:01 Send command: STR Ticket: 51
+2023-11-22 13:29:01 Send command: ENC Ticket: 52
+2023-11-22 13:29:01 Send command: SCAN Ticket: 53
+2023-11-22 13:29:01 Send command: SCAN Ticket: 54
+2023-11-22 13:29:01 Send command: SCAN Ticket: 55
+2023-11-22 13:29:01 Send command: CTN Ticket: 56
+2023-11-22 13:29:01 Receive command: $STR  Ticket: 51
+2023-11-22 13:29:01 19028; FSS OnDeviceResponse: STR Flag: 0x0, Ticket: 51 #params: 0
+2023-11-22 13:29:01 Receive command: $ENC 4; 0; 0 Ticket: 52
+2023-11-22 13:29:01 Receive command: $SCAN 0; no filename specified Ticket: 53
+2023-11-22 13:29:01 13676; FSS OnDeviceResponse: %EPS Flag: 0x0, Ticket: 52 #params: 2
+2023-11-22 13:29:01 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:29:01 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 53 #params: 2
+2023-11-22 13:29:01 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:29:01 Receive command: $SCAN 0; direct Ticket: 54
+2023-11-22 13:29:01 Receive command: $SCAN 3; 0; 0 Ticket: 55
+2023-11-22 13:29:01 13676; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 54 #params: 2
+2023-11-22 13:29:01 Quit AutoBufferSave because response received or data format changed!
+2023-11-22 13:29:01 19028; FSS OnDeviceResponse: SCAN Flag: 0x0, Ticket: 55 #params: 3
+2023-11-22 13:29:01 Receive command: $CTN  Ticket: 56
+2023-11-22 13:29:01 Receive Data Format Packet with Counter: 9
+2023-11-22 13:29:01 19028; FSS OnDeviceResponse: %TRM Flag: 0x0, Ticket: 56 #params: 1
+2023-11-22 13:29:01 19028; FSS ---------- scanning has been forcefully stopped ---------
+2023-11-22 13:29:01 19028; FSS IsPluginResponseReady STOP Flag: 0x0, Ticket: 65540 #params: 0
+2023-11-22 13:29:01 19028; FSS OnSendOutPluginCmdRsp: STOP Flag: 0x0, Ticket: 65540 #params: 0; state: 5 cmdFailed: 0
+2023-11-22 13:29:01 19028; FSS State change: EScanStopping -> EConfigured
+2023-11-22 13:29:01 19028; FSS Restart processing sequence...
+2023-11-22 13:29:01 17232; FSS Processing thread quitting..
+2023-11-22 13:32:36 Try to stop Client thread.
+2023-11-22 13:32:36 Client thread is canceled!
+2023-11-22 13:32:36 Noticed user wants to stop client thread.
+2023-11-22 13:32:36 Client thread stops!
+2023-11-22 13:32:36 Invalid handle.

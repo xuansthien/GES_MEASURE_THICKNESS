@@ -1,0 +1,88 @@
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\FromX\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\Repo\ges-polar\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\Repo\ges-polar\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\Repo\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\1. Repo\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.ModelAggregator\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.ModelAggregator\obj\Debug\POLAR.ModelAggregator.pdb

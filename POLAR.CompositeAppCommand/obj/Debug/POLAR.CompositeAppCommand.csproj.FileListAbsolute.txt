@@ -1,0 +1,198 @@
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\FromX\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\Repo\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\1. Repo\1. Latest\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\bin\Debug\Prism.Wpf.xml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\POLAR.CompositeAppCommand\obj\Debug\POLAR.CompositeAppCommand.pdb

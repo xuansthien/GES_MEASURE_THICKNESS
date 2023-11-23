@@ -1,0 +1,214 @@
+﻿<UserControl x:Class="PORLA.HMI.Module.Views.SettingPages.RecipePage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:winui="using:Microsoft.UI.Xaml.Controls"
+             xmlns:local="clr-namespace:PORLA.HMI.Module.Views.SettingPages"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="#EDEDED"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d"
+             d:DesignHeight="900"
+             d:DesignWidth="1000"
+             IsEnabled="{Binding IAppServiceSI.SettingModeActivated}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="0.2*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <WrapPanel Orientation="Vertical" Grid.Row="0">
+            <!--<Border Margin="0,0,0,0"
+                        BorderBrush="DimGray"
+                        BorderThickness="3,0,0,3.5">
+                <Label HorizontalContentAlignment="Left" 
+                           VerticalContentAlignment="Center"
+                           HorizontalAlignment="Left"
+                           Width="200" FontWeight="Bold"
+                           Background="DimGray"
+                           Foreground="WhiteSmoke"
+                           FontSize="14"
+                           Content="  List Recipe"/>
+            </Border>-->
+            <StackPanel HorizontalAlignment="Stretch">
+                <DataGrid ItemsSource="{Binding RecipeList}" 
+                          AutoGenerateColumns="False" ScrollViewer.CanContentScroll="True"
+                          SelectedItem="{Binding SelectedRecipe}"
+                          ScrollViewer.HorizontalScrollBarVisibility="Visible"
+                          ScrollViewer.VerticalScrollBarVisibility="Visible"
+                          IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="No." Binding="{Binding NumberId}" Width="*"/>
+                        <DataGridTextColumn Header="Recipe Name" Binding="{Binding RecipeName}" Width="*"/>
+                        <DataGridTextColumn Header="Sensor Type" Binding="{Binding SensorType}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+        </WrapPanel>
+        <WrapPanel Orientation="Vertical" Grid.Row="1">
+            <Border Margin="0,0,0,0"
+                        BorderBrush="DimGray"
+                        BorderThickness="3,0,0,3.5">
+                <Label HorizontalContentAlignment="Left"
+                           VerticalContentAlignment="Center"
+                           HorizontalAlignment="Left"
+                           Width="200" FontWeight="Bold"
+                           Background="DimGray"
+                           Foreground="WhiteSmoke" FontSize="14"
+                           Content="  Recipe Detail"/>
+            </Border>
+            <StackPanel>
+                <DataGrid ItemsSource="{Binding RecipeDetail}" Visibility="{Binding IsOneD}"
+                          AutoGenerateColumns="False" CanUserSortColumns="True" SelectionMode="Single"  
+                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                          IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Recipe Name" Binding="{Binding RecipeName}" Width="*"/>
+                        <DataGridTextColumn Header="Sensor Type" Binding="{Binding SensorType}" Width="*"/>
+                        <!--<DataGridTextColumn Header="Thickness Test" Binding="{Binding ThicknessSelection}" Width="*"/>-->
+                        <DataGridTextColumn Header="X Center" Binding="{Binding XOriginalPosition}" Width="*"/>
+                        <DataGridTextColumn Header="Y Center" Binding="{Binding YOriginalPosition}" Width="*"/>
+                        <DataGridTextColumn Header="Width Area" Binding="{Binding DXPosition}" Width="*"/>
+                        <DataGridTextColumn Header="Height Area" Binding="{Binding DYPosition}" Width="*"/>
+                        <DataGridTextColumn Header="RX Distance" Binding="{Binding RXPosition}" Width="*"/>
+                        <DataGridTextColumn Header="RY Distance" Binding="{Binding RYPosition}" Width="*"/>
+                        <DataGridTextColumn Header="VX Speed" Binding="{Binding SpeedAxisX}" Width="*"/>
+                        <DataGridTextColumn Header="VY Speed" Binding="{Binding SpeedAxisY}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <DataGrid ItemsSource="{Binding RecipeDetail}" Visibility="{Binding IsFSS}"
+                          AutoGenerateColumns="False" CanUserSortColumns="True" SelectionMode="Single"  
+                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                          IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Recipe Name" Binding="{Binding RecipeName}" Width="*"/>
+                        <DataGridTextColumn Header="Sensor Type" Binding="{Binding SensorType}" Width="*"/>
+                        <!--<DataGridTextColumn Header="Thickness Test" Binding="{Binding ThicknessSelection}" Width="*"/>-->
+                        <DataGridTextColumn Header="X Center" Binding="{Binding XOriginalPosition}" Width="*"/>
+                        <DataGridTextColumn Header="Y Center" Binding="{Binding YOriginalPosition}" Width="*"/>
+                        <DataGridTextColumn Header="Width Area" Binding="{Binding DXPosition}" Width="*"/>
+                        <DataGridTextColumn Header="Height Area" Binding="{Binding DYPosition}" Width="*"/>
+                        <DataGridTextColumn Header="No. Of Points" Binding="{Binding RXPosition}" Width="*"/>
+                        <DataGridTextColumn Header="No. Of Lines" Binding="{Binding RYPosition}" Width="*"/>
+                        <DataGridTextColumn Header="VX Speed" Binding="{Binding SpeedAxisX}" Width="*"/>
+                        <DataGridTextColumn Header="VY Speed" Binding="{Binding SpeedAxisY}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <DataGrid ItemsSource="{Binding RecipeDetail}" 
+                          AutoGenerateColumns="False" CanUserSortColumns="True" 
+                          SelectionMode="Single"  
+                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                          IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="DWD Left Side" Binding="{Binding DWDLeft}" Width="*"/>
+                        <DataGridTextColumn Header="DWD Right Side" Binding="{Binding DWDRight}" Width="*"/>
+                        <DataGridTextColumn Header="Quality Threshold" Binding="{Binding QTH}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <DataGrid Visibility="{Binding IsOneDMP}" ItemsSource="{Binding RecipeDetail}" 
+                          AutoGenerateColumns="False" CanUserSortColumns="True" 
+                          SelectionMode="Single"  
+                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                          IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="T1_X" Binding="{Binding MultiPointT1X}" Width="*"/>
+                        <DataGridTextColumn Header="T1_Y" Binding="{Binding MultiPointT1Y}" Width="*"/>
+                        <DataGridTextColumn Header="T2_X" Binding="{Binding MultiPointT2X}" Width="*"/>
+                        <DataGridTextColumn Header="T2_Y" Binding="{Binding MultiPointT2Y}" Width="*"/>
+                        <DataGridTextColumn Header="T3_X" Binding="{Binding MultiPointT3X}" Width="*"/>
+                        <DataGridTextColumn Header="T3_Y" Binding="{Binding MultiPointT3Y}" Width="*"/>
+                        <DataGridTextColumn Header="T4_X" Binding="{Binding MultiPointT4X}" Width="*"/>
+                        <DataGridTextColumn Header="T4_Y" Binding="{Binding MultiPointT4Y}" Width="*"/>
+                        <DataGridTextColumn Header="T5_X" Binding="{Binding MultiPointT5X}" Width="*"/>
+                        <DataGridTextColumn Header="T5_Y" Binding="{Binding MultiPointT5Y}" Width="*"/>
+                        <DataGridTextColumn Header="T6_X" Binding="{Binding MultiPointT6X}" Width="*"/>
+                        <DataGridTextColumn Header="T6_Y" Binding="{Binding MultiPointT6Y}" Width="*"/>
+                        <DataGridTextColumn Header="T7_X" Binding="{Binding MultiPointT7X}" Width="*"/>
+                        <DataGridTextColumn Header="T7_Y" Binding="{Binding MultiPointT7Y}" Width="*"/>
+                        <DataGridTextColumn Header="T8_X" Binding="{Binding MultiPointT8X}" Width="*"/>
+                        <DataGridTextColumn Header="T8_Y" Binding="{Binding MultiPointT8Y}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <DataGrid Visibility="{Binding IsOneDMP}" ItemsSource="{Binding RecipeDetail}" 
+                          AutoGenerateColumns="False" CanUserSortColumns="True" 
+                          SelectionMode="Single"  
+                          ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                          IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="T9_X" Binding="{Binding MultiPointT9X}" Width="*"/>
+                        <DataGridTextColumn Header="T9_Y" Binding="{Binding MultiPointT9Y}" Width="*"/>
+                        <DataGridTextColumn Header="T10_X" Binding="{Binding MultiPointT10X}" Width="*"/>
+                        <DataGridTextColumn Header="T10_Y" Binding="{Binding MultiPointT10Y}" Width="*"/>
+                        <DataGridTextColumn Header="T11_X" Binding="{Binding MultiPointT11X}" Width="*"/>
+                        <DataGridTextColumn Header="T11_Y" Binding="{Binding MultiPointT11Y}" Width="*"/>
+                        <DataGridTextColumn Header="T12_X" Binding="{Binding MultiPointT12X}" Width="*"/>
+                        <DataGridTextColumn Header="T12_Y" Binding="{Binding MultiPointT12Y}" Width="*"/>
+                        <DataGridTextColumn Header="T13_X" Binding="{Binding MultiPointT13X}" Width="*"/>
+                        <DataGridTextColumn Header="T13_Y" Binding="{Binding MultiPointT13Y}" Width="*"/>
+                        <DataGridTextColumn Header="T14_X" Binding="{Binding MultiPointT14X}" Width="*"/>
+                        <DataGridTextColumn Header="T14_Y" Binding="{Binding MultiPointT14Y}" Width="*"/>
+                        <DataGridTextColumn Header="T15_X" Binding="{Binding MultiPointT15X}" Width="*"/>
+                        <DataGridTextColumn Header="T15_Y" Binding="{Binding MultiPointT15Y}" Width="*"/>
+                        <DataGridTextColumn Header="T16_X" Binding="{Binding MultiPointT16X}" Width="*"/>
+                        <DataGridTextColumn Header="T16_Y" Binding="{Binding MultiPointT16Y}" Width="*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+        </WrapPanel>
+        <WrapPanel VerticalAlignment="Bottom" 
+                   HorizontalAlignment="Right" Grid.Row="2" 
+                   Margin="10">
+            <StackPanel >
+                <Button Command="{Binding ShowPopupCommand}" Style="{StaticResource CustomButtonStyle}">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="OpenInNew" Width="40" Height="50" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <TextBlock Text="New" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel>
+                <Button Command="{Binding UpdateRecipeParameterCmd}" Style="{StaticResource CustomButtonStyle}">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Edit" Width="40" Height="50" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Edit" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <StackPanel>
+                <Button Command="{Binding DownloadRecipeCmd}" 
+                        Style="{StaticResource CustomButtonStyle}">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Download" Width="40" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Dowload" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            <!--<StackPanel>
+                <Button Command="{Binding UploadRecipeCmd}"
+                        Style="{StaticResource CustomButtonStyle}" >
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Upload" Width="40" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Upload" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>-->
+            <StackPanel>
+                <Button Command="{Binding DeleteRecipeParameterCmd}"
+                        Style="{StaticResource CustomButtonStyle}">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Delete" Width="40" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Delete" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</UserControl>

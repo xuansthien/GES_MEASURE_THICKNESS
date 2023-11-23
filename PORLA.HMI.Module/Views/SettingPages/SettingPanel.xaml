@@ -1,0 +1,83 @@
+﻿<UserControl x:Class="PORLA.HMI.Module.Views.SettingPages.SettingPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             Background="#EDEDED"
+             mc:Ignorable="d"
+             d:DesignHeight="450"
+             d:DesignWidth="100">
+    <Grid VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="SettingPage"
+                       Content="Setting"
+                       Margin="0,5,0,0"
+                       Height="55"
+                       Foreground="Black"
+                       FontWeight="Thin"
+                       Name="btnLogin"
+                       FontSize="13"
+                       BorderThickness="0.75"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray">
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#EDEDED"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.settingPanel}"
+                                         Value="SettingPage">
+                                <Setter Property="Background"
+                                        Value="#B2CAFE" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </Button.Style>
+
+
+            </Button>
+            <Button    Command="{Binding NavigateCommand}"
+                       CommandParameter="RecipeID"
+                       Content="Recipe"
+                       Margin="0,5,0,0"
+                       Height="55"
+                       Foreground="Black"
+                       FontWeight="Thin"
+                       FontSize="13"
+                       BorderThickness="0.75"
+                       VerticalAlignment="Center"
+                       BorderBrush="DimGray">
+                <Button.Style>
+                    <Style TargetType="Button"
+                           BasedOn="{StaticResource MaterialDesignRaisedLightButton}">
+                        <Setter Property="Background"
+                                Value="#EDEDED"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding AppServiceInstance.settingPanel}"
+                                         Value="RecipeID">
+                                <Setter Property="Background"
+                                        Value="#B2CAFE" />
+                            </DataTrigger>
+                        </Style.Triggers>
+
+                    </Style>
+                </Button.Style>
+
+
+            </Button>
+
+
+        </StackPanel>
+
+    </Grid>
+</UserControl>
+

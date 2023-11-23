@@ -1,0 +1,1750 @@
+[2022-06-24 12:21:57,882] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 12:21:59,308] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 12:21:59,312] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 12:22:00,463] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 12:22:04,943] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 12:22:04,982] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 12:22:05,047] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 12:22:06,148] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 12:22:06,175] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 12:22:13,811] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 12:22:36,404] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 12:22:37,317] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 12:22:37,317] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 12:22:37,318] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 12:22:37,318] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 12:22:37,318] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 12:22:37,323] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 12:22:37,324] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 12:22:37,516] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 12:22:37,853] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 12:22:39,428] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 12:22:48,985] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 12:22:49,395] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 12:22:49,395] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 12:22:49,395] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 12:22:49,753] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 12:22:49,753] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 12:57:18,325] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 12:57:21,278] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 12:57:21,279] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 12:57:21,287] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 12:57:21,346] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 12:57:21,746] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-06-24 12:57:21,746] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-06-24 12:57:21,747] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 12:57:21,811] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 12:57:25,468] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 12:57:25,547] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 12:57:25,949] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 12:57:25,949] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 12:57:25,950] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 12:57:25,950] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-06-24 12:57:25,950] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 12:57:26,020] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 12:57:26,672] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 12:57:26,701] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 12:57:27,004] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 12:57:27,004] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 12:57:27,005] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 12:57:27,005] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-06-24 12:57:27,041] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-06-24 12:57:29,378] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-06-24 12:57:29,378] [INFO] [MACHINE] - Tester | Barcode: 3211_Diopter-5.8_Point: 0_Right Side Start Test
+[2022-06-24 12:57:46,338] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:57:46,339] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 10Sag_SFR: 122.74Sag_BFD: 53.7372
+[2022-06-24 12:57:46,340] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 10Tan_SFR: 121.18Tan_BFD: 53.7372
+[2022-06-24 12:57:46,342] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 10Result: Fail
+[2022-06-24 12:57:54,861] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:57:54,861] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 11Sag_SFR: 120.46Sag_BFD: 53.7372
+[2022-06-24 12:57:54,861] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 11Tan_SFR: 119.2Tan_BFD: 53.7372
+[2022-06-24 12:57:54,861] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 11Result: Fail
+[2022-06-24 12:58:03,676] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:58:03,676] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 12Sag_SFR: 121.45Sag_BFD: 53.7372
+[2022-06-24 12:58:03,676] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 12Tan_SFR: 119.8Tan_BFD: 53.7372
+[2022-06-24 12:58:03,676] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 12Result: Fail
+[2022-06-24 12:58:12,439] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:58:12,439] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 13Sag_SFR: 122.04Sag_BFD: 53.7372
+[2022-06-24 12:58:12,439] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 13Tan_SFR: 122.14Tan_BFD: 53.7372
+[2022-06-24 12:58:12,439] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 13Result: Fail
+[2022-06-24 12:58:21,144] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:58:21,144] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 14Sag_SFR: 120.83Sag_BFD: 53.7372
+[2022-06-24 12:58:21,144] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 14Tan_SFR: 118.61Tan_BFD: 53.7372
+[2022-06-24 12:58:21,144] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 14Result: Fail
+[2022-06-24 12:58:29,961] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:58:29,961] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 15Sag_SFR: 118.91Sag_BFD: 53.7372
+[2022-06-24 12:58:29,961] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 15Tan_SFR: 118.79Tan_BFD: 53.7372
+[2022-06-24 12:58:29,961] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 15Result: Fail
+[2022-06-24 12:58:38,498] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:58:38,498] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 16Sag_SFR: 121.19Sag_BFD: 53.7372
+[2022-06-24 12:58:38,498] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 16Tan_SFR: 118.61Tan_BFD: 53.7372
+[2022-06-24 12:58:38,498] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 16Result: Fail
+[2022-06-24 12:58:47,287] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:58:47,287] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 17Sag_SFR: 123.77Sag_BFD: 53.7372
+[2022-06-24 12:58:47,287] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 17Tan_SFR: 116.89Tan_BFD: 53.7372
+[2022-06-24 12:58:47,287] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 17Result: Fail
+[2022-06-24 12:58:55,991] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:58:55,992] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 18Sag_SFR: 119.23Sag_BFD: 53.7372
+[2022-06-24 12:58:55,992] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 18Tan_SFR: 120.49Tan_BFD: 53.7372
+[2022-06-24 12:58:55,992] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 18Result: Fail
+[2022-06-24 12:58:56,212] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 12:58:56,212] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-06-24 12:58:56,252] [INFO] [MACHINE] - Tester | Auto Sequence Step:9
+[2022-06-24 12:58:57,042] [INFO] [MACHINE] - Tester | Auto Sequence Step:10
+[2022-06-24 12:58:57,042] [INFO] [MACHINE] - Tester | Barcode: 3211_Diopter-5.8_Point: 19_Left Side Start Test
+[2022-06-24 12:59:05,428] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:59:05,428] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 1Sag_SFR: 121.5Sag_BFD: 53.7372
+[2022-06-24 12:59:05,428] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 1Tan_SFR: 119.4Tan_BFD: 53.7372
+[2022-06-24 12:59:05,428] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 1Result: Fail
+[2022-06-24 12:59:13,993] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:59:13,994] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 2Sag_SFR: 122.15Sag_BFD: 53.7372
+[2022-06-24 12:59:13,994] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 2Tan_SFR: 118.64Tan_BFD: 53.7372
+[2022-06-24 12:59:13,994] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 2Result: Fail
+[2022-06-24 12:59:22,958] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:59:22,958] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 3Sag_SFR: 121.18Sag_BFD: 53.7372
+[2022-06-24 12:59:22,958] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 3Tan_SFR: 121.49Tan_BFD: 53.7372
+[2022-06-24 12:59:22,958] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 3Result: Fail
+[2022-06-24 12:59:32,579] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:59:32,579] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 4Sag_SFR: 120.09Sag_BFD: 53.7372
+[2022-06-24 12:59:32,579] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 4Tan_SFR: 121.55Tan_BFD: 53.7372
+[2022-06-24 12:59:32,579] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 4Result: Fail
+[2022-06-24 12:59:42,085] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:59:42,085] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 5Sag_SFR: 122.05Sag_BFD: 53.7372
+[2022-06-24 12:59:42,085] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 5Tan_SFR: 118.26Tan_BFD: 53.7372
+[2022-06-24 12:59:42,085] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 5Result: Fail
+[2022-06-24 12:59:51,541] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 12:59:51,541] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 6Sag_SFR: 121.43Sag_BFD: 53.7372
+[2022-06-24 12:59:51,541] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 6Tan_SFR: 118.61Tan_BFD: 53.7372
+[2022-06-24 12:59:51,541] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 6Result: Fail
+[2022-06-24 13:00:01,169] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 13:00:01,172] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 7Sag_SFR: 119.59Sag_BFD: 53.7372
+[2022-06-24 13:00:01,172] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 7Tan_SFR: 120.52Tan_BFD: 53.7372
+[2022-06-24 13:00:01,172] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 7Result: Fail
+[2022-06-24 13:00:10,831] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 13:00:10,831] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 8Sag_SFR: 119.26Sag_BFD: 53.7372
+[2022-06-24 13:00:10,831] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 8Tan_SFR: 118.15Tan_BFD: 53.7372
+[2022-06-24 13:00:10,831] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 8Result: Fail
+[2022-06-24 13:00:20,475] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 13:00:20,475] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 9Sag_SFR: 119.55Sag_BFD: 53.7372
+[2022-06-24 13:00:20,475] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 9Tan_SFR: 120.41Tan_BFD: 53.7372
+[2022-06-24 13:00:20,475] [INFO] [MACHINE] - Tester | Barcode: 3211Point: 9Result: Fail
+[2022-06-24 13:00:20,705] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 13:00:20,705] [INFO] [MACHINE] - Tester | Auto Sequence Step:11
+[2022-06-24 13:00:20,722] [INFO] [MACHINE] - Tester | Auto Sequence Step:12
+[2022-06-24 13:00:22,245] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:22,512] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:22,699] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:22,918] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:23,144] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:23,360] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:23,547] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:23,818] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:24,134] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:25,028] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:25,233] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:25,408] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:25,615] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:25,797] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:25,977] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:26,149] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:26,329] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:26,506] [INFO] [MACHINE] - Tester | Barcode: 3211Final Result: Fail
+[2022-06-24 13:00:26,735] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-06-24 13:00:26,735] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-06-24 13:00:26,735] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 13:00:27,101] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 13:00:27,101] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 13:14:52,868] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:14:52,869] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 13:14:53,404] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 13:15:28,088] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 13:15:29,640] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 13:15:29,644] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 13:15:30,736] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 13:15:35,220] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 13:15:35,260] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 13:15:35,324] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 13:15:36,420] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:15:36,446] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 13:15:44,495] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 13:20:54,295] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:20:54,295] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 13:20:54,401] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 13:21:10,889] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 13:21:12,353] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 13:21:12,357] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 13:21:13,792] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 13:21:18,268] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 13:21:18,307] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 13:21:18,372] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 13:21:19,452] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:21:19,487] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 13:21:26,312] [INFO] [MACHINE] - ARES HMI Lauching Sucessful!
+[2022-06-24 13:21:26,312] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 13:21:27,360] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 13:24:00,747] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:24:00,748] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 13:24:00,858] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 13:25:47,274] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 13:25:49,000] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 13:25:49,004] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 13:25:50,248] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 13:25:54,725] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 13:25:54,765] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 13:25:54,829] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 13:25:55,914] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:25:55,948] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 13:26:02,539] [INFO] [MACHINE] - ARES HMI Initialize Sucessful!
+[2022-06-24 13:26:02,540] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 13:26:03,584] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 13:27:14,186] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 13:27:15,042] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 13:27:15,043] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 13:27:15,043] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 13:27:15,043] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 13:27:15,049] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 13:27:15,049] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 13:27:15,051] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 13:27:15,889] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 13:27:16,275] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 13:27:17,884] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 13:27:27,563] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 13:27:27,933] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 13:27:27,933] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 13:27:27,933] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 13:27:27,933] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 13:27:28,373] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 13:27:30,127] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 13:27:31,216] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 13:27:31,219] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 13:27:31,219] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 13:27:31,220] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 13:27:31,410] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 13:27:31,768] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 13:27:33,331] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 13:27:35,919] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 13:27:36,284] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 13:27:36,284] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 13:27:36,284] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 13:27:36,284] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 13:27:36,665] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 13:32:23,678] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:32:23,678] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 13:32:24,212] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 13:32:24,212] [INFO] [MACHINE] - ARES HMI Closing Sucessful!
+[2022-06-24 13:32:44,328] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 13:32:45,909] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 13:32:45,912] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 13:32:47,155] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 13:32:51,646] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 13:32:51,685] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 13:32:51,750] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 13:32:52,800] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:32:52,826] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 13:32:59,624] [INFO] [MACHINE] - ARES HMI Initialize Sucessful!
+[2022-06-24 13:32:59,624] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 13:33:00,674] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 13:33:38,703] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 13:33:39,480] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 13:33:39,480] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 13:33:39,480] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 13:33:39,481] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 13:33:39,485] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 13:33:39,485] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 13:33:39,487] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 13:33:39,660] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 13:33:40,020] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 13:33:41,582] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 13:33:44,240] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 13:33:44,646] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 13:33:44,646] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 13:33:44,646] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 13:33:44,646] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 13:33:45,013] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 13:37:14,662] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 13:37:18,025] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-06-24 13:37:18,044] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 13:37:28,272] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-06-24 13:37:53,272] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-06-24 13:41:47,114] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:41:47,115] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 13:41:47,654] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 13:41:47,654] [INFO] [MACHINE] - ARES HMI Closing Sucessful!
+[2022-06-24 13:42:12,822] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 13:42:14,224] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 13:42:14,227] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 13:42:15,289] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 13:42:19,773] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 13:42:19,813] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 13:42:19,876] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 13:42:21,037] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:42:21,072] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 13:42:27,643] [INFO] [MACHINE] - ARES HMI Initialize Sucessful!
+[2022-06-24 13:42:27,644] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 13:42:28,712] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 13:42:34,212] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 13:42:34,212] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 13:42:34,353] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 13:42:34,353] [INFO] [MACHINE] - ARES HMI Closing Sucessful!
+[2022-06-24 14:22:16,384] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 14:22:18,192] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 14:22:18,195] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 14:22:19,215] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 14:22:23,697] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 14:22:23,736] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 14:22:23,801] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 14:22:25,074] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\HMI\21Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 301
+[2022-06-24 14:22:34,199] [INFO] [MACHINE] - ARES HMI Initialize Sucessful!
+[2022-06-24 14:22:34,199] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 14:22:34,976] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-06-24 14:22:35,502] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 14:22:37,206] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:22:37,584] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-06-24 14:23:09,701] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\HMI\21Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 301
+[2022-06-24 14:23:52,086] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 14:23:52,202] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 14:23:52,202] [INFO] [MACHINE] - ARES HMI Closing Sucessful!
+[2022-06-24 14:26:42,941] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 14:26:44,810] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 14:26:44,813] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 14:26:45,976] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 14:26:50,459] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 14:26:50,501] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 14:26:50,564] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 14:26:51,647] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:26:51,680] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 14:26:57,329] [INFO] [MACHINE] - ARES HMI Initialize Sucessful!
+[2022-06-24 14:26:57,329] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 14:26:58,447] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 14:27:03,649] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:27:04,660] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:27:04,661] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 14:27:04,661] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 14:27:04,662] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 14:27:04,666] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:27:04,666] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:27:04,670] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:27:04,901] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:27:05,248] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:27:06,741] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:27:09,358] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:27:09,728] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:27:09,728] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:27:09,728] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:27:09,728] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:27:10,063] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:28:56,609] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:28:56,610] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 14:28:56,745] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 14:28:56,745] [INFO] [MACHINE] - ARES HMI Closing Sucessful!
+[2022-06-24 14:29:19,280] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 14:29:21,015] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 14:29:21,019] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 14:29:22,090] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 14:29:26,568] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 14:29:26,622] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 14:29:26,688] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 14:29:27,747] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:29:27,782] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 14:29:33,753] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 14:29:33,753] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 14:29:34,842] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 14:29:44,629] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:29:45,490] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:29:45,491] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 14:29:45,491] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 14:29:45,492] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 14:29:45,495] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:29:45,495] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:29:45,498] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:29:45,704] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:29:46,038] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:29:47,574] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:29:50,107] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:29:50,471] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:29:50,471] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:29:50,471] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:29:50,471] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:29:50,812] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:31:12,358] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:31:13,480] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:31:13,482] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:31:13,482] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:31:13,482] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:31:13,676] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:31:14,019] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:31:15,551] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:31:18,086] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:31:18,439] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:31:18,439] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:31:18,439] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:31:18,440] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:31:18,781] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:33:18,817] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:33:21,072] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-06-24 14:33:21,137] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:33:45,166] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 14:34:37,555] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-06-24 14:34:37,556] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:34:37,556] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:34:37,556] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:34:37,778] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:34:38,229] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:34:40,242] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:34:42,836] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:34:43,161] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:34:43,161] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:34:43,161] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:34:43,161] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:34:43,681] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:34:45,201] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 14:34:47,072] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 14:34:47,074] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 14:34:47,074] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 14:34:47,080] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:34:47,577] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-06-24 14:34:47,577] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-06-24 14:34:47,578] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:34:47,578] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:34:47,648] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:34:51,106] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:34:51,178] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:34:51,527] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:34:51,527] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:34:51,527] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:34:51,527] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-06-24 14:34:51,527] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:34:51,527] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:34:51,587] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:34:52,009] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:34:52,035] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:34:52,345] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:34:52,345] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:34:52,345] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:34:52,345] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-06-24 14:34:52,379] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-06-24 14:34:54,761] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-06-24 14:34:54,761] [INFO] [MACHINE] - Tester | Barcode: tesst333_Diopter-5.8_Point: 0_Right Side Start Test
+[2022-06-24 14:34:54,762] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:34:55,313] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:35:11,740] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:35:11,741] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 10_Sag_SFR: 121.71_Sag_BFD: 53.7372
+[2022-06-24 14:35:11,741] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 10_Tan_SFR: 119.86_Tan_BFD: 53.7372
+[2022-06-24 14:35:11,742] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 10_Result: Fail
+[2022-06-24 14:35:13,459] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:35:20,440] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:35:20,440] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 11_Sag_SFR: 124.88_Sag_BFD: 53.7372
+[2022-06-24 14:35:20,440] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 11_Tan_SFR: 120.64_Tan_BFD: 53.7372
+[2022-06-24 14:35:20,440] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 11_Result: Fail
+[2022-06-24 14:35:22,119] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:35:29,422] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:35:29,422] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 12_Sag_SFR: 121.45_Sag_BFD: 53.7372
+[2022-06-24 14:35:29,422] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 12_Tan_SFR: 120.18_Tan_BFD: 53.7372
+[2022-06-24 14:35:29,422] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 12_Result: Fail
+[2022-06-24 14:35:31,228] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:35:38,484] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:35:38,484] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 13_Sag_SFR: 122.45_Sag_BFD: 53.7372
+[2022-06-24 14:35:38,484] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 13_Tan_SFR: 119.45_Tan_BFD: 53.7372
+[2022-06-24 14:35:38,484] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 13_Result: Fail
+[2022-06-24 14:35:40,339] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:35:47,420] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:35:47,420] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 14_Sag_SFR: 119.03_Sag_BFD: 53.7372
+[2022-06-24 14:35:47,420] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 14_Tan_SFR: 118.33_Tan_BFD: 53.7372
+[2022-06-24 14:35:47,420] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 14_Result: Fail
+[2022-06-24 14:35:49,497] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:35:56,640] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:35:56,640] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 15_Sag_SFR: 120.68_Sag_BFD: 53.7372
+[2022-06-24 14:35:56,640] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 15_Tan_SFR: 119.27_Tan_BFD: 53.7372
+[2022-06-24 14:35:56,640] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 15_Result: Fail
+[2022-06-24 14:35:58,752] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:36:05,881] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:36:05,881] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 16_Sag_SFR: 123.44_Sag_BFD: 53.7372
+[2022-06-24 14:36:05,881] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 16_Tan_SFR: 117.42_Tan_BFD: 53.7372
+[2022-06-24 14:36:05,881] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 16_Result: Fail
+[2022-06-24 14:36:08,032] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:36:15,106] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:36:15,106] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 17_Sag_SFR: 120.91_Sag_BFD: 53.7372
+[2022-06-24 14:36:15,106] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 17_Tan_SFR: 119.73_Tan_BFD: 53.7372
+[2022-06-24 14:36:15,106] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 17_Result: Fail
+[2022-06-24 14:36:17,201] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:36:24,656] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:36:24,657] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 18_Sag_SFR: 121.91_Sag_BFD: 53.7372
+[2022-06-24 14:36:24,657] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 18_Tan_SFR: 118.96_Tan_BFD: 53.7372
+[2022-06-24 14:36:24,657] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 18_Result: Fail
+[2022-06-24 14:36:25,004] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 14:36:25,004] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-06-24 14:36:25,037] [INFO] [MACHINE] - Tester | Auto Sequence Step:9
+[2022-06-24 14:36:25,666] [INFO] [MACHINE] - Tester | Auto Sequence Step:10
+[2022-06-24 14:36:25,666] [INFO] [MACHINE] - Tester | Barcode: tesst333_Diopter-5.8_Point: 19_Left Side Start Test
+[2022-06-24 14:36:25,666] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:36:26,902] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:36:34,108] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:36:34,108] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 1_Sag_SFR: 123.09_Sag_BFD: 53.7372
+[2022-06-24 14:36:34,108] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 1_Tan_SFR: 118.59_Tan_BFD: 53.7372
+[2022-06-24 14:36:34,108] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 1_Result: Fail
+[2022-06-24 14:36:35,695] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:36:43,803] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:36:43,803] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 2_Sag_SFR: 122.37_Sag_BFD: 53.7372
+[2022-06-24 14:36:43,803] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 2_Tan_SFR: 119.79_Tan_BFD: 53.7372
+[2022-06-24 14:36:43,803] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 2_Result: Fail
+[2022-06-24 14:36:45,541] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:36:53,279] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:36:53,279] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 3_Sag_SFR: 121.62_Sag_BFD: 53.7372
+[2022-06-24 14:36:53,279] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 3_Tan_SFR: 120.73_Tan_BFD: 53.7372
+[2022-06-24 14:36:53,279] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 3_Result: Fail
+[2022-06-24 14:36:54,929] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:37:02,463] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:37:02,463] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 4_Sag_SFR: 123.6_Sag_BFD: 53.7372
+[2022-06-24 14:37:02,463] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 4_Tan_SFR: 120.22_Tan_BFD: 53.7372
+[2022-06-24 14:37:02,463] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 4_Result: Fail
+[2022-06-24 14:37:04,265] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:37:11,513] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:37:11,513] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 5_Sag_SFR: 119.99_Sag_BFD: 53.7372
+[2022-06-24 14:37:11,513] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 5_Tan_SFR: 120.28_Tan_BFD: 53.7372
+[2022-06-24 14:37:11,513] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 5_Result: Fail
+[2022-06-24 14:37:13,326] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:37:20,537] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:37:20,537] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 6_Sag_SFR: 119.68_Sag_BFD: 53.7372
+[2022-06-24 14:37:20,538] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 6_Tan_SFR: 117.42_Tan_BFD: 53.7372
+[2022-06-24 14:37:20,538] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 6_Result: Fail
+[2022-06-24 14:37:22,288] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:37:29,475] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:37:29,475] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 7_Sag_SFR: 120.95_Sag_BFD: 53.7372
+[2022-06-24 14:37:29,475] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 7_Tan_SFR: 119_Tan_BFD: 53.7372
+[2022-06-24 14:37:29,475] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 7_Result: Fail
+[2022-06-24 14:37:31,324] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:37:38,623] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:37:38,623] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 8_Sag_SFR: 120.22_Sag_BFD: 53.7372
+[2022-06-24 14:37:38,623] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 8_Tan_SFR: 118.86_Tan_BFD: 53.7372
+[2022-06-24 14:37:38,623] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 8_Result: Fail
+[2022-06-24 14:37:40,473] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:37:47,858] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:37:47,858] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 9_Sag_SFR: 120.84_Sag_BFD: 53.7372
+[2022-06-24 14:37:47,859] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 9_Tan_SFR: 120.99_Tan_BFD: 53.7372
+[2022-06-24 14:37:47,859] [INFO] [MACHINE] - Tester | Barcode: tesst333_Point: 9_Result: Fail
+[2022-06-24 14:37:48,115] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 14:37:48,115] [INFO] [MACHINE] - Tester | Auto Sequence Step:11
+[2022-06-24 14:37:48,128] [INFO] [MACHINE] - Tester | Auto Sequence Step:12
+[2022-06-24 14:37:49,608] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:49,838] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:50,080] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:50,343] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:50,582] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:50,815] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:51,094] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:51,361] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:51,628] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:51,882] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:52,133] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:52,376] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:52,681] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:52,919] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:53,172] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:53,420] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:53,647] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:53,909] [INFO] [MACHINE] - Tester | Barcode: tesst333_Final Result: Fail
+[2022-06-24 14:37:54,200] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-06-24 14:37:54,200] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-06-24 14:37:54,200] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:37:54,692] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 14:37:54,693] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 14:39:48,446] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:39:48,447] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 14:39:48,998] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 14:39:48,998] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 14:40:08,480] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 14:40:09,946] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 14:40:09,950] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 14:40:11,318] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 14:40:15,796] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 14:40:15,835] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 14:40:15,899] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 14:40:16,988] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:40:17,024] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 14:40:23,607] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 14:40:23,608] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 14:40:24,791] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 14:40:31,700] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:40:32,439] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:40:32,439] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 14:40:32,440] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 14:40:32,440] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 14:40:32,445] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:40:32,445] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:40:32,446] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:40:32,640] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:40:32,971] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:40:34,961] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:40:44,505] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:40:44,900] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:40:44,900] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:40:44,900] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:40:44,900] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:40:45,257] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:40:45,891] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 14:40:47,634] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 14:40:47,640] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 14:40:47,640] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 14:40:47,646] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:40:47,986] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-06-24 14:40:47,987] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-06-24 14:40:47,988] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:40:47,988] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:40:48,055] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:40:51,391] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:40:51,441] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:40:51,777] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:40:51,777] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:40:51,777] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:40:51,777] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-06-24 14:40:51,777] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:40:51,777] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:40:51,822] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:40:52,521] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:40:52,540] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:40:52,838] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:40:52,838] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:40:52,838] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:40:52,838] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-06-24 14:40:52,887] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-06-24 14:40:55,223] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-06-24 14:40:55,223] [INFO] [MACHINE] - Tester | Barcode: ddddd_Diopter-5.8_Point: 0_Right Side Start Test
+[2022-06-24 14:40:55,223] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:40:55,854] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:41:12,746] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:41:12,748] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 10_Sag_SFR: 119.99_Sag_BFD: 53.7372
+[2022-06-24 14:41:12,748] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 10_Tan_SFR: 116.93_Tan_BFD: 53.7372
+[2022-06-24 14:41:12,750] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 10_Result: Fail
+[2022-06-24 14:41:14,212] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:41:21,267] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:41:21,267] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 11_Sag_SFR: 123.21_Sag_BFD: 53.7372
+[2022-06-24 14:41:21,267] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 11_Tan_SFR: 121.98_Tan_BFD: 53.7372
+[2022-06-24 14:41:21,267] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 11_Result: Fail
+[2022-06-24 14:41:22,935] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:41:29,917] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:41:29,918] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 12_Sag_SFR: 121.61_Sag_BFD: 53.7372
+[2022-06-24 14:41:29,918] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 12_Tan_SFR: 119.11_Tan_BFD: 53.7372
+[2022-06-24 14:41:29,918] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 12_Result: Fail
+[2022-06-24 14:41:31,655] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:41:38,881] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:41:38,881] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 13_Sag_SFR: 121.44_Sag_BFD: 53.7372
+[2022-06-24 14:41:38,881] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 13_Tan_SFR: 119.73_Tan_BFD: 53.7372
+[2022-06-24 14:41:38,881] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 13_Result: Fail
+[2022-06-24 14:41:40,909] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:41:47,985] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:41:47,985] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 14_Sag_SFR: 123.36_Sag_BFD: 53.7372
+[2022-06-24 14:41:47,986] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 14_Tan_SFR: 119.65_Tan_BFD: 53.7372
+[2022-06-24 14:41:47,986] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 14_Result: Fail
+[2022-06-24 14:41:50,205] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:41:57,430] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:41:57,430] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 15_Sag_SFR: 123.11_Sag_BFD: 53.7372
+[2022-06-24 14:41:57,430] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 15_Tan_SFR: 118.76_Tan_BFD: 53.7372
+[2022-06-24 14:41:57,430] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 15_Result: Fail
+[2022-06-24 14:41:59,509] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:42:06,805] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:42:06,805] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 16_Sag_SFR: 122.32_Sag_BFD: 53.7372
+[2022-06-24 14:42:06,805] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 16_Tan_SFR: 119.06_Tan_BFD: 53.7372
+[2022-06-24 14:42:06,805] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 16_Result: Fail
+[2022-06-24 14:42:08,650] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:42:15,747] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:42:15,747] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 17_Sag_SFR: 122.79_Sag_BFD: 53.7372
+[2022-06-24 14:42:15,747] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 17_Tan_SFR: 117.76_Tan_BFD: 53.7372
+[2022-06-24 14:42:15,747] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 17_Result: Fail
+[2022-06-24 14:42:17,905] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:42:25,100] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:42:25,100] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 18_Sag_SFR: 121.95_Sag_BFD: 53.7372
+[2022-06-24 14:42:25,100] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 18_Tan_SFR: 121.39_Tan_BFD: 53.7372
+[2022-06-24 14:42:25,100] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 18_Result: Fail
+[2022-06-24 14:42:25,287] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 14:42:25,288] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-06-24 14:42:25,324] [INFO] [MACHINE] - Tester | Auto Sequence Step:9
+[2022-06-24 14:42:25,871] [INFO] [MACHINE] - Tester | Auto Sequence Step:10
+[2022-06-24 14:42:25,871] [INFO] [MACHINE] - Tester | Barcode: ddddd_Diopter-5.8_Point: 19_Left Side Start Test
+[2022-06-24 14:42:25,871] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:42:27,242] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:42:34,778] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:42:34,778] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 1_Sag_SFR: 122.1_Sag_BFD: 53.7372
+[2022-06-24 14:42:34,778] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 1_Tan_SFR: 120.38_Tan_BFD: 53.7372
+[2022-06-24 14:42:34,778] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 1_Result: Fail
+[2022-06-24 14:42:36,864] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:42:44,554] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:42:44,554] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 2_Sag_SFR: 121.96_Sag_BFD: 53.7372
+[2022-06-24 14:42:44,554] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 2_Tan_SFR: 120.87_Tan_BFD: 53.7372
+[2022-06-24 14:42:44,554] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 2_Result: Fail
+[2022-06-24 14:42:46,170] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:42:53,436] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:42:53,436] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 3_Sag_SFR: 120.6_Sag_BFD: 53.7372
+[2022-06-24 14:42:53,436] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 3_Tan_SFR: 121.86_Tan_BFD: 53.7372
+[2022-06-24 14:42:53,436] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 3_Result: Fail
+[2022-06-24 14:42:55,442] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:43:02,788] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:43:02,788] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 4_Sag_SFR: 116.97_Sag_BFD: 53.7372
+[2022-06-24 14:43:02,788] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 4_Tan_SFR: 121.09_Tan_BFD: 53.7372
+[2022-06-24 14:43:02,788] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 4_Result: Fail
+[2022-06-24 14:43:04,858] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:43:12,019] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:43:12,019] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 5_Sag_SFR: 123.21_Sag_BFD: 53.7372
+[2022-06-24 14:43:12,019] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 5_Tan_SFR: 118.73_Tan_BFD: 53.7372
+[2022-06-24 14:43:12,019] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 5_Result: Fail
+[2022-06-24 14:43:14,018] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:43:21,265] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:43:21,265] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 6_Sag_SFR: 122.62_Sag_BFD: 53.7372
+[2022-06-24 14:43:21,265] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 6_Tan_SFR: 120.85_Tan_BFD: 53.7372
+[2022-06-24 14:43:21,265] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 6_Result: Fail
+[2022-06-24 14:43:23,322] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:43:30,981] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:43:30,981] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 7_Sag_SFR: 124.19_Sag_BFD: 53.7372
+[2022-06-24 14:43:30,981] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 7_Tan_SFR: 119.29_Tan_BFD: 53.7372
+[2022-06-24 14:43:30,981] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 7_Result: Fail
+[2022-06-24 14:43:32,719] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:43:40,004] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:43:40,004] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 8_Sag_SFR: 123.37_Sag_BFD: 53.7372
+[2022-06-24 14:43:40,004] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 8_Tan_SFR: 122.09_Tan_BFD: 53.7372
+[2022-06-24 14:43:40,004] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 8_Result: Fail
+[2022-06-24 14:43:41,886] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:43:49,592] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:43:49,592] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 9_Sag_SFR: 118.17_Sag_BFD: 53.7372
+[2022-06-24 14:43:49,592] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 9_Tan_SFR: 119.29_Tan_BFD: 53.7372
+[2022-06-24 14:44:31,721] [INFO] [MACHINE] - Tester | Barcode: ddddd_Point: 9_Result: Fail
+[2022-06-24 14:44:31,960] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 14:44:31,960] [INFO] [MACHINE] - Tester | Auto Sequence Step:11
+[2022-06-24 14:44:32,000] [INFO] [MACHINE] - Tester | Auto Sequence Step:12
+[2022-06-24 14:44:40,110] [INFO] [MACHINE] - Tester | Barcode: ddddd_Final Result: Fail
+[2022-06-24 14:44:40,172] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-06-24 14:44:40,172] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-06-24 14:44:40,172] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:44:40,621] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 14:44:40,621] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 14:45:19,229] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:45:19,229] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 14:45:19,655] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 14:45:19,655] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 14:45:43,219] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 14:45:45,046] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 14:45:45,049] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 14:45:46,075] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 14:45:50,554] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 14:45:50,593] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 14:45:50,657] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 14:45:51,730] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:45:51,762] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 14:45:57,517] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 14:45:57,517] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 14:45:58,703] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 14:46:05,567] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:46:06,332] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:46:06,332] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 14:46:06,332] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 14:46:06,333] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 14:46:06,334] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:46:06,334] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:46:06,336] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:46:06,500] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:46:06,853] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:46:08,855] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:46:18,414] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:46:18,815] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:46:18,815] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:46:18,816] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:46:18,816] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:46:19,202] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:46:23,641] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 14:46:25,904] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 14:46:25,908] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 14:46:25,908] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 14:46:25,926] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:46:26,297] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-06-24 14:46:26,299] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-06-24 14:46:26,301] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:46:26,301] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:46:26,379] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:46:29,816] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:46:29,882] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:46:30,205] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:46:30,205] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:46:30,205] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:46:30,205] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-06-24 14:46:30,205] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:46:30,205] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:46:30,260] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:46:30,732] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:46:30,760] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:46:31,091] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:46:31,092] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:46:31,092] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:46:31,092] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-06-24 14:46:31,125] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-06-24 14:46:33,421] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-06-24 14:46:33,422] [INFO] [MACHINE] - Tester | Barcode: ksa_Diopter-5.8_Point: 0_Right Side Start Test
+[2022-06-24 14:46:33,422] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:46:34,322] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:46:50,371] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:46:50,372] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 10_Sag_SFR: 121.32_Sag_BFD: 53.7372
+[2022-06-24 14:46:50,372] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 10_Tan_SFR: 119.28_Tan_BFD: 53.7372
+[2022-06-24 14:46:50,373] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 10_Result: Fail
+[2022-06-24 14:46:51,832] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:46:58,731] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:46:58,731] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 11_Sag_SFR: 123.99_Sag_BFD: 53.7372
+[2022-06-24 14:46:58,731] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 11_Tan_SFR: 118.68_Tan_BFD: 53.7372
+[2022-06-24 14:46:58,731] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 11_Result: Fail
+[2022-06-24 14:47:00,236] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:47:07,263] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:47:07,263] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 12_Sag_SFR: 119.7_Sag_BFD: 53.7372
+[2022-06-24 14:47:07,263] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 12_Tan_SFR: 121.89_Tan_BFD: 53.7372
+[2022-06-24 14:47:07,263] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 12_Result: Fail
+[2022-06-24 14:47:09,062] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:47:15,994] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:47:15,994] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 13_Sag_SFR: 123.4_Sag_BFD: 53.7372
+[2022-06-24 14:47:15,994] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 13_Tan_SFR: 119.66_Tan_BFD: 53.7372
+[2022-06-24 14:47:15,994] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 13_Result: Fail
+[2022-06-24 14:47:17,732] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:47:24,875] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:47:24,876] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 14_Sag_SFR: 122.32_Sag_BFD: 53.7372
+[2022-06-24 14:47:24,876] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 14_Tan_SFR: 117.62_Tan_BFD: 53.7372
+[2022-06-24 14:47:24,876] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 14_Result: Fail
+[2022-06-24 14:47:26,464] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:47:33,525] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:47:33,525] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 15_Sag_SFR: 123.12_Sag_BFD: 53.7372
+[2022-06-24 14:47:33,525] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 15_Tan_SFR: 121.65_Tan_BFD: 53.7372
+[2022-06-24 14:47:33,525] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 15_Result: Fail
+[2022-06-24 14:47:35,634] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:47:42,984] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:47:42,984] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 16_Sag_SFR: 122.14_Sag_BFD: 53.7372
+[2022-06-24 14:47:42,984] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 16_Tan_SFR: 121.02_Tan_BFD: 53.7372
+[2022-06-24 14:47:42,984] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 16_Result: Fail
+[2022-06-24 14:47:44,689] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:47:51,928] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:47:51,928] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 17_Sag_SFR: 121.86_Sag_BFD: 53.7372
+[2022-06-24 14:47:51,928] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 17_Tan_SFR: 119.82_Tan_BFD: 53.7372
+[2022-06-24 14:47:51,928] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 17_Result: Fail
+[2022-06-24 14:47:53,988] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:48:01,189] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:48:01,189] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 18_Sag_SFR: 121.33_Sag_BFD: 53.7372
+[2022-06-24 14:48:01,189] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 18_Tan_SFR: 118.29_Tan_BFD: 53.7372
+[2022-06-24 14:48:01,189] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 18_Result: Fail
+[2022-06-24 14:48:01,436] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 14:48:01,436] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-06-24 14:48:01,465] [INFO] [MACHINE] - Tester | Auto Sequence Step:9
+[2022-06-24 14:48:02,045] [INFO] [MACHINE] - Tester | Auto Sequence Step:10
+[2022-06-24 14:48:02,045] [INFO] [MACHINE] - Tester | Barcode: ksa_Diopter-5.8_Point: 19_Left Side Start Test
+[2022-06-24 14:48:02,045] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:48:03,302] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:48:10,396] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:48:10,396] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 1_Sag_SFR: 120.68_Sag_BFD: 53.7372
+[2022-06-24 14:48:10,396] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 1_Tan_SFR: 119.26_Tan_BFD: 53.7372
+[2022-06-24 14:48:10,397] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 1_Result: Fail
+[2022-06-24 14:48:12,573] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:48:19,958] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:48:19,959] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 2_Sag_SFR: 121.82_Sag_BFD: 53.7372
+[2022-06-24 14:48:19,959] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 2_Tan_SFR: 118.17_Tan_BFD: 53.7372
+[2022-06-24 14:48:19,959] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 2_Result: Fail
+[2022-06-24 14:48:21,831] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:48:29,095] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:48:29,095] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 3_Sag_SFR: 121.74_Sag_BFD: 53.7372
+[2022-06-24 14:48:29,095] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 3_Tan_SFR: 118.59_Tan_BFD: 53.7372
+[2022-06-24 14:48:29,096] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 3_Result: Fail
+[2022-06-24 14:48:31,195] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:48:38,179] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:48:38,179] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 4_Sag_SFR: 120.39_Sag_BFD: 53.7372
+[2022-06-24 14:48:38,179] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 4_Tan_SFR: 117.97_Tan_BFD: 53.7372
+[2022-06-24 14:48:38,179] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 4_Result: Fail
+[2022-06-24 14:48:40,492] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:48:47,497] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:48:47,497] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 5_Sag_SFR: 120.16_Sag_BFD: 53.7372
+[2022-06-24 14:48:47,497] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 5_Tan_SFR: 118.95_Tan_BFD: 53.7372
+[2022-06-24 14:48:47,497] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 5_Result: Fail
+[2022-06-24 14:48:49,498] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:48:56,975] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:48:56,975] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 6_Sag_SFR: 121.37_Sag_BFD: 53.7372
+[2022-06-24 14:48:56,975] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 6_Tan_SFR: 120.8_Tan_BFD: 53.7372
+[2022-06-24 14:48:56,976] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 6_Result: Fail
+[2022-06-24 14:48:58,685] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:49:05,811] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:49:05,811] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 7_Sag_SFR: 122.69_Sag_BFD: 53.7372
+[2022-06-24 14:49:05,811] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 7_Tan_SFR: 119.6_Tan_BFD: 53.7372
+[2022-06-24 14:49:05,811] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 7_Result: Fail
+[2022-06-24 14:49:07,907] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:49:15,135] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:49:15,135] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 8_Sag_SFR: 120.71_Sag_BFD: 53.7372
+[2022-06-24 14:49:15,135] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 8_Tan_SFR: 119.21_Tan_BFD: 53.7372
+[2022-06-24 14:49:15,135] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 8_Result: Fail
+[2022-06-24 14:49:17,326] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:49:24,263] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:49:24,263] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 9_Sag_SFR: 118.67_Sag_BFD: 53.7372
+[2022-06-24 14:49:24,263] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 9_Tan_SFR: 118.97_Tan_BFD: 53.7372
+[2022-06-24 14:49:24,263] [INFO] [MACHINE] - Tester | Barcode: ksa_Point: 9_Result: Fail
+[2022-06-24 14:49:24,499] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 14:49:24,499] [INFO] [MACHINE] - Tester | Auto Sequence Step:11
+[2022-06-24 14:49:24,513] [INFO] [MACHINE] - Tester | Auto Sequence Step:12
+[2022-06-24 14:49:30,094] [INFO] [MACHINE] - Tester | Barcode: ksa_Final Result: Pass
+[2022-06-24 14:49:30,154] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-06-24 14:49:30,154] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-06-24 14:49:30,154] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:49:30,590] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 14:49:30,590] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 14:51:37,709] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:51:37,709] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 14:51:38,180] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 14:51:38,180] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 14:51:51,868] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 14:51:53,140] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 14:51:53,143] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 14:51:54,312] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 14:51:58,793] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 14:51:58,833] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 14:51:58,898] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 14:51:59,986] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:52:00,022] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 14:52:05,858] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 14:52:05,858] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 14:52:06,868] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 14:53:03,347] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:53:03,929] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:53:03,929] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 14:53:03,930] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 14:53:03,930] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 14:53:03,932] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:53:03,932] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:53:03,933] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:53:04,090] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:53:04,413] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:53:06,358] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:53:16,008] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:53:16,460] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:53:16,460] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:53:16,460] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:53:16,460] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:53:16,819] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:53:24,492] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 14:53:26,269] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 14:53:26,271] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 14:53:26,271] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 14:53:26,325] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:53:26,638] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-06-24 14:53:26,639] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-06-24 14:53:26,639] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:53:26,639] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:53:26,697] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:53:29,976] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:53:30,037] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:53:30,374] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:53:30,374] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:53:30,374] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:53:30,374] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-06-24 14:53:30,374] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:53:30,374] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:53:30,440] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:53:30,875] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:53:30,911] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:53:31,219] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:53:31,219] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:53:31,219] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:53:31,219] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-06-24 14:53:31,261] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-06-24 14:53:33,616] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-06-24 14:53:33,616] [INFO] [MACHINE] - Tester | Barcode: www_Diopter-5.8_Point: 0_Right Side Start Test
+[2022-06-24 14:53:33,617] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:53:34,182] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:53:50,397] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:53:50,398] [INFO] [MACHINE] - Tester | Barcode: www_Point: 10_Sag_SFR: 119.78_Sag_BFD: 53.7372
+[2022-06-24 14:53:50,398] [INFO] [MACHINE] - Tester | Barcode: www_Point: 10_Tan_SFR: 117.86_Tan_BFD: 53.7372
+[2022-06-24 14:53:50,400] [INFO] [MACHINE] - Tester | Barcode: www_Point: 10_Result: Pass
+[2022-06-24 14:53:51,954] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:53:58,797] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:53:58,797] [INFO] [MACHINE] - Tester | Barcode: www_Point: 11_Sag_SFR: 119.8_Sag_BFD: 53.7372
+[2022-06-24 14:53:58,797] [INFO] [MACHINE] - Tester | Barcode: www_Point: 11_Tan_SFR: 117.24_Tan_BFD: 53.7372
+[2022-06-24 14:53:58,797] [INFO] [MACHINE] - Tester | Barcode: www_Point: 11_Result: Pass
+[2022-06-24 14:54:00,424] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:54:07,181] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:54:07,181] [INFO] [MACHINE] - Tester | Barcode: www_Point: 12_Sag_SFR: 123.06_Sag_BFD: 53.7372
+[2022-06-24 14:54:07,181] [INFO] [MACHINE] - Tester | Barcode: www_Point: 12_Tan_SFR: 117.46_Tan_BFD: 53.7372
+[2022-06-24 14:54:07,181] [INFO] [MACHINE] - Tester | Barcode: www_Point: 12_Result: Pass
+[2022-06-24 14:54:08,823] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:54:15,766] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:54:15,767] [INFO] [MACHINE] - Tester | Barcode: www_Point: 13_Sag_SFR: 122.1_Sag_BFD: 53.7372
+[2022-06-24 14:54:15,767] [INFO] [MACHINE] - Tester | Barcode: www_Point: 13_Tan_SFR: 118.28_Tan_BFD: 53.7372
+[2022-06-24 14:54:15,767] [INFO] [MACHINE] - Tester | Barcode: www_Point: 13_Result: Pass
+[2022-06-24 14:54:17,615] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:54:24,634] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:54:24,634] [INFO] [MACHINE] - Tester | Barcode: www_Point: 14_Sag_SFR: 120.29_Sag_BFD: 53.7372
+[2022-06-24 14:54:24,634] [INFO] [MACHINE] - Tester | Barcode: www_Point: 14_Tan_SFR: 118.41_Tan_BFD: 53.7372
+[2022-06-24 14:54:24,634] [INFO] [MACHINE] - Tester | Barcode: www_Point: 14_Result: Pass
+[2022-06-24 14:54:26,283] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:54:33,289] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:54:33,289] [INFO] [MACHINE] - Tester | Barcode: www_Point: 15_Sag_SFR: 120.79_Sag_BFD: 53.7372
+[2022-06-24 14:54:33,289] [INFO] [MACHINE] - Tester | Barcode: www_Point: 15_Tan_SFR: 116.79_Tan_BFD: 53.7372
+[2022-06-24 14:54:33,289] [INFO] [MACHINE] - Tester | Barcode: www_Point: 15_Result: Pass
+[2022-06-24 14:54:34,720] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:54:41,546] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:54:41,546] [INFO] [MACHINE] - Tester | Barcode: www_Point: 16_Sag_SFR: 119.6_Sag_BFD: 53.7372
+[2022-06-24 14:54:41,546] [INFO] [MACHINE] - Tester | Barcode: www_Point: 16_Tan_SFR: 117.63_Tan_BFD: 53.7372
+[2022-06-24 14:54:41,546] [INFO] [MACHINE] - Tester | Barcode: www_Point: 16_Result: Pass
+[2022-06-24 14:54:43,164] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:54:50,012] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:54:50,012] [INFO] [MACHINE] - Tester | Barcode: www_Point: 17_Sag_SFR: 121.66_Sag_BFD: 53.7372
+[2022-06-24 14:54:50,012] [INFO] [MACHINE] - Tester | Barcode: www_Point: 17_Tan_SFR: 118.74_Tan_BFD: 53.7372
+[2022-06-24 14:54:50,012] [INFO] [MACHINE] - Tester | Barcode: www_Point: 17_Result: Pass
+[2022-06-24 14:54:51,594] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:54:58,675] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:54:58,675] [INFO] [MACHINE] - Tester | Barcode: www_Point: 18_Sag_SFR: 120.55_Sag_BFD: 53.7372
+[2022-06-24 14:54:58,675] [INFO] [MACHINE] - Tester | Barcode: www_Point: 18_Tan_SFR: 117.75_Tan_BFD: 53.7372
+[2022-06-24 14:54:58,675] [INFO] [MACHINE] - Tester | Barcode: www_Point: 18_Result: Pass
+[2022-06-24 14:54:58,868] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 14:54:58,868] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-06-24 14:54:58,899] [INFO] [MACHINE] - Tester | Auto Sequence Step:9
+[2022-06-24 14:54:59,459] [INFO] [MACHINE] - Tester | Auto Sequence Step:10
+[2022-06-24 14:54:59,459] [INFO] [MACHINE] - Tester | Barcode: www_Diopter-5.8_Point: 19_Left Side Start Test
+[2022-06-24 14:54:59,459] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:55:00,340] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:55:07,090] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:55:07,090] [INFO] [MACHINE] - Tester | Barcode: www_Point: 1_Sag_SFR: 122.92_Sag_BFD: 53.7372
+[2022-06-24 14:55:07,090] [INFO] [MACHINE] - Tester | Barcode: www_Point: 1_Tan_SFR: 117.62_Tan_BFD: 53.7372
+[2022-06-24 14:55:07,090] [INFO] [MACHINE] - Tester | Barcode: www_Point: 1_Result: Pass
+[2022-06-24 14:55:08,753] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:55:15,610] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:55:15,610] [INFO] [MACHINE] - Tester | Barcode: www_Point: 2_Sag_SFR: 121.48_Sag_BFD: 53.7372
+[2022-06-24 14:55:15,610] [INFO] [MACHINE] - Tester | Barcode: www_Point: 2_Tan_SFR: 117.78_Tan_BFD: 53.7372
+[2022-06-24 14:55:15,610] [INFO] [MACHINE] - Tester | Barcode: www_Point: 2_Result: Pass
+[2022-06-24 14:55:17,180] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:55:24,093] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:55:24,093] [INFO] [MACHINE] - Tester | Barcode: www_Point: 3_Sag_SFR: 123.28_Sag_BFD: 53.7372
+[2022-06-24 14:55:24,093] [INFO] [MACHINE] - Tester | Barcode: www_Point: 3_Tan_SFR: 119.73_Tan_BFD: 53.7372
+[2022-06-24 14:55:24,093] [INFO] [MACHINE] - Tester | Barcode: www_Point: 3_Result: Pass
+[2022-06-24 14:55:25,616] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:55:32,593] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:55:32,593] [INFO] [MACHINE] - Tester | Barcode: www_Point: 4_Sag_SFR: 119.7_Sag_BFD: 53.7372
+[2022-06-24 14:55:32,593] [INFO] [MACHINE] - Tester | Barcode: www_Point: 4_Tan_SFR: 117.71_Tan_BFD: 53.7372
+[2022-06-24 14:55:32,594] [INFO] [MACHINE] - Tester | Barcode: www_Point: 4_Result: Pass
+[2022-06-24 14:55:34,062] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:55:41,009] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:55:41,009] [INFO] [MACHINE] - Tester | Barcode: www_Point: 5_Sag_SFR: 119.96_Sag_BFD: 53.7372
+[2022-06-24 14:55:41,009] [INFO] [MACHINE] - Tester | Barcode: www_Point: 5_Tan_SFR: 117_Tan_BFD: 53.7372
+[2022-06-24 14:55:41,009] [INFO] [MACHINE] - Tester | Barcode: www_Point: 5_Result: Pass
+[2022-06-24 14:55:42,482] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:55:49,642] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:55:49,642] [INFO] [MACHINE] - Tester | Barcode: www_Point: 6_Sag_SFR: 117.72_Sag_BFD: 53.7372
+[2022-06-24 14:55:49,642] [INFO] [MACHINE] - Tester | Barcode: www_Point: 6_Tan_SFR: 118.24_Tan_BFD: 53.7372
+[2022-06-24 14:55:49,642] [INFO] [MACHINE] - Tester | Barcode: www_Point: 6_Result: Pass
+[2022-06-24 14:55:51,218] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:55:58,333] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:55:58,333] [INFO] [MACHINE] - Tester | Barcode: www_Point: 7_Sag_SFR: 120.48_Sag_BFD: 53.7372
+[2022-06-24 14:55:58,333] [INFO] [MACHINE] - Tester | Barcode: www_Point: 7_Tan_SFR: 116.51_Tan_BFD: 53.7372
+[2022-06-24 14:55:58,333] [INFO] [MACHINE] - Tester | Barcode: www_Point: 7_Result: Pass
+[2022-06-24 14:55:59,960] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:56:07,186] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:56:07,186] [INFO] [MACHINE] - Tester | Barcode: www_Point: 8_Sag_SFR: 120.45_Sag_BFD: 53.7372
+[2022-06-24 14:56:07,186] [INFO] [MACHINE] - Tester | Barcode: www_Point: 8_Tan_SFR: 117.07_Tan_BFD: 53.7372
+[2022-06-24 14:56:07,186] [INFO] [MACHINE] - Tester | Barcode: www_Point: 8_Result: Pass
+[2022-06-24 14:56:08,709] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 14:56:15,636] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 14:56:15,636] [INFO] [MACHINE] - Tester | Barcode: www_Point: 9_Sag_SFR: 119.21_Sag_BFD: 53.7372
+[2022-06-24 14:56:15,636] [INFO] [MACHINE] - Tester | Barcode: www_Point: 9_Tan_SFR: 116.85_Tan_BFD: 53.7372
+[2022-06-24 14:56:15,636] [INFO] [MACHINE] - Tester | Barcode: www_Point: 9_Result: Pass
+[2022-06-24 14:56:15,808] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 14:56:15,808] [INFO] [MACHINE] - Tester | Auto Sequence Step:11
+[2022-06-24 14:56:15,825] [INFO] [MACHINE] - Tester | Auto Sequence Step:12
+[2022-06-24 14:56:20,471] [INFO] [MACHINE] - Tester | Barcode: www_Final Result: Pass
+[2022-06-24 14:56:20,545] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-06-24 14:56:20,545] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-06-24 14:56:20,545] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:56:20,905] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 14:56:20,906] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 14:56:38,541] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:56:38,542] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 14:56:38,719] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 14:56:38,719] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 14:57:14,816] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 14:57:16,289] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 14:57:16,292] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 14:57:17,348] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 14:57:21,850] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 14:57:21,890] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 14:57:21,954] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 14:57:23,097] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:57:23,132] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 14:57:29,785] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 14:57:29,785] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 14:57:30,944] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 14:57:34,602] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:57:34,603] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 14:57:34,765] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 14:57:34,765] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 14:58:05,904] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 14:58:07,688] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 14:58:07,692] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 14:58:08,714] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 14:58:13,212] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 14:58:13,255] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 14:58:13,318] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 14:58:14,385] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 14:58:14,412] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 14:58:20,073] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 14:58:20,073] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 14:58:21,146] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 14:58:51,725] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:58:52,334] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:58:52,334] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 14:58:52,334] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 14:58:52,335] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 14:58:52,336] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:58:52,336] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:58:52,337] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:58:52,568] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:58:53,025] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:58:54,950] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:59:04,606] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:59:04,945] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:59:04,945] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:59:04,945] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:59:04,945] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:59:05,459] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:59:07,555] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 14:59:09,239] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-06-24 14:59:09,255] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 14:59:18,720] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-06-24 14:59:21,816] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-06-24 14:59:21,835] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 14:59:21,835] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 14:59:21,835] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 14:59:22,049] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:59:22,505] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 14:59:24,333] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 14:59:26,954] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 14:59:27,400] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 14:59:27,400] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 14:59:27,400] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 14:59:27,400] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 14:59:27,874] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 14:59:50,700] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 14:59:51,293] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 14:59:51,294] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 14:59:51,294] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 14:59:51,347] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 14:59:51,832] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-06-24 14:59:51,833] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-06-24 14:59:51,833] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:59:51,834] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:59:51,894] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:59:55,266] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:59:55,311] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:59:55,680] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:59:55,680] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:59:55,680] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:59:55,680] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-06-24 14:59:55,680] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 14:59:55,680] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 14:59:55,750] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 14:59:56,537] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 14:59:56,555] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 14:59:56,859] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 14:59:56,859] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 14:59:56,859] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 14:59:56,859] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-06-24 14:59:56,933] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-06-24 14:59:57,682] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-06-24 14:59:57,682] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Diopter-14_Point: 0_Right Side Start Test
+[2022-06-24 14:59:57,684] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 14:59:58,580] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:00:13,751] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:00:13,752] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 10_Sag_SFR: 113.42_Sag_BFD: 73.286
+[2022-06-24 15:00:13,752] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 10_Tan_SFR: 113.92_Tan_BFD: 73.286
+[2022-06-24 15:00:13,753] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 10_Result: Pass
+[2022-06-24 15:00:15,416] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:00:21,725] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:00:21,725] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 11_Sag_SFR: 113.12_Sag_BFD: 73.286
+[2022-06-24 15:00:21,725] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 11_Tan_SFR: 112.98_Tan_BFD: 73.286
+[2022-06-24 15:00:21,725] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 11_Result: Pass
+[2022-06-24 15:00:23,204] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:00:30,583] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:00:30,583] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 12_Sag_SFR: 112.42_Sag_BFD: 73.286
+[2022-06-24 15:00:30,583] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 12_Tan_SFR: 114.23_Tan_BFD: 73.286
+[2022-06-24 15:00:30,583] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 12_Result: Pass
+[2022-06-24 15:00:32,248] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:00:39,045] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:00:39,045] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 13_Sag_SFR: 113.07_Sag_BFD: 73.286
+[2022-06-24 15:00:39,045] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 13_Tan_SFR: 112.14_Tan_BFD: 73.286
+[2022-06-24 15:00:39,045] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 13_Result: Pass
+[2022-06-24 15:00:40,681] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:00:47,406] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:00:47,406] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 14_Sag_SFR: 114.09_Sag_BFD: 73.286
+[2022-06-24 15:00:47,406] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 14_Tan_SFR: 112.12_Tan_BFD: 73.286
+[2022-06-24 15:00:47,406] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 14_Result: Pass
+[2022-06-24 15:00:49,106] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:00:55,197] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:00:55,197] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 15_Sag_SFR: 115.13_Sag_BFD: 73.286
+[2022-06-24 15:00:55,197] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 15_Tan_SFR: 113.32_Tan_BFD: 73.286
+[2022-06-24 15:00:55,197] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 15_Result: Pass
+[2022-06-24 15:00:56,940] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:01:03,298] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:01:03,298] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 16_Sag_SFR: 113.17_Sag_BFD: 73.286
+[2022-06-24 15:01:03,298] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 16_Tan_SFR: 112.27_Tan_BFD: 73.286
+[2022-06-24 15:01:03,298] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 16_Result: Pass
+[2022-06-24 15:01:05,070] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:01:11,292] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:01:11,292] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 17_Sag_SFR: 111.87_Sag_BFD: 73.286
+[2022-06-24 15:01:11,292] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 17_Tan_SFR: 112.76_Tan_BFD: 73.286
+[2022-06-24 15:01:11,292] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 17_Result: Pass
+[2022-06-24 15:01:12,899] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:01:19,064] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:01:19,064] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 18_Sag_SFR: 113.1_Sag_BFD: 73.286
+[2022-06-24 15:01:19,064] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 18_Tan_SFR: 112.84_Tan_BFD: 73.286
+[2022-06-24 15:01:19,064] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 18_Result: Pass
+[2022-06-24 15:01:19,308] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 15:01:19,308] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-06-24 15:01:19,337] [INFO] [MACHINE] - Tester | Auto Sequence Step:9
+[2022-06-24 15:01:19,895] [INFO] [MACHINE] - Tester | Auto Sequence Step:10
+[2022-06-24 15:01:19,896] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Diopter-14_Point: 19_Left Side Start Test
+[2022-06-24 15:01:19,896] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 15:01:20,441] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:01:26,604] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:01:26,605] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 1_Sag_SFR: 114.99_Sag_BFD: 73.286
+[2022-06-24 15:01:26,605] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 1_Tan_SFR: 111.6_Tan_BFD: 73.286
+[2022-06-24 15:01:26,605] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 1_Result: Pass
+[2022-06-24 15:01:28,304] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:01:34,531] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:01:34,531] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 2_Sag_SFR: 112.99_Sag_BFD: 73.286
+[2022-06-24 15:01:34,531] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 2_Tan_SFR: 110.86_Tan_BFD: 73.286
+[2022-06-24 15:01:34,531] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 2_Result: Pass
+[2022-06-24 15:01:36,146] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:01:42,374] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:01:42,374] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 3_Sag_SFR: 113.73_Sag_BFD: 73.286
+[2022-06-24 15:01:42,374] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 3_Tan_SFR: 115.02_Tan_BFD: 73.286
+[2022-06-24 15:01:42,374] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 3_Result: Pass
+[2022-06-24 15:01:43,929] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:01:50,024] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:01:50,024] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 4_Sag_SFR: 116.43_Sag_BFD: 73.286
+[2022-06-24 15:01:50,024] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 4_Tan_SFR: 113.22_Tan_BFD: 73.286
+[2022-06-24 15:01:50,024] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 4_Result: Pass
+[2022-06-24 15:01:51,758] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:01:58,147] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:01:58,147] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 5_Sag_SFR: 113.92_Sag_BFD: 73.286
+[2022-06-24 15:01:58,148] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 5_Tan_SFR: 112.71_Tan_BFD: 73.286
+[2022-06-24 15:01:58,148] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 5_Result: Pass
+[2022-06-24 15:01:59,887] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:02:06,172] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:02:06,172] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 6_Sag_SFR: 114.76_Sag_BFD: 73.286
+[2022-06-24 15:02:06,172] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 6_Tan_SFR: 113.51_Tan_BFD: 73.286
+[2022-06-24 15:02:06,172] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 6_Result: Pass
+[2022-06-24 15:02:07,719] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:02:13,774] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:02:13,774] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 7_Sag_SFR: 113.28_Sag_BFD: 73.286
+[2022-06-24 15:02:13,774] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 7_Tan_SFR: 113.53_Tan_BFD: 73.286
+[2022-06-24 15:02:13,774] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 7_Result: Pass
+[2022-06-24 15:02:15,571] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:02:21,711] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:02:21,711] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 8_Sag_SFR: 112.33_Sag_BFD: 73.286
+[2022-06-24 15:02:21,711] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 8_Tan_SFR: 114.03_Tan_BFD: 73.286
+[2022-06-24 15:02:21,711] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 8_Result: Pass
+[2022-06-24 15:02:23,377] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:02:29,354] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:02:29,354] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 9_Sag_SFR: 114.09_Sag_BFD: 73.286
+[2022-06-24 15:02:29,354] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 9_Tan_SFR: 115.13_Tan_BFD: 73.286
+[2022-06-24 15:02:29,354] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Point: 9_Result: Pass
+[2022-06-24 15:02:29,586] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 15:02:29,586] [INFO] [MACHINE] - Tester | Auto Sequence Step:11
+[2022-06-24 15:02:29,600] [INFO] [MACHINE] - Tester | Auto Sequence Step:12
+[2022-06-24 15:02:35,013] [INFO] [MACHINE] - Tester | Barcode: 14diopter_Final Result: Pass
+[2022-06-24 15:02:35,037] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-06-24 15:02:35,037] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-06-24 15:02:35,037] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 15:02:35,476] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 15:02:35,476] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 15:02:43,932] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 15:02:45,945] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-06-24 15:02:45,960] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 15:02:45,960] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 15:02:45,960] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 15:02:54,521] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-06-24 15:03:09,882] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 15:03:10,566] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 15:03:10,569] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 15:03:10,569] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 15:03:10,572] [INFO] [MACHINE] - Tester | Auto Sequence Step:-2
+[2022-06-24 15:03:19,606] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 15:03:19,606] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 15:03:19,606] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-06-24 15:03:19,606] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 15:03:19,608] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 15:03:19,608] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 15:03:19,608] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 15:03:19,826] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 15:03:20,248] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 15:03:22,184] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 15:03:29,315] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 15:03:29,767] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 15:03:29,767] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 15:03:29,767] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 15:03:29,767] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 15:03:30,188] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 15:03:35,882] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 15:03:36,490] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 15:03:36,491] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 15:03:36,491] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 15:03:36,491] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 15:03:36,913] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-06-24 15:03:36,913] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-06-24 15:03:36,913] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 15:03:36,913] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 15:03:36,986] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 15:03:40,491] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 15:03:40,567] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 15:03:40,951] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 15:03:40,951] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 15:03:40,951] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 15:03:40,951] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-06-24 15:03:40,951] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 15:03:40,951] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 15:03:40,993] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 15:03:41,696] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 15:03:41,742] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 15:03:42,028] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 15:03:42,028] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 15:03:42,028] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 15:03:42,028] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-06-24 15:03:42,058] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-06-24 15:03:42,571] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-06-24 15:03:42,571] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Diopter-14_Point: 10_Right Side Start Test
+[2022-06-24 15:03:42,571] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 15:03:43,212] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:04:13,437] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:04:13,437] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 10_Sag_SFR: 114.18_Sag_BFD: 73.486
+[2022-06-24 15:04:13,437] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 10_Tan_SFR: 115.3_Tan_BFD: 73.486
+[2022-06-24 15:04:13,438] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 10_Result: Fail
+[2022-06-24 15:04:15,154] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:04:42,703] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:04:42,703] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 11_Sag_SFR: 114.21_Sag_BFD: 73.486
+[2022-06-24 15:04:42,703] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 11_Tan_SFR: 114.75_Tan_BFD: 73.286
+[2022-06-24 15:04:42,703] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 11_Result: Fail
+[2022-06-24 15:04:44,370] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:05:11,398] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:05:11,398] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 12_Sag_SFR: 115.5_Sag_BFD: 73.486
+[2022-06-24 15:05:11,399] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 12_Tan_SFR: 115.95_Tan_BFD: 73.486
+[2022-06-24 15:05:11,399] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 12_Result: Fail
+[2022-06-24 15:05:12,951] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:05:40,285] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:05:40,285] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 13_Sag_SFR: 114.93_Sag_BFD: 73.486
+[2022-06-24 15:05:40,285] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 13_Tan_SFR: 114.68_Tan_BFD: 73.486
+[2022-06-24 15:05:40,285] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 13_Result: Fail
+[2022-06-24 15:05:41,870] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:06:09,252] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:06:09,252] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 14_Sag_SFR: 114.7_Sag_BFD: 73.486
+[2022-06-24 15:06:09,252] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 14_Tan_SFR: 115.14_Tan_BFD: 73.486
+[2022-06-24 15:06:09,252] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 14_Result: Fail
+[2022-06-24 15:06:11,117] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:06:38,263] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:06:38,263] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 15_Sag_SFR: 115.3_Sag_BFD: 73.286
+[2022-06-24 15:06:38,263] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 15_Tan_SFR: 114.29_Tan_BFD: 73.486
+[2022-06-24 15:06:38,263] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 15_Result: Fail
+[2022-06-24 15:06:40,018] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:07:07,322] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:07:07,322] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 16_Sag_SFR: 112.34_Sag_BFD: 73.286
+[2022-06-24 15:07:07,322] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 16_Tan_SFR: 114.42_Tan_BFD: 73.286
+[2022-06-24 15:07:07,322] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 16_Result: Pass
+[2022-06-24 15:07:08,946] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:07:36,351] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:07:36,351] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 17_Sag_SFR: 114.47_Sag_BFD: 73.286
+[2022-06-24 15:07:36,351] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 17_Tan_SFR: 116.84_Tan_BFD: 73.486
+[2022-06-24 15:07:36,351] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 17_Result: Fail
+[2022-06-24 15:07:38,235] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:08:05,688] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:08:05,688] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 18_Sag_SFR: 114.62_Sag_BFD: 73.286
+[2022-06-24 15:08:05,688] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 18_Tan_SFR: 115.29_Tan_BFD: 73.486
+[2022-06-24 15:08:05,688] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 18_Result: Fail
+[2022-06-24 15:08:05,971] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 15:08:05,971] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-06-24 15:08:06,001] [INFO] [MACHINE] - Tester | Auto Sequence Step:9
+[2022-06-24 15:08:06,575] [INFO] [MACHINE] - Tester | Auto Sequence Step:10
+[2022-06-24 15:08:06,575] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Diopter-14_Point: 19_Left Side Start Test
+[2022-06-24 15:08:06,576] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 15:08:07,446] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:08:34,162] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:08:34,162] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 1_Sag_SFR: 114.05_Sag_BFD: 73.486
+[2022-06-24 15:08:34,162] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 1_Tan_SFR: 114.23_Tan_BFD: 73.486
+[2022-06-24 15:08:34,162] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 1_Result: Fail
+[2022-06-24 15:08:35,832] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:09:02,978] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:09:02,978] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 2_Sag_SFR: 113.76_Sag_BFD: 73.486
+[2022-06-24 15:09:02,978] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 2_Tan_SFR: 115.44_Tan_BFD: 73.486
+[2022-06-24 15:09:02,978] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 2_Result: Fail
+[2022-06-24 15:09:04,638] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:09:32,432] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:09:32,432] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 3_Sag_SFR: 114.17_Sag_BFD: 73.486
+[2022-06-24 15:09:32,432] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 3_Tan_SFR: 112.93_Tan_BFD: 73.486
+[2022-06-24 15:09:32,432] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 3_Result: Fail
+[2022-06-24 15:09:34,177] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:10:01,774] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:10:01,774] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 4_Sag_SFR: 113.58_Sag_BFD: 73.286
+[2022-06-24 15:10:01,774] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 4_Tan_SFR: 116.41_Tan_BFD: 73.486
+[2022-06-24 15:10:01,774] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 4_Result: Fail
+[2022-06-24 15:10:03,330] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:10:30,715] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:10:30,715] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 5_Sag_SFR: 115.37_Sag_BFD: 73.486
+[2022-06-24 15:10:30,715] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 5_Tan_SFR: 115.18_Tan_BFD: 73.486
+[2022-06-24 15:10:30,715] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 5_Result: Fail
+[2022-06-24 15:10:32,550] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:10:59,868] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:10:59,868] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 6_Sag_SFR: 112.83_Sag_BFD: 73.486
+[2022-06-24 15:10:59,868] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 6_Tan_SFR: 114.28_Tan_BFD: 73.486
+[2022-06-24 15:10:59,868] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 6_Result: Fail
+[2022-06-24 15:11:01,584] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:11:28,958] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:11:28,958] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 7_Sag_SFR: 113.72_Sag_BFD: 73.486
+[2022-06-24 15:11:28,958] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 7_Tan_SFR: 113.23_Tan_BFD: 73.286
+[2022-06-24 15:11:28,958] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 7_Result: Fail
+[2022-06-24 15:11:30,729] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:11:57,607] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:11:57,607] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 8_Sag_SFR: 113.92_Sag_BFD: 73.286
+[2022-06-24 15:11:57,607] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 8_Tan_SFR: 113.91_Tan_BFD: 73.486
+[2022-06-24 15:11:57,607] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 8_Result: Fail
+[2022-06-24 15:11:59,320] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:12:25,897] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:12:25,897] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 9_Sag_SFR: 116.82_Sag_BFD: 73.486
+[2022-06-24 15:12:25,897] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 9_Tan_SFR: 113.51_Tan_BFD: 73.486
+[2022-06-24 15:12:25,897] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 9_Result: Fail
+[2022-06-24 15:12:26,180] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 15:12:26,180] [INFO] [MACHINE] - Tester | Auto Sequence Step:11
+[2022-06-24 15:12:26,196] [INFO] [MACHINE] - Tester | Auto Sequence Step:12
+[2022-06-24 15:12:31,226] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Final Result: Fail
+[2022-06-24 15:12:31,276] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-06-24 15:12:31,276] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-06-24 15:12:31,276] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 15:12:31,766] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 15:12:31,766] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 15:20:53,861] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 15:20:56,713] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-06-24 15:20:56,736] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 15:20:56,736] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 15:20:56,736] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 15:21:02,719] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-06-24 15:21:11,826] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-06-24 15:21:11,843] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 15:21:11,843] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 15:21:11,843] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 15:21:12,071] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 15:21:12,513] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 15:21:14,476] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 15:21:21,832] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 15:21:22,222] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 15:21:22,223] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 15:21:22,223] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 15:21:22,223] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 15:21:22,664] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 15:21:23,527] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 15:21:24,453] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-06-24 15:21:24,455] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-06-24 15:21:24,455] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-06-24 15:21:24,455] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 15:21:24,866] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-06-24 15:21:24,866] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-06-24 15:21:24,866] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 15:21:24,866] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 15:21:24,919] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 15:21:28,333] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 15:21:28,352] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 15:21:28,654] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 15:21:28,655] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 15:21:28,655] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 15:21:28,655] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-06-24 15:21:28,655] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-06-24 15:21:28,655] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-06-24 15:21:28,767] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-06-24 15:21:29,318] [INFO] [MACHINE] - Tester | Align Sequence Step:2
+[2022-06-24 15:21:29,337] [INFO] [MACHINE] - Tester | Align Sequence Step:3
+[2022-06-24 15:21:29,729] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-06-24 15:21:29,729] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-06-24 15:21:29,729] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-06-24 15:21:29,729] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-06-24 15:21:29,770] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-06-24 15:21:31,035] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-06-24 15:21:31,035] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Diopter-8.6_Point: 10_Right Side Start Test
+[2022-06-24 15:21:31,035] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 15:21:31,937] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:22:04,437] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:22:04,437] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 10_Sag_SFR: 119.69_Sag_BFD: 60.6124
+[2022-06-24 15:22:04,437] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 10_Tan_SFR: 120.13_Tan_BFD: 60.6124
+[2022-06-24 15:22:04,437] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 10_Result: Fail
+[2022-06-24 15:22:05,979] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:22:34,557] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:22:34,557] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 11_Sag_SFR: 119.28_Sag_BFD: 60.6124
+[2022-06-24 15:22:34,557] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 11_Tan_SFR: 116.93_Tan_BFD: 60.6124
+[2022-06-24 15:22:34,557] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 11_Result: Fail
+[2022-06-24 15:22:36,100] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:23:04,867] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:23:04,867] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 12_Sag_SFR: 118.56_Sag_BFD: 60.6124
+[2022-06-24 15:23:04,867] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 12_Tan_SFR: 119.7_Tan_BFD: 60.6124
+[2022-06-24 15:23:04,867] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 12_Result: Fail
+[2022-06-24 15:23:07,505] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:23:37,931] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:23:37,931] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 13_Sag_SFR: 120.52_Sag_BFD: 60.6124
+[2022-06-24 15:23:37,931] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 13_Tan_SFR: 116.92_Tan_BFD: 60.6124
+[2022-06-24 15:23:37,931] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 13_Result: Fail
+[2022-06-24 15:23:39,676] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:24:09,054] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:24:09,055] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 14_Sag_SFR: 119.32_Sag_BFD: 60.6124
+[2022-06-24 15:24:09,055] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 14_Tan_SFR: 119.87_Tan_BFD: 60.6124
+[2022-06-24 15:24:09,055] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 14_Result: Fail
+[2022-06-24 15:24:10,711] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:24:39,520] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:24:39,520] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 15_Sag_SFR: 120.52_Sag_BFD: 60.6124
+[2022-06-24 15:24:39,520] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 15_Tan_SFR: 118.6_Tan_BFD: 60.6124
+[2022-06-24 15:24:39,520] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 15_Result: Fail
+[2022-06-24 15:24:41,401] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:25:10,331] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:25:10,331] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 16_Sag_SFR: 118.31_Sag_BFD: 60.6124
+[2022-06-24 15:25:10,331] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 16_Tan_SFR: 118.41_Tan_BFD: 60.6124
+[2022-06-24 15:25:10,331] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 16_Result: Fail
+[2022-06-24 15:25:12,113] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:25:41,371] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:25:41,371] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 17_Sag_SFR: 119.29_Sag_BFD: 60.6124
+[2022-06-24 15:25:41,371] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 17_Tan_SFR: 118.44_Tan_BFD: 60.6124
+[2022-06-24 15:25:41,371] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 17_Result: Fail
+[2022-06-24 15:25:43,137] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:26:12,307] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:26:12,307] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 18_Sag_SFR: 121.65_Sag_BFD: 60.6124
+[2022-06-24 15:26:12,307] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 18_Tan_SFR: 118.13_Tan_BFD: 60.6124
+[2022-06-24 15:26:12,307] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 18_Result: Fail
+[2022-06-24 15:26:12,527] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 15:26:12,528] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-06-24 15:26:12,557] [INFO] [MACHINE] - Tester | Auto Sequence Step:9
+[2022-06-24 15:26:13,323] [INFO] [MACHINE] - Tester | Auto Sequence Step:10
+[2022-06-24 15:26:13,323] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Diopter-8.6_Point: 19_Left Side Start Test
+[2022-06-24 15:26:13,323] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-06-24 15:26:13,874] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:26:42,656] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:26:42,656] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 1_Sag_SFR: 120.19_Sag_BFD: 60.6124
+[2022-06-24 15:26:42,656] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 1_Tan_SFR: 118.46_Tan_BFD: 60.6124
+[2022-06-24 15:26:42,656] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 1_Result: Fail
+[2022-06-24 15:26:44,284] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:27:13,103] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:27:13,103] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 2_Sag_SFR: 116.47_Sag_BFD: 60.6124
+[2022-06-24 15:27:13,103] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 2_Tan_SFR: 118.62_Tan_BFD: 60.6124
+[2022-06-24 15:27:13,103] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 2_Result: Fail
+[2022-06-24 15:27:14,808] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:27:44,187] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:27:44,187] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 3_Sag_SFR: 121.19_Sag_BFD: 60.6124
+[2022-06-24 15:27:44,187] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 3_Tan_SFR: 117.95_Tan_BFD: 60.6124
+[2022-06-24 15:27:44,187] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 3_Result: Fail
+[2022-06-24 15:27:45,820] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:28:14,491] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:28:14,492] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 4_Sag_SFR: 118.6_Sag_BFD: 60.6124
+[2022-06-24 15:28:14,492] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 4_Tan_SFR: 117.78_Tan_BFD: 60.6124
+[2022-06-24 15:28:14,492] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 4_Result: Fail
+[2022-06-24 15:28:16,154] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:28:44,906] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:28:44,906] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 5_Sag_SFR: 120.8_Sag_BFD: 60.6124
+[2022-06-24 15:28:44,906] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 5_Tan_SFR: 117.96_Tan_BFD: 60.6124
+[2022-06-24 15:28:44,906] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 5_Result: Fail
+[2022-06-24 15:28:46,599] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:29:15,854] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:29:15,854] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 6_Sag_SFR: 119.77_Sag_BFD: 60.6124
+[2022-06-24 15:29:15,854] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 6_Tan_SFR: 118.63_Tan_BFD: 60.6124
+[2022-06-24 15:29:15,854] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 6_Result: Fail
+[2022-06-24 15:29:17,598] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:29:46,375] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:29:46,375] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 7_Sag_SFR: 119.09_Sag_BFD: 60.6124
+[2022-06-24 15:29:46,375] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 7_Tan_SFR: 119.17_Tan_BFD: 60.6124
+[2022-06-24 15:29:46,375] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 7_Result: Fail
+[2022-06-24 15:29:48,052] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:30:16,664] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:30:16,664] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 8_Sag_SFR: 119.79_Sag_BFD: 60.6124
+[2022-06-24 15:30:16,664] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 8_Tan_SFR: 118.44_Tan_BFD: 60.6124
+[2022-06-24 15:30:16,664] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 8_Result: Fail
+[2022-06-24 15:30:18,574] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-06-24 15:30:47,151] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-06-24 15:30:47,151] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 9_Sag_SFR: 122.18_Sag_BFD: 60.6124
+[2022-06-24 15:30:47,151] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 9_Tan_SFR: 119.57_Tan_BFD: 60.6124
+[2022-06-24 15:30:47,151] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Point: 9_Result: Fail
+[2022-06-24 15:30:47,417] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-06-24 15:30:47,417] [INFO] [MACHINE] - Tester | Auto Sequence Step:11
+[2022-06-24 15:30:47,429] [INFO] [MACHINE] - Tester | Auto Sequence Step:12
+[2022-06-24 15:30:52,455] [INFO] [MACHINE] - Tester | Barcode: 14diopter02_Final Result: Fail
+[2022-06-24 15:30:52,505] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-06-24 15:30:52,505] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-06-24 15:30:52,505] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 15:30:52,975] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-06-24 15:30:52,975] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-06-24 16:03:46,311] [INFO] [MACHINE] - Alarm | Alarm Occured - Service Key in Teach Mode
+[2022-06-24 16:03:46,316] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 16:03:46,825] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-06-24 16:08:37,092] [INFO] [MACHINE] - Alarm | Alarm Occured - Front Door Open or Not Lock
+[2022-06-24 16:37:45,833] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 16:37:45,834] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 16:37:46,011] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 16:37:46,011] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 16:38:12,398] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 16:38:13,935] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 16:38:13,939] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 16:38:15,151] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 16:38:19,626] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 16:38:19,668] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 16:38:19,757] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 16:38:20,840] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 16:38:20,867] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 16:38:28,087] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 16:38:28,087] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 16:38:29,423] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 16:39:01,630] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 16:39:01,630] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 16:39:01,807] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 16:39:01,807] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 16:39:23,647] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 16:39:25,169] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 16:39:25,175] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 16:39:26,414] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 16:39:30,893] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 16:39:30,933] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 16:39:30,997] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 16:39:32,091] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 16:39:32,120] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 16:39:38,703] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 16:39:38,703] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 16:39:39,761] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 16:39:51,993] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 16:39:51,993] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 16:39:52,164] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 16:39:52,164] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 16:45:26,473] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 16:45:28,253] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 16:45:28,257] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 16:45:29,304] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 16:45:33,779] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 16:45:33,821] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 16:45:33,885] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 16:45:34,970] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 16:45:34,997] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 16:45:41,283] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 16:45:41,283] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 16:45:42,469] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 16:46:18,047] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 16:46:18,810] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 16:46:18,810] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 16:46:18,810] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 16:46:18,811] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 16:46:18,812] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 16:46:18,812] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 16:46:18,814] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 16:46:18,983] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 16:46:19,305] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 16:46:21,264] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 16:46:30,217] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 16:46:30,639] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 16:46:30,639] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 16:46:30,639] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 16:46:30,639] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 16:46:30,981] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-06-24 16:59:04,678] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-06-24 16:59:08,220] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 16:59:10,469] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-06-24 16:59:10,480] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 17:11:45,190] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 17:11:45,191] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 17:11:45,386] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 17:11:45,386] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 17:12:04,731] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 17:12:06,154] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 17:12:06,157] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 17:12:07,204] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 17:12:11,684] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 17:12:11,726] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 17:12:11,790] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 17:12:12,882] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 17:12:12,909] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 17:12:19,573] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 17:12:19,573] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 17:12:20,846] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 17:15:19,534] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 17:15:19,534] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-06-24 17:15:19,713] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-06-24 17:15:19,713] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-06-24 17:37:17,864] [INFO] [MACHINE] - IO Module | Connected
+[2022-06-24 17:37:19,661] [INFO] [MACHINE] - Robot | Robot connected
+[2022-06-24 17:37:19,664] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-06-24 17:37:20,701] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-06-24 17:37:25,201] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-06-24 17:37:25,242] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-06-24 17:37:25,316] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 75
+[2022-06-24 17:37:26,399] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-06-24 17:37:26,425] [INFO] [MACHINE] - Camera | Connected
+[2022-06-24 17:37:32,210] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-06-24 17:37:32,210] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.4.0.0---Robot Version:0.0.0.1
+[2022-06-24 17:37:33,386] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-06-24 17:37:37,212] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-06-24 17:37:37,739] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-06-24 17:37:37,739] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-06-24 17:37:37,739] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-06-24 17:37:37,740] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-06-24 17:37:37,741] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-06-24 17:37:37,741] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-06-24 17:37:37,743] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-06-24 17:37:37,934] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-06-24 17:37:38,294] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-06-24 17:37:40,274] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-06-24 17:37:42,883] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-06-24 17:37:43,207] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-06-24 17:37:43,207] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-06-24 17:37:43,207] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-06-24 17:37:43,207] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-06-24 17:37:43,564] [INFO] [MACHINE] - Tester | Init Sequence End

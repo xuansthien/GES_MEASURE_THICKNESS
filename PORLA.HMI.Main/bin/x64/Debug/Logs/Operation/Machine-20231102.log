@@ -1,0 +1,32 @@
+﻿[2023-11-02 09:21:19,587] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-02 09:21:39,717] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-02 09:21:39,779] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-11-02 09:21:39,784] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-11-02 09:21:39,784] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-11-02 09:21:39,784] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-11-02 09:21:39,784] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-11-02 09:21:39,847] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-02 09:21:42,718] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-11-02 09:21:42,736] [1  ] [320  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-02 09:21:43,585] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-11-02 09:22:45,761] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-11-02 09:22:46,537] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-11-02 09:22:46,595] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-11-02 09:22:46,595] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-11-02 09:22:46,595] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-11-02 09:22:46,595] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-11-02 09:22:46,595] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-11-02 09:22:46,676] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-11-02 09:22:49,364] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-11-02 09:22:49,383] [1  ] [320  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-11-02 09:22:50,262] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0

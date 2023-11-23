@@ -1,0 +1,219 @@
+[2023-08-10 08:46:52,852] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 08:46:52,861] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 08:46:54,123] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 08:46:55,145] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 08:46:55,691] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 08:46:55,691] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 09:08:54,483] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 09:08:54,491] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 09:08:55,716] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 09:08:56,733] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 09:08:57,218] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 09:08:57,218] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 09:10:52,585] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 09:10:52,591] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 09:10:53,676] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 09:10:54,700] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 09:10:55,110] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 09:10:55,110] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 09:20:05,058] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 09:20:05,065] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 09:20:06,294] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 09:20:07,318] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 09:20:07,821] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 09:20:07,821] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 09:33:22,445] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 09:33:22,451] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 09:33:23,710] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 09:33:24,735] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 09:33:25,238] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 09:33:25,238] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 10:04:20,274] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 10:04:20,280] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 10:04:21,576] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 10:04:22,604] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 10:04:23,096] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 10:04:23,097] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 12:51:07,057] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 12:51:07,062] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 12:51:08,235] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 12:51:09,257] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 12:51:09,666] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 12:51:09,667] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 12:56:24,203] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 12:56:24,210] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 12:56:25,264] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 12:56:26,291] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 12:56:26,590] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 12:56:26,590] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:01:36,303] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:01:36,308] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:01:37,526] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:01:38,551] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:01:38,939] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:01:38,939] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:04:56,496] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:04:56,501] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:04:57,556] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:04:58,586] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:04:58,897] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:04:58,897] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:05:31,004] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:05:31,009] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:05:32,053] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:05:33,075] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:05:33,374] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:05:33,374] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:06:21,388] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:06:21,393] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:06:22,444] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:06:23,463] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:06:23,761] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:06:23,761] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:34:42,155] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:34:42,164] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:34:43,409] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:34:44,444] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:34:44,830] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:34:44,831] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:37:32,146] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:37:32,158] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:37:33,236] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:37:34,270] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:37:34,576] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:37:34,576] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:41:53,126] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:41:53,139] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:41:54,217] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:41:55,252] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:41:55,569] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:41:55,569] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:44:30,954] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:44:30,960] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:44:32,018] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:44:33,051] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:44:33,357] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:44:33,358] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:45:15,917] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:45:15,924] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:45:16,986] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:45:18,018] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:45:18,342] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:45:18,342] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:46:16,783] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:46:16,790] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:46:17,851] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:46:18,886] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:46:19,213] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:46:19,213] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:50:41,358] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:50:41,367] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:50:42,438] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:50:43,471] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:50:43,790] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:50:43,790] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:51:24,582] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:51:24,590] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:51:25,655] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:51:26,688] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:51:26,980] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:51:26,980] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:54:42,173] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:54:42,179] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:54:43,247] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:54:44,279] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:54:44,604] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:54:44,604] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:56:06,699] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:56:06,704] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:56:07,757] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:56:08,792] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:56:09,091] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:56:09,091] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 13:57:56,557] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 13:57:56,562] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 13:57:57,619] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 13:57:58,653] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 13:57:58,946] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 13:57:58,946] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 14:03:08,750] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 14:03:08,757] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 14:03:09,811] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 14:03:10,846] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 14:03:11,152] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 14:03:11,153] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 14:06:18,446] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 14:06:18,452] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 14:06:19,510] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 14:06:20,540] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 14:06:20,836] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 14:06:20,836] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 20:36:03,581] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 20:36:03,591] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 20:36:05,069] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 20:36:06,317] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 20:36:06,817] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 20:36:06,817] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 20:37:24,768] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 20:37:24,780] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 20:37:26,072] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 20:37:27,321] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 20:37:27,602] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 20:37:27,602] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 20:38:14,525] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 20:38:14,531] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 20:38:15,796] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 20:38:17,039] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 20:38:17,365] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 20:38:17,365] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 20:38:47,172] [ERROR] [MACHINE] - IO Module | Set digital output failed!
+[2023-08-10 20:40:09,634] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 20:40:09,647] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 20:40:10,936] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 20:40:12,180] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 20:40:12,509] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 20:40:12,509] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 20:45:54,953] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 20:45:54,958] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 20:45:56,222] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 20:45:57,470] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 20:45:57,818] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 20:45:57,818] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 23:41:44,118] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:41:44,118] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:41:46,063] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:41:47,306] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 23:43:41,797] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:43:41,812] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:43:43,604] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:43:44,835] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 23:50:52,287] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:50:52,302] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:50:54,145] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:50:55,395] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 23:51:28,830] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:51:28,830] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:51:30,533] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:51:31,786] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 23:53:51,381] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:53:51,381] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:53:53,255] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:53:54,505] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 23:57:01,522] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:57:01,538] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:57:03,210] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:57:04,464] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 23:58:02,713] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:58:02,713] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:58:03,966] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:58:05,194] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 23:58:05,779] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2023-08-10 23:58:05,779] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2023-08-10 23:58:59,784] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:58:59,784] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:59:01,518] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:59:02,760] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2023-08-10 23:59:50,197] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2023-08-10 23:59:50,197] [INFO] [MACHINE] - HMI Version:1.0.0.0---Vision Version:3.6.0.0---Robot Version:
+[2023-08-10 23:59:51,869] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2023-08-10 23:59:53,117] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed

@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj",
+        "projectName": "POLAR.ModelAggregator",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj",
+        "projectName": "PORLA.HMI.Service",
+        "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\PORLA.HMI.Service.csproj",
+        "packagesPath": "C:\\Users\\IPC-Polar\\.nuget\\packages\\",
+        "outputPath": "D:\\1. Repo\\1. Latest\\ges-polar\\PORLA.HMI.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\IPC-Polar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj": {
+                "projectPath": "D:\\1. Repo\\1. Latest\\ges-polar\\POLAR.ModelAggregator\\POLAR.ModelAggregator.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.26, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

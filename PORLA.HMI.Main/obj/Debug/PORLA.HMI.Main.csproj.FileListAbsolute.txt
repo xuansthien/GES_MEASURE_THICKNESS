@@ -1,0 +1,1495 @@
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\log4net.config
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.exe
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\log4net.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Forms.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Forms.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Plugin.Popups.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Plugin.Popups.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Unity.Abstractions.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Unity.Abstractions.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Unity.Container.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Unity.Container.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\App.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\App.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.exe
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\comerr64.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+C:\Users\hoanvduong\Desktop\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\log4net.config
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.exe
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\log4net.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\comerr64.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Forms.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Forms.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Plugin.Popups.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Plugin.Popups.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Unity.Wpf.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Rg.Plugins.Popup.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Unity.Abstractions.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Unity.Abstractions.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Unity.Container.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Unity.Container.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\App.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\App.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.exe
+C:\Users\hoanvduong\Desktop\Backup\Porla\PorlaSorftware\Porla\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.Forms.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.Forms.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.Plugin.Popups.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.Plugin.Popups.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.Unity.Wpf.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.Unity.Wpf.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Rg.Plugins.Popup.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Rg.Plugins.Popup.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Unity.Abstractions.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Unity.Abstractions.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Unity.Container.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Unity.Container.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Core.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\App.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\Users\hoanvduong\Desktop\Work\Porla\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\App.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.HMI.Alarm.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.HMI.Alarm.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.xml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\App.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\Users\xuansthien\OneDrive - Kimball Electronics\1. DE_Project\12. Polar\11. Software\1. Software development\POLAR Repo\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\App.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\App.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\App.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\FromX\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\App.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\20102023\POLAR App_1\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\App.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\POLAR App\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\App.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\Repo\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\App.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\App.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzle.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\EllipseOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\Spiral.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\TriangleOutline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\CrossedHousePuzzleInfinity.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScanInline.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Scripts\LargeAreaScan.rs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\log4net.config
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Castle.Core.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\DryIoc.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Google.Protobuf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Google.Protobuf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\K4os.Hash.xxHash.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\log4net.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignColors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\comerr64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\gssapi64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\k5sprt64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\krb5_64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\krbcc64.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\MySql.Data.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\BouncyCastle.Crypto.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.DryIoc.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.Wpf.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Prism.Wpf.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\System.Buffers.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\System.IO.Pipelines.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\System.Memory.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\System.Numerics.Vectors.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\TestStack.White.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\TestStack.White.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\ZstdSharp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Adam.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\SuperSimpleTcp.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\FSSCommon.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Common.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\Advantech.Protocol.dll
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.CompositeAppCommand.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.DIOADAM6052.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.EventAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.IAIMotionControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.PrecitecControl.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Module.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\PORLA.HMI.Service.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\POLAR.ModelAggregator.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\bin\Debug\FSSCommon.pdb
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.AssemblyReference.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.SuggestedBindingRedirects.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.exe.config
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Resource\CustomStyles.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Resource\styleGui.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\MainWindow.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\App.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Bottompanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\EmptyPanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Login.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\MainWindow.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Rightpanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Toppanel.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\UserControl1.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\App.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_MarkupCompile.lref
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Dialog\SelectPrecitecSensorDialog.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Login.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\Toppanel.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\Views\UserControl1.baml
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.g.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.Properties.Resources.resources
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.GenerateResource.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CoreCompileInputs.cache
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.HMI.Main.csproj.CopyComplete
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.exe
+D:\1. DE_Project\3. Polar\2. FromMfg\1. Latest\161123\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA.pdb
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\bin\Debug\LiveCharts.Geared.dll
+D:\1. Repo\1. Latest\ges-polar\PORLA.HMI.Main\obj\Debug\PORLA_Content.g.cs

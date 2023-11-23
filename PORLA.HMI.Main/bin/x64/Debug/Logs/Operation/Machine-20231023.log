@@ -1,0 +1,514 @@
+﻿[2023-10-23 16:30:32,440] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:30:33,239] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:30:33,282] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:30:33,297] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:30:33,297] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:30:33,297] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:30:33,297] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:30:33,360] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:30:35,953] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:30:35,971] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:30:36,487] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:30:39,568] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:30:39,589] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:30:39,689] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:30:39,690] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:30:43,224] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:30:43,661] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:30:43,758] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:30:43,816] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:30:43,818] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:30:43,822] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:30:43,825] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:30:43,893] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:30:46,766] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:30:46,773] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:30:47,257] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:30:50,014] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:30:50,019] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:30:50,119] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:30:50,120] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:30:50,121] [19 ] [163  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - RefreshDIO - Can not read status
+[2023-10-23 16:30:50,121] [20 ] [123  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - RefreshDIO - Can not read status
+[2023-10-23 16:30:53,489] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:30:53,911] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:30:53,962] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:30:53,962] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:30:53,962] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:30:53,980] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:30:53,982] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:30:54,044] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:30:56,492] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:30:56,498] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:30:56,914] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:30:59,912] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:30:59,916] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:31:00,027] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:31:00,028] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:31:03,857] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:31:04,370] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:31:04,438] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:31:04,443] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:31:04,444] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:31:04,445] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:31:04,447] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:31:04,518] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:31:07,456] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:31:07,463] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:31:07,898] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:31:10,711] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:31:10,715] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:31:10,813] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:31:10,814] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:31:14,673] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:31:15,064] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:31:15,111] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:31:15,111] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:31:15,111] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:31:15,111] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:31:15,111] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:31:15,189] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:31:17,800] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:31:17,814] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:31:18,259] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:31:21,051] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:31:21,057] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:31:21,162] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:31:21,163] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:33:39,227] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:33:40,062] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:33:40,102] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:33:40,105] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:33:40,115] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:33:40,117] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:33:40,118] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:33:40,177] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:33:42,861] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:33:42,884] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:33:43,324] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:33:46,333] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:33:46,351] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:33:46,455] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:33:46,455] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:33:46,456] [13 ] [123  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - RefreshDIO - Can not read status
+[2023-10-23 16:33:50,612] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:33:51,080] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:33:51,127] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:33:51,143] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:33:51,143] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:33:51,143] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:33:51,143] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:33:51,232] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:33:54,353] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:33:54,368] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:33:54,790] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:33:57,753] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:33:57,757] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:33:57,864] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:33:57,865] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:33:57,866] [14 ] [163  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - RefreshDIO - Can not read status
+[2023-10-23 16:35:29,479] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:35:30,285] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:35:30,333] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:35:30,343] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:35:30,344] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:35:30,345] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:35:30,346] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:35:30,413] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:36:30,551] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:36:30,577] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:36:31,127] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:36:59,332] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:36:59,357] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:36:59,461] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:36:59,462] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:38:00,645] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:38:01,447] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:38:01,494] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:38:01,494] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:38:01,494] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:38:01,510] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:38:01,510] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:38:01,581] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:38:08,174] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:38:08,198] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:38:08,719] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:38:18,591] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:38:18,612] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:38:18,715] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:38:18,717] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:47:56,174] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 16:47:56,901] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 16:47:56,949] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 16:47:56,959] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 16:47:56,960] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 16:47:56,961] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:47:56,963] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 16:47:57,026] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 16:47:59,490] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 16:47:59,505] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 16:47:59,912] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 16:48:05,120] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:48:05,138] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:48:05,245] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 16:48:05,246] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 16:48:05,247] [5  ] [123  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - RefreshDIO - Can not read status
+[2023-10-23 16:48:05,247] [10 ] [163  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - RefreshDIO - Can not read status
+[2023-10-23 17:03:28,194] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:03:28,981] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:03:29,028] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:03:29,028] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:03:29,028] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:03:29,044] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:03:29,044] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:03:29,102] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:03:31,513] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:03:31,531] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:03:32,002] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:03:36,939] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:03:36,959] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:03:37,069] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:03:37,070] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:03:37,071] [11 ] [123  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - RefreshDIO - Can not read status
+[2023-10-23 17:05:27,030] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:05:27,504] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:05:27,563] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:05:27,568] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:05:27,570] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:05:27,571] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:05:27,573] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:05:27,640] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:06:45,193] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:06:45,210] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:06:45,602] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:11:41,219] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:11:41,719] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:11:41,765] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:11:41,780] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:11:41,783] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:11:41,785] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:11:41,786] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:11:41,852] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:11:44,338] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:11:44,359] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:11:44,767] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:11:49,997] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:11:50,012] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:11:50,128] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:11:50,129] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:11:50,130] [5  ] [163  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - RefreshDIO - Can not read status
+[2023-10-23 17:12:12,693] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:12:13,138] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:12:13,174] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:12:13,174] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:12:13,174] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:12:13,174] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:12:13,186] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:12:13,248] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:12:16,209] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:12:16,235] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:12:16,664] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:12:21,788] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:12:21,804] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:12:21,905] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:12:21,906] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:14:57,550] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:14:58,152] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:14:58,204] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:14:58,208] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:14:58,210] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:14:58,211] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:14:58,213] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:14:58,284] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:15:00,823] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:15:00,843] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:15:01,314] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:15:04,582] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:15:04,600] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:15:04,709] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:15:04,710] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:15:04,711] [4  ] [123  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - RefreshDIO - Can not read status
+[2023-10-23 17:16:36,584] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:16:37,162] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:16:37,213] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:16:37,216] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:16:37,219] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:16:37,221] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:16:37,222] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:16:37,282] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:16:39,775] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:16:39,794] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:16:40,211] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:17:15,522] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:17:15,535] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:17:15,653] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:17:15,653] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:20:35,954] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:20:36,408] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:20:36,471] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:20:36,471] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:20:36,486] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:20:36,486] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:20:36,486] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:20:36,549] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:20:38,889] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:20:38,907] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:20:39,346] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:22:17,720] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:22:18,233] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:22:18,278] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:22:18,278] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:22:18,278] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:22:18,278] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:22:18,278] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:22:18,352] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:22:21,091] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:22:21,098] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:22:21,553] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:23:15,326] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:23:15,733] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:23:15,779] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:23:15,779] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:23:15,779] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:23:15,795] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:23:15,795] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:23:15,858] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:23:19,201] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:23:19,224] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:23:19,633] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:23:22,922] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:23:22,927] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:23:23,026] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:23:23,027] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:29:56,391] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:29:56,839] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:29:56,892] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:29:56,895] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:29:56,896] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:29:56,898] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:29:56,899] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:29:56,958] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:29:59,248] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:29:59,265] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:29:59,696] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:30:03,957] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:30:03,962] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:30:04,073] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:30:04,074] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:30:04,075] [11 ] [123  ] [ERROR] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - RefreshDIO - Can not read status
+[2023-10-23 17:31:26,319] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:31:26,800] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:31:26,842] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:31:26,845] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:31:26,846] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:31:26,846] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:31:26,846] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:31:26,908] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:31:29,635] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:31:29,662] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:31:30,065] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:31:34,303] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:31:34,315] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:31:34,451] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:31:34,452] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:32:54,746] [1  ] [80   ] [INFO ] [PORLA.HMI.Main.App                                                                   ] - Application Started!
+[2023-10-23 17:32:55,275] [1  ] [79   ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module2                                                    ] - [ADAM 6052 - Module 2] - Connected
+[2023-10-23 17:32:55,321] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.IPAddress | Error : Loaded xml was corrupted
+[2023-10-23 17:32:55,323] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.PortAuto | Error : Loaded xml was corrupted
+[2023-10-23 17:32:55,324] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.Station | Error : Loaded xml was corrupted
+[2023-10-23 17:32:55,325] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:32:55,327] [1  ] [143  ] [ERROR] [PORLA.HMI.Service.Configuration.ConfigHandler                                        ] - Get Value | Key POLAR.IAIConfig.XFixtureOffset | Error : Loaded xml was corrupted
+[2023-10-23 17:32:55,383] [1  ] [117  ] [INFO ] [POLAR.DIOADAM6052.Adam6052Module1                                                    ] - [ADAM 6052 - Module 1] - Connected
+[2023-10-23 17:32:59,840] [1  ] [94   ] [ERROR] [POLAR.IAIMotionControl.IAIMotion                                                     ] - System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at SuperSimpleTcp.Common.ParseIpPort(String ipPort, String& ip, Int32& port)
+   at SuperSimpleTcp.SimpleTcpClient..ctor(String ipPort)
+   at POLAR.IAIMotionControl.IAIMotion.Initialize(String IP, String Port) in D:\Repo\ges-polar\POLAR.IAIMotionControl\IAIMotion.cs:line 94
+[2023-10-23 17:32:59,859] [1  ] [241  ] [INFO ] [PORLA.HMI.Module.ViewModels.HomePageViewModel                                        ] - Can not initialize IAI motion
+[2023-10-23 17:33:00,310] [1  ] [48   ] [INFO ] [PORLA.HMI.Module.ViewModels.VersionPageViewModel                                     ] - HMI Version:1.0.0.0
+[2023-10-23 17:33:05,974] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:33:05,978] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2
+[2023-10-23 17:33:06,097] [1  ] [121  ] [ERROR] [POLAR.PrecitecControl.FSSAreaScan                                                    ] - System.NullReferenceException: Object reference not set to an instance of an object.
+   at FSSCommon.FlyingSpotScanner.Close() in D:\Repo\ges-polar\Common\FlyingSpotScanner.cs:line 79
+   at POLAR.PrecitecControl.FSSAreaScan.Disconnect() in D:\Repo\ges-polar\POLAR.PrecitecControl\FSSAreaScan.cs:line 121
+[2023-10-23 17:33:06,098] [1  ] [143  ] [INFO ] [PORLA.HMI.Main.ViewModels.MainWindowViewModel                                        ] - Disconnected Adam Module 1, Adam Module 2

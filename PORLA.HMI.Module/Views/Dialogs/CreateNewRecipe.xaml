@@ -1,0 +1,404 @@
+﻿<UserControl x:Class="PORLA.HMI.Module.Views.Dialogs.CreateNewRecipe"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:local="clr-namespace:PORLA.HMI.Module.Views.Dialogs"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             mc:Ignorable="d">
+    <prism:Dialog.WindowStyle>
+        <Style TargetType="Window">
+            <Setter Property="AllowsTransparency" Value="True"></Setter>
+            <Setter Property="prism:Dialog.WindowStartupLocation" Value="CenterScreen" />
+            <Setter Property="ResizeMode" Value="CanResize"/>
+            <Setter Property="ShowInTaskbar" Value="True"/>
+            <Setter Property="Width" Value="800"></Setter>
+            <Setter Property="Height" Value="800"></Setter>
+            <Setter Property="WindowStyle" Value="None"></Setter>
+            <Setter Property="Background" Value="Transparent"></Setter>
+            <Setter Property="BorderBrush" Value="Black"></Setter>
+            <Setter Property="Topmost" Value="True"></Setter>
+        </Style>
+    </prism:Dialog.WindowStyle>
+    <Grid Background="#FFF0F3F3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*"/>
+            <RowDefinition Height="2.5*"/>
+            <RowDefinition Height="0.4*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Margin="5" Padding="1" Grid.ColumnSpan="3"
+               HorizontalContentAlignment="Center"
+               VerticalContentAlignment="Center">
+            <Label.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF1F5391" Offset="0"/>
+                    <GradientStop Color="#FF1F5493" Offset="1"/>
+                    <GradientStop Color="#FF6BA0E0" Offset="0.493"/>
+                </LinearGradientBrush>
+            </Label.Background>
+            <TextBlock Text="{Binding Title}" FontSize="14" TextAlignment="Center" FontWeight="Bold"/>
+        </Label>
+        <StackPanel Visibility="{Binding IsFssOr1D}" Grid.Column="0" Grid.Row="1" Margin="10">
+            <TextBlock Text=" X Center " Margin="0,0,0,5"/>
+            <TextBox Text="{Binding XOriginalPosInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+            <TextBlock Text=" Y Center" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding YOriginalPosInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+            <TextBlock Text=" Width Area" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding DXPositionInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+            <TextBlock Text=" Height Area" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding DYPositionInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+            <TextBlock Text="{Binding RXRecipeLbl}" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding RXPositionInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+            <TextBlock Text="{Binding RYRecipeLbl}" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding RYPositionInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+        </StackPanel>
+        <StackPanel Visibility="{Binding Is1DMultiPoints}" Grid.Column="0" Grid.Row="1" Margin="10">
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Margin="25 0 0 0" Text="X Value"/>
+                <TextBlock Margin="20 0 0 0" Text="Y Value"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T1" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT1XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT1YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T2" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT2XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT2YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T3" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT3XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT3YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T4" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT4XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT4YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T5" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT5XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT5YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T6" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT6XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT6YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T7" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT7XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT7YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T8" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT8XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT8YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T9" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT9XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT9YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T10" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT10XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT10YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T11" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT11XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT11YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T12" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT12XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT12YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T13" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT13XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT13YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T14" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT14XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT14YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T15" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT15XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT15YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+            <WrapPanel Orientation="Horizontal">
+                <TextBlock Text=" T16" Margin="0,0,0,5" VerticalAlignment="Bottom"/>
+                <TextBox Text="{Binding MultiPointT16XInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+                <TextBox Text="{Binding MultiPointT16YInput}" Width="50" HorizontalAlignment="Stretch" Margin="5,0,0,5" TextAlignment="Left"/>
+            </WrapPanel>
+        </StackPanel>
+        <!--<StackPanel Visibility="{Binding IsFssOr1D}" Margin="20" Grid.Column="1" Grid.Row="1">
+            <TextBlock Text=" Recipe Name" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding RecipeNameInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10" TextAlignment="Center"/>
+            --><!--<TextBlock Text=" Speed VX" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding SpeedAxisXInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>--><!--
+            <TextBlock Text=" Speed VY" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding SpeedAxisYInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+            --><!--<TextBlock Text="Sensor Type:" Margin="0,0,0,5"/>
+            <WrapPanel>
+                <Label Content=" FSS"/>
+                <CheckBox IsChecked="{Binding AppService.RecipeService.FssSensorSelect}"></CheckBox>
+            </WrapPanel>
+            <WrapPanel>
+                <Label Content="  1D"/>
+                <CheckBox IsChecked="{Binding AppService.RecipeService.SinglePointSensorSelect}"></CheckBox>
+            </WrapPanel>
+            <TextBlock Text="Select Thickness:" Margin="0,0,0,5"/>
+            <WrapPanel>
+                <Label Content="OCA"></Label>
+                <CheckBox Margin="33,0,0,0" 
+                          IsChecked="{Binding AppService.RecipeService.OCAThichknessSelect}"/>
+            </WrapPanel>
+            <WrapPanel>
+                <Label Content="Polarizer"></Label>
+                <CheckBox  Margin="12,0,0,0"
+                           IsChecked="{Binding AppService.RecipeService.PolarizerThichknessSelect}"/>
+            </WrapPanel>--><!--
+        </StackPanel>-->
+        <StackPanel Grid.Column="1" Grid.Row="1" Margin="10">
+            <TextBlock Text=" Recipe Name" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding RecipeNameInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10" TextAlignment="Center"/>
+            <TextBlock Text=" Speed VY" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding SpeedAxisYInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+            <TextBlock Text=" Speed VX" Margin="0,0,0,5"/>
+            <TextBox Text="{Binding SpeedAxisXInput}" HorizontalAlignment="Stretch" Margin="0,0,0,10"/>
+            <WrapPanel Orientation="Vertical">
+                <TextBlock Text=" DWD (Detection Window)" Margin="0,0,0,5"/>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox Text="{Binding DWDLeftInput}" Width="80" HorizontalAlignment="Stretch" Margin="0,0,10,10" TextAlignment="Center"/>
+                    <TextBox Text="{Binding DWDRightInput}" Width="80" HorizontalAlignment="Stretch" Margin="0,0,0,10" TextAlignment="Center"/>
+                </StackPanel>
+            </WrapPanel>
+            <WrapPanel Orientation="Vertical">
+                <TextBlock Text=" QTH (Quality Threshold)" Margin="0,0,0,5"/>
+                <TextBox Text="{Binding QTHInput}" HorizontalAlignment="Stretch" Margin="0,0,10,10" TextAlignment="Center"/>
+            </WrapPanel>
+
+        </StackPanel>
+        <StackPanel Margin="5" Grid.Column="2" Grid.Row="1">
+            <StackPanel  HorizontalAlignment="Center">
+                <WrapPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                        Content=" Home"
+                        FontWeight="Normal"
+                        FontSize="12"
+                        Height="35"
+                        Width="90"
+                        BorderBrush="Transparent"
+                        Command="{Binding AppCommand.cmdIAIAbsoluteMove}"
+                        CommandParameter="home"
+                        Background="#9FB6CD" Margin="5,5,5,0">
+                    </Button>
+                    <StackPanel Orientation="Vertical" Margin="10">
+                        <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Left">
+                            <Label Content="Axis X Position (mm):" FontSize="12"/>
+                            <Label Width="80" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.XCoordinate}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+                        </WrapPanel>
+                        <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Left">
+                            <Label Content="Axis Y Position (mm):" FontSize="12"/>
+                            <Label Width="80" Height="30" FontWeight="Bold" FontStyle="Italic"
+                           Content="{Binding AppService.IAIMotion.YCoordinate}" HorizontalContentAlignment="Center"
+                           VerticalContentAlignment="Center"/>
+                        </WrapPanel>
+
+                    </StackPanel>
+
+                </WrapPanel>
+                <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center"
+                           Margin="0 10">
+                    <Label Content="Axis X Moving Position (mm)" FontSize="12"/>
+                    <TextBox Text="{Binding AppService.IAIMotion.AxisXValue}" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100"></TextBox>
+                </WrapPanel>
+                <WrapPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <Label Content="Axis Y Moving Position (mm)" FontSize="12"/>
+                    <TextBox Text="{Binding AppService.IAIMotion.AxisYValue}" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100"></TextBox>
+                </WrapPanel>
+                <WrapPanel HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Orientation="Horizontal">
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                        Margin="0,10,10,0"
+                        Content="Relative"
+                        FontWeight="Normal"
+                        FontSize="12"
+                        Height="35" Width="90"
+                        BorderBrush="Transparent"
+                        Command="{Binding AppCommand.cmdIAIRelativeMove}"
+                        Background="#9FB6CD"/>
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                        Content="Absolute"
+                        FontWeight="Normal"
+                        FontSize="12"
+                        Height="35"
+                        Width="90"
+                        Margin="0,10,0,0"
+                        BorderBrush="Transparent"
+                        Command="{Binding AppCommand.cmdIAIAbsoluteMove}"
+                        CommandParameter="ABS"    
+                        Background="#9FB6CD"/>
+                </WrapPanel>
+                <WrapPanel Margin="0 10" Grid.Column="1"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center" Orientation="Horizontal">
+                    <Label Content="Jog Speed(mm/s):" Margin="0"     
+                               FontWeight="Normal"
+                               FontSize="12"
+                               Height="35"/>
+                    <TextBox x:Name="inputJogSpeed" Width="100" VerticalAlignment="Center"/>
+                    <Button Style="{StaticResource CustomButtonStyle}"
+                        Content="Apply"
+                        FontWeight="Normal"
+                        FontSize="12"
+                        Height="35"
+                        Width="90"
+                        BorderBrush="Transparent"
+                        Command="{Binding AppCommand.cmdIAIUpdateJogSpeed}"
+                        CommandParameter="{Binding ElementName=inputJogSpeed, Path=Text}"
+                        Background="#9FB6CD"/>
+                </WrapPanel>
+            </StackPanel>
+            <WrapPanel Grid.Row="1" Margin="0,5,0,0"
+                               Grid.Column="1"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               Orientation="Horizontal">
+                <Button Style="{StaticResource CustomButtonStyle}"
+                        Content=" JOG X- ◀"
+                        FontWeight="Normal"
+                        FontSize="12"
+                        Height="35"
+                        Width="90"
+                        BorderBrush="Transparent"
+                        Background="#9FB6CD">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="PreviewMouseDown">
+                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIJogBackward}" CommandParameter="Press"/>
+                        </i:EventTrigger>
+                        <i:EventTrigger EventName="PreviewMouseUp">
+                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIJogBackward}" CommandParameter="Release"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </Button>
+                <Button Style="{StaticResource CustomButtonStyle}"
+                        Content="▶ JOG X+"
+                        FontWeight="Normal"
+                        FontSize="12"
+                        Height="35"
+                        Width="90"
+                        BorderBrush="Transparent"
+                        Background="#9FB6CD">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="PreviewMouseDown">
+                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIJogForward}" CommandParameter="Press"/>
+                        </i:EventTrigger>
+                        <i:EventTrigger EventName="PreviewMouseUp">
+                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIJogForward}" CommandParameter="Release"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </Button>
+            </WrapPanel>
+            <WrapPanel Grid.Row="1" Margin="0,5,0,0"
+                               Grid.Column="1"
+                               HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               Orientation="Horizontal">
+                <Button Style="{StaticResource CustomButtonStyle}"
+                        Content=" JOG Y- ◀"
+                        FontWeight="Normal"
+                        FontSize="12"
+                        Height="35"
+                        Width="90"
+                        BorderBrush="Transparent"
+                        Background="#9FB6CD">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="PreviewMouseDown">
+                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIAxisYJogBackward}" CommandParameter="Press"/>
+                        </i:EventTrigger>
+                        <i:EventTrigger EventName="PreviewMouseUp">
+                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIAxisYJogBackward}" CommandParameter="Release"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </Button>
+                <Button Style="{StaticResource CustomButtonStyle}"
+                        Content="▶ JOG Y+"
+                        FontWeight="Normal"
+                        FontSize="12" Height="35" Width="90"
+                        BorderBrush="Transparent"
+                        Background="#9FB6CD">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="PreviewMouseDown">
+                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIAxisYJogForward}" CommandParameter="Press"/>
+                        </i:EventTrigger>
+                        <i:EventTrigger EventName="PreviewMouseUp">
+                            <prism:InvokeCommandAction Command="{Binding AppCommand.cmdIAIAxisYJogForward}" CommandParameter="Release"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+
+                </Button>
+            </WrapPanel>
+            <WrapPanel HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       Orientation="Horizontal">
+                <Button Background="#9FB6CD" Margin="5"
+                    Content="Save X" 
+                    Command="{Binding TeachPositionCommand}" 
+                    CommandParameter="AxisX"
+                    Height="35" Width="90" FontSize="12"
+                    Style="{StaticResource CustomButtonStyle}"/>
+                <Button Background="#9FB6CD" Margin="5"
+                    Content="Save Y" 
+                    Command="{Binding TeachPositionCommand}" 
+                    CommandParameter="AxisY"
+                    Height="35" Width="90" FontSize="12"
+                    Style="{StaticResource CustomButtonStyle}"/>
+
+            </WrapPanel>
+            <Border Margin="3,3,0,3"
+                    BorderBrush="#414141">
+                <Viewbox Margin="5">
+                    <Image Source="/PORLA.HMI.Module;component/image/RecipeParas.jpg"
+                           Width="150" Height="80"/>
+                </Viewbox>
+            </Border>
+        </StackPanel>
+        <WrapPanel Grid.Row="2" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center"
+                   Orientation="Vertical">
+            <Border Margin="7,0,7,5" Grid.ColumnSpan="3"
+                    BorderBrush="DimGray"
+                    BorderThickness="0,0,0,1"/>
+            <StackPanel Orientation="Horizontal">
+                <Button Background="#9FB6CD" Margin="10"
+                        FontSize="12" Height="35" Width="90"
+                        Content="Save" Command="{Binding CloseDialogCommand}" 
+                        CommandParameter="Save"
+                        Style="{StaticResource CustomButtonStyle}"/>
+                <Button Background="#9FB6CD" Margin="10"
+                        FontSize="12" Height="35" Width="90"
+                        Content="Exit" Command="{Binding CloseDialogCommand}" 
+                        CommandParameter="Cancel"
+                        Style="{StaticResource CustomButtonStyle}"/>
+
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</UserControl>

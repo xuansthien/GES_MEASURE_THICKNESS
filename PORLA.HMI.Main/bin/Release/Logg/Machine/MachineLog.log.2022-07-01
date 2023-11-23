@@ -1,0 +1,1211 @@
+[2022-07-01 08:29:49,194] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 08:29:51,657] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 08:29:51,660] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 08:29:53,281] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 08:29:57,857] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 08:29:57,901] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 08:29:57,965] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 08:29:59,320] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 08:29:59,357] [INFO] [MACHINE] - Camera | Connected
+[2022-07-01 08:30:27,838] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 08:30:27,838] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 08:30:29,471] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 08:30:35,440] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 08:30:36,324] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 08:30:36,325] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 08:30:36,325] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 08:30:36,325] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 08:30:36,332] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 08:30:36,332] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 08:30:36,333] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 08:30:36,529] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 08:30:36,884] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 08:30:38,904] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 08:30:48,228] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 08:30:48,698] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 08:30:48,698] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 08:30:48,698] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 08:30:48,698] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 08:30:49,016] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 08:31:15,656] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-07-01 08:31:16,554] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-07-01 08:31:16,564] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-07-01 08:31:16,564] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-07-01 08:31:16,645] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 08:31:17,040] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-07-01 08:31:17,041] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-07-01 08:31:17,042] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 08:31:17,042] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 08:31:17,104] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 08:31:20,606] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 08:31:20,768] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 08:31:23,005] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 08:31:23,005] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 08:31:23,006] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 08:31:23,006] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-07-01 08:31:23,006] [INFO] [MACHINE] - Tester | Barcode: 1_Diopter-5.7_Point: 0_Left Side Start Test
+[2022-07-01 08:31:23,006] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-07-01 08:31:23,608] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:32:43,276] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:32:43,279] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 1_Sag_SFR: 120.8_Sag_BFD: 53.4988
+[2022-07-01 08:32:43,279] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 1_Tan_SFR: 119.62_Tan_BFD: 53.4988
+[2022-07-01 08:32:43,282] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 1_Result: Pass
+[2022-07-01 08:32:44,575] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:33:53,164] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:33:53,164] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 2_Sag_SFR: 123.3_Sag_BFD: 53.4988
+[2022-07-01 08:33:53,164] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 2_Tan_SFR: 117.4_Tan_BFD: 53.4988
+[2022-07-01 08:33:53,164] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 2_Result: Pass
+[2022-07-01 08:33:54,447] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:35:02,810] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:35:02,810] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 3_Sag_SFR: 119.35_Sag_BFD: 53.4988
+[2022-07-01 08:35:02,810] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 3_Tan_SFR: 116.51_Tan_BFD: 53.4988
+[2022-07-01 08:35:02,810] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 3_Result: Pass
+[2022-07-01 08:35:04,137] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:36:06,484] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:36:06,484] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 4_Sag_SFR: 119.4_Sag_BFD: 53.4988
+[2022-07-01 08:36:06,484] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 4_Tan_SFR: 119.47_Tan_BFD: 53.4988
+[2022-07-01 08:36:06,484] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 4_Result: Pass
+[2022-07-01 08:36:07,946] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:37:29,888] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:37:29,888] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 5_Sag_SFR: 121.83_Sag_BFD: 53.4988
+[2022-07-01 08:37:29,888] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 5_Tan_SFR: 117.2_Tan_BFD: 53.4988
+[2022-07-01 08:37:29,888] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 5_Result: Pass
+[2022-07-01 08:37:31,341] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:38:34,919] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:38:34,920] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 6_Sag_SFR: 118.5_Sag_BFD: 53.4988
+[2022-07-01 08:38:34,920] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 6_Tan_SFR: 117.77_Tan_BFD: 53.4988
+[2022-07-01 08:38:34,920] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 6_Result: Pass
+[2022-07-01 08:38:36,213] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:39:40,184] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:39:40,184] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 7_Sag_SFR: 121.49_Sag_BFD: 53.4988
+[2022-07-01 08:39:40,184] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 7_Tan_SFR: 120.25_Tan_BFD: 53.4988
+[2022-07-01 08:39:40,184] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 7_Result: Pass
+[2022-07-01 08:39:41,451] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:40:43,163] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:40:43,163] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 8_Sag_SFR: 121.13_Sag_BFD: 53.4988
+[2022-07-01 08:40:43,163] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 8_Tan_SFR: 118.52_Tan_BFD: 53.4988
+[2022-07-01 08:40:43,163] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 8_Result: Pass
+[2022-07-01 08:40:44,282] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:41:46,004] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:41:46,004] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 9_Sag_SFR: 118.99_Sag_BFD: 53.4988
+[2022-07-01 08:41:46,004] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 9_Tan_SFR: 117.83_Tan_BFD: 53.4988
+[2022-07-01 08:41:46,004] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 9_Result: Pass
+[2022-07-01 08:41:46,235] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-07-01 08:41:46,235] [INFO] [MACHINE] - Tester | Auto Sequence Step:5
+[2022-07-01 08:41:46,235] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 08:41:46,235] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 08:41:46,281] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 08:41:48,648] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 08:41:48,829] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 08:41:51,001] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 08:41:51,001] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 08:41:51,001] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 08:41:51,001] [INFO] [MACHINE] - Tester | Auto Sequence Step:6
+[2022-07-01 08:41:51,001] [INFO] [MACHINE] - Tester | Barcode: 1_Diopter-5.7_Point: 10_Right Side Start Test
+[2022-07-01 08:41:51,001] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-07-01 08:41:51,906] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:42:54,371] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:42:54,371] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 10_Sag_SFR: 121.69_Sag_BFD: 53.4988
+[2022-07-01 08:42:54,371] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 10_Tan_SFR: 118.81_Tan_BFD: 53.4988
+[2022-07-01 08:42:54,371] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 10_Result: Pass
+[2022-07-01 08:42:55,715] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:43:57,633] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:43:57,633] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 11_Sag_SFR: 119.28_Sag_BFD: 53.4988
+[2022-07-01 08:43:57,633] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 11_Tan_SFR: 119.54_Tan_BFD: 53.4988
+[2022-07-01 08:43:57,633] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 11_Result: Pass
+[2022-07-01 08:43:58,800] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:45:00,826] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:45:00,826] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 12_Sag_SFR: 120.17_Sag_BFD: 53.4988
+[2022-07-01 08:45:00,826] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 12_Tan_SFR: 119.01_Tan_BFD: 53.4988
+[2022-07-01 08:45:00,826] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 12_Result: Pass
+[2022-07-01 08:45:02,269] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:46:04,552] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:46:04,552] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 13_Sag_SFR: 118.7_Sag_BFD: 53.4988
+[2022-07-01 08:46:04,552] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 13_Tan_SFR: 117.53_Tan_BFD: 53.4988
+[2022-07-01 08:46:04,552] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 13_Result: Pass
+[2022-07-01 08:46:06,013] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:47:07,594] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:47:07,594] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 14_Sag_SFR: 118.21_Sag_BFD: 53.4988
+[2022-07-01 08:47:07,594] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 14_Tan_SFR: 119.68_Tan_BFD: 53.4988
+[2022-07-01 08:47:07,594] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 14_Result: Pass
+[2022-07-01 08:47:08,815] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:48:11,279] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:48:11,279] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 15_Sag_SFR: 121.39_Sag_BFD: 53.4988
+[2022-07-01 08:48:11,280] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 15_Tan_SFR: 117.13_Tan_BFD: 53.4988
+[2022-07-01 08:48:11,280] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 15_Result: Pass
+[2022-07-01 08:48:12,594] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:49:15,087] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:49:15,087] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 16_Sag_SFR: 119.85_Sag_BFD: 53.4988
+[2022-07-01 08:49:15,087] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 16_Tan_SFR: 117.99_Tan_BFD: 53.4988
+[2022-07-01 08:49:15,087] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 16_Result: Pass
+[2022-07-01 08:49:16,312] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:50:18,953] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:50:18,953] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 17_Sag_SFR: 118.77_Sag_BFD: 53.4988
+[2022-07-01 08:50:18,953] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 17_Tan_SFR: 115.55_Tan_BFD: 53.4988
+[2022-07-01 08:50:18,953] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 17_Result: Pass
+[2022-07-01 08:50:20,341] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 08:51:25,811] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 08:51:25,811] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 18_Sag_SFR: 120.23_Sag_BFD: 53.4988
+[2022-07-01 08:51:25,811] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 18_Tan_SFR: 116.13_Tan_BFD: 53.4988
+[2022-07-01 08:51:25,811] [INFO] [MACHINE] - Tester | Barcode: 1_Point: 18_Result: Pass
+[2022-07-01 08:51:26,028] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-07-01 08:51:26,028] [INFO] [MACHINE] - Tester | Auto Sequence Step:7
+[2022-07-01 08:51:26,042] [INFO] [MACHINE] - Tester | Auto Sequence Step:8
+[2022-07-01 08:51:27,704] [INFO] [MACHINE] - Tester | Barcode: 1_Final Result: Pass
+[2022-07-01 08:51:27,892] [INFO] [MACHINE] - Tester | Auto Sequence Step:200
+[2022-07-01 08:51:27,892] [INFO] [MACHINE] - Tester | Auto Sequence Step:201
+[2022-07-01 08:51:27,892] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 08:51:28,271] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-07-01 08:51:28,272] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-07-01 09:13:12,585] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 09:13:15,306] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 09:13:15,354] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 09:13:15,354] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 09:13:15,354] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 09:13:20,623] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-07-01 09:14:21,829] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 09:14:24,008] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-07-01 09:15:01,017] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 09:15:33,145] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 09:15:33,315] [ERROR] [MACHINE] - Camera | Para set Error:System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values.
+Parameter name: Value 0.000000 must be greater than or equal 28.000000. : OutOfRangeException thrown in node 'ExposureTimeAbs' while calling 'ExposureTimeAbs.SetValue()' (file 'floatt.h', line 87)
+   at Basler.Pylon.GenApiFloatParameter.SetValue(Double value)
+   at Basler.Pylon.IFloatParameterExtensions.TrySetValue(IFloatParameter parameter, Double value)
+   at CameraControl.Camera_Control.SetExposureCAM(Double ValueSet) in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 427
+[2022-07-01 09:15:45,574] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 09:15:52,510] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 09:15:52,577] [ERROR] [MACHINE] - Camera | Para set Error:System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values.
+Parameter name: Value 0.000000 must be greater than or equal 28.000000. : OutOfRangeException thrown in node 'ExposureTimeAbs' while calling 'ExposureTimeAbs.SetValue()' (file 'floatt.h', line 87)
+   at Basler.Pylon.GenApiFloatParameter.SetValue(Double value)
+   at Basler.Pylon.IFloatParameterExtensions.TrySetValue(IFloatParameter parameter, Double value)
+   at CameraControl.Camera_Control.SetExposureCAM(Double ValueSet) in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 427
+[2022-07-01 09:15:57,279] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 09:16:05,481] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-07-01 09:16:05,564] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 09:16:05,564] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 09:16:05,564] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 09:16:05,772] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 09:16:06,169] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 09:16:08,077] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 09:16:17,756] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 09:16:18,187] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 09:16:18,187] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 09:16:18,187] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 09:16:18,188] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 09:16:18,603] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 09:16:20,477] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-07-01 09:16:21,699] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-07-01 09:16:21,703] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-07-01 09:16:21,703] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-07-01 09:16:21,703] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 09:16:22,086] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-07-01 09:16:22,086] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-07-01 09:16:22,086] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 09:16:22,086] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 09:16:22,143] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 09:16:25,473] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 09:16:25,621] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 09:16:27,827] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 09:16:27,827] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 09:16:27,827] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 09:16:27,827] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-07-01 09:16:27,827] [INFO] [MACHINE] - Tester | Barcode: 2_Diopter-5.7_Point: 19_Left Side Start Test
+[2022-07-01 09:16:27,827] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-07-01 09:16:28,508] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 09:18:27,645] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 09:18:27,645] [INFO] [MACHINE] - Tester | Barcode: 2_Point: 1_Sag_SFR: -1000_Sag_BFD: -1000
+[2022-07-01 09:18:27,645] [INFO] [MACHINE] - Tester | Barcode: 2_Point: 1_Tan_SFR: -1000_Tan_BFD: -1000
+[2022-07-01 09:18:27,645] [INFO] [MACHINE] - Tester | Barcode: 2_Point: 1_Result: Fail
+[2022-07-01 09:18:29,584] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 09:18:49,044] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 09:18:51,262] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 09:18:51,280] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 09:18:51,280] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 09:18:51,280] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 09:18:51,280] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 09:18:51,280] [INFO] [MACHINE] - Tester | Barcode: 2_Point: 2_Sag_SFR: 0_Sag_BFD: 54.4988
+[2022-07-01 09:18:51,280] [INFO] [MACHINE] - Tester | Barcode: 2_Point: 2_Tan_SFR: 0_Tan_BFD: 56.4988
+[2022-07-01 09:19:06,718] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 09:19:47,026] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 09:19:47,027] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 09:19:47,460] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 09:19:47,460] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 09:25:55,957] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 09:25:57,885] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 09:25:57,889] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 09:25:59,752] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 09:26:04,304] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 09:26:04,361] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 09:26:04,425] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 09:26:05,546] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 09:26:05,575] [INFO] [MACHINE] - Camera | Connected
+[2022-07-01 09:26:13,192] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 09:26:13,193] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 09:26:14,401] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 09:27:07,949] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 09:27:09,861] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 09:27:09,872] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 09:27:09,873] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 09:27:09,873] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 09:27:09,873] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 09:27:16,586] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-07-01 09:29:06,139] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 09:29:06,139] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 09:29:06,612] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 09:29:06,612] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 09:31:12,706] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 09:31:14,112] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 09:31:14,116] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 09:31:15,638] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 09:31:20,130] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 09:31:20,170] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 09:31:20,233] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 09:31:21,362] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 09:31:21,390] [INFO] [MACHINE] - Camera | Connected
+[2022-07-01 09:31:28,010] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 09:31:28,010] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 09:31:29,115] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 09:41:17,060] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 09:41:17,571] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 09:41:17,814] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 09:41:17,814] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 09:41:17,816] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 09:41:17,819] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 09:41:17,819] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 09:41:17,821] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 09:41:18,104] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 09:41:18,561] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 09:41:20,525] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 09:41:29,799] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 09:41:30,237] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 09:41:30,237] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 09:41:30,237] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 09:41:30,237] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 09:41:30,718] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 09:45:15,027] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 09:45:15,027] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 09:45:15,220] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 09:45:15,220] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 09:45:37,391] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 09:46:34,955] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 09:46:34,960] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 09:46:36,036] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 09:46:40,545] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 09:46:40,587] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 09:46:40,651] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 09:46:41,726] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 09:46:41,754] [INFO] [MACHINE] - Camera | Connected
+[2022-07-01 09:46:48,575] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 09:46:48,576] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 09:47:30,026] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 09:47:32,721] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot in Teach Mode
+[2022-07-01 09:47:32,899] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 09:47:33,229] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 09:47:59,675] [INFO] [MACHINE] - Alarm | Alarm Cleared - Robot in Teach Mode
+[2022-07-01 09:48:21,212] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 09:48:21,213] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 09:48:21,214] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 09:48:21,215] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 09:48:21,215] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 09:48:21,662] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 09:48:21,709] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 09:48:21,711] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 09:48:21,927] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 09:48:22,318] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 09:48:24,230] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 09:48:26,796] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 09:48:27,244] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 09:48:27,244] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 09:48:27,244] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 09:48:27,244] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 09:48:27,589] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 09:49:42,842] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 09:49:42,842] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 09:49:43,461] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 09:49:43,461] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 10:28:26,732] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:28:29,482] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:28:37,449] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 10:28:37,450] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 10:28:38,697] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 10:29:07,641] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 10:29:07,641] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 10:29:31,921] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:29:33,491] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:29:36,973] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:29:38,202] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:29:42,686] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 10:29:42,728] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:29:42,789] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 10:29:44,022] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 304
+[2022-07-01 10:29:52,990] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 10:29:52,990] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 10:29:53,550] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-07-01 10:29:54,105] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 10:29:56,380] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:29:56,779] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:30:00,801] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 10:30:01,013] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 10:30:01,013] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 10:30:28,502] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:30:30,024] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:30:30,028] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:30:31,338] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:30:35,820] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 10:30:35,858] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:30:35,923] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 10:30:37,176] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 304
+[2022-07-01 10:30:47,902] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 10:30:47,903] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 10:30:48,784] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-07-01 10:30:49,359] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 10:30:51,640] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:30:52,048] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:35:21,136] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 10:35:21,692] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 10:35:21,692] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 10:35:39,211] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:35:40,860] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:35:40,864] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:35:42,441] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:35:46,918] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 10:35:46,957] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:35:47,021] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 10:35:48,206] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 304
+[2022-07-01 10:35:58,269] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 10:35:58,270] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 10:35:58,726] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-07-01 10:35:59,302] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 10:36:01,591] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:36:01,949] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:36:15,163] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 10:36:15,182] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 10:36:15,182] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 10:36:15,183] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 10:36:15,184] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 10:38:10,731] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 10:38:10,836] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 10:38:10,836] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 10:38:22,430] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:38:24,000] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:38:24,003] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:38:25,273] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:38:29,752] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 10:38:29,792] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:38:29,857] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 10:39:09,478] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 304
+[2022-07-01 10:39:40,898] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 10:39:40,898] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 10:39:41,395] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-07-01 10:39:41,998] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 10:39:44,115] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:39:44,498] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:39:48,270] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 10:39:48,381] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 10:39:48,381] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 10:41:56,434] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:41:57,920] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:41:57,924] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:41:59,644] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:42:04,115] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 10:42:04,155] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:42:04,220] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 10:42:28,235] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 304
+[2022-07-01 10:42:36,849] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 10:42:36,849] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 10:42:37,319] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-07-01 10:42:37,895] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 10:42:39,607] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:42:39,942] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:42:43,731] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 10:42:43,843] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 10:42:43,843] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 10:44:16,414] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:44:18,051] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:44:18,056] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:44:19,663] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:44:24,142] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 10:44:24,181] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:44:24,246] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 10:44:34,044] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 304
+[2022-07-01 10:44:42,558] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 10:44:42,558] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 10:44:43,011] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-07-01 10:44:43,632] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 10:44:45,885] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:44:46,214] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:44:49,096] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 10:44:49,209] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 10:44:49,209] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 10:46:01,136] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:46:02,857] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:46:02,863] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:46:04,378] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:46:08,861] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 10:46:08,901] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:46:08,965] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 10:47:33,683] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 304
+[2022-07-01 10:48:20,220] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 10:48:21,788] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 10:48:21,792] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:48:23,359] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:48:27,838] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 10:48:27,877] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:48:27,941] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 10:48:39,511] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 10:48:39,511] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 10:48:40,590] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 10:48:44,878] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:48:45,417] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 10:48:45,417] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 10:48:45,418] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 10:48:45,418] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 10:48:45,423] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 10:48:45,423] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 10:48:45,425] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 10:48:45,598] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 10:48:45,949] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 10:48:47,974] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 10:48:50,512] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 10:48:50,923] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 10:48:50,923] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 10:48:50,923] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 10:48:50,923] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 10:48:51,285] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 10:49:08,352] [INFO] [MACHINE] - Alarm | Alarm Occured - Service Key in Teach Mode
+[2022-07-01 10:49:08,354] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:49:08,723] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:49:25,503] [INFO] [MACHINE] - Alarm | Alarm Occured - Front Door Open or Not Lock
+[2022-07-01 10:49:37,584] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-07-01 10:49:37,651] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 10:49:37,762] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:49:38,221] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:50:56,551] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 10:50:56,551] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 10:50:56,653] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:50:56,690] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:50:57,388] [INFO] [MACHINE] - Tester | Align Sequence Step:-2
+[2022-07-01 10:51:02,304] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 10:51:02,305] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 10:51:02,312] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 10:51:02,312] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 10:51:02,352] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:51:02,379] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:51:03,065] [INFO] [MACHINE] - Tester | Align Sequence Step:-2
+[2022-07-01 10:51:31,799] [INFO] [MACHINE] - Alarm | Alarm Cleared - Service Key in Teach Mode
+[2022-07-01 10:51:31,810] [INFO] [MACHINE] - Alarm | Alarm Cleared - Front Door Open or Not Lock
+[2022-07-01 10:51:35,008] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 10:51:35,008] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 10:51:35,008] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:51:35,422] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-07-01 10:51:35,441] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 10:51:35,442] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 10:51:35,442] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 10:51:35,656] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 10:51:36,089] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 10:51:38,031] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 10:51:40,670] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 10:51:41,111] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 10:51:41,111] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 10:51:41,111] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 10:51:41,111] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 10:51:41,518] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 10:51:59,812] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:52:04,543] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-07-01 10:52:04,552] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 10:52:05,954] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 10:52:05,954] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 10:52:06,028] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 10:52:06,512] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 10:52:09,643] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 10:52:09,753] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 10:52:11,965] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 10:52:11,965] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 10:52:11,965] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 10:52:20,910] [INFO] [MACHINE] - Alarm | Alarm Occured - Service Key in Teach Mode
+[2022-07-01 10:52:20,912] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:52:21,324] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 10:52:24,129] [INFO] [MACHINE] - Alarm | Alarm Occured - Front Door Open or Not Lock
+[2022-07-01 10:52:59,931] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot Error
+[2022-07-01 10:53:01,194] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Error
+[2022-07-01 10:53:18,621] [INFO] [MACHINE] - Alarm | Alarm Cleared - Service Key in Teach Mode
+[2022-07-01 10:53:18,630] [INFO] [MACHINE] - Alarm | Alarm Cleared - Front Door Open or Not Lock
+[2022-07-01 10:53:22,074] [INFO] [MACHINE] - Alarm | Alarm Cleared - Robot Error
+[2022-07-01 10:53:27,922] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 10:53:28,184] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 10:53:32,681] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 1
+[2022-07-01 10:53:32,720] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 1, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 10:53:32,785] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 1, Motion software limit min :0, max : 65
+[2022-07-01 10:53:32,898] [INFO] [MACHINE] - Alarm | Alarm Cleared - Actuator Error
+[2022-07-01 10:53:45,933] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 10:53:45,934] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:53:46,371] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-07-01 10:53:46,387] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 10:53:46,387] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 10:53:46,387] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 10:53:46,607] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 10:53:47,088] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 10:53:48,991] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 10:53:51,641] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 10:53:52,198] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 10:53:52,198] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 10:53:52,198] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 10:53:52,198] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 10:53:52,629] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 10:53:59,014] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:54:02,411] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-07-01 10:54:02,422] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 10:54:05,541] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 10:54:05,541] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 10:54:05,686] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 10:54:06,139] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 10:54:08,259] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 10:54:08,484] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 10:54:10,805] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 10:54:10,805] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 10:54:10,805] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 10:54:37,047] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:54:40,671] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 10:54:40,691] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 10:54:49,304] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 10:54:55,925] [INFO] [MACHINE] - Tester | Machine Mode Changed: Manual
+[2022-07-01 10:54:58,627] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 10:54:58,627] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 10:54:58,747] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 10:54:59,158] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 10:55:01,101] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 10:55:01,328] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 10:55:02,046] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 10:55:02,046] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 10:55:02,046] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 10:55:44,073] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 10:55:58,305] [ERROR] [MACHINE] - Camera | OneShot Error:System.NullReferenceException: Object reference not set to an instance of an object.
+   at CameraControl.Camera_Control.OneShot(Int32 function) in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 375
+[2022-07-01 10:57:41,552] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Error
+[2022-07-01 10:57:41,555] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 10:57:42,001] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:04:58,524] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:05:00,563] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:05:00,619] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:05:00,643] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:05:10,459] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 11:05:10,461] [INFO] [MACHINE] - Actuator | Found:  0 with connection string: , USB controllers, connecting to the first one:
+[2022-07-01 11:05:17,539] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: , ControllerId: -1
+[2022-07-01 11:05:17,539] [ERROR] [MACHINE] - Actuator | Can't find any device connect to computer, device ID: -1
+[2022-07-01 11:05:17,539] [ERROR] [MACHINE] - Actuator | Axis no: 1, controller ID: -1, command get motion range failed
+[2022-07-01 11:05:19,777] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2022-07-01 11:05:35,711] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 11:05:35,712] [INFO] [MACHINE] - Actuator | Found:  0 with connection string: , USB controllers, connecting to the first one:
+[2022-07-01 11:05:42,749] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: , ControllerId: -1
+[2022-07-01 11:05:42,749] [ERROR] [MACHINE] - Actuator | Can't find any device connect to computer, device ID: -1
+[2022-07-01 11:05:42,749] [ERROR] [MACHINE] - Actuator | Axis no: 1, controller ID: -1, command get motion range failed
+[2022-07-01 11:05:53,991] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 11:05:53,992] [INFO] [MACHINE] - Actuator | Found:  0 with connection string: , USB controllers, connecting to the first one:
+[2022-07-01 11:06:01,049] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: , ControllerId: -1
+[2022-07-01 11:06:01,049] [ERROR] [MACHINE] - Actuator | Can't find any device connect to computer, device ID: -1
+[2022-07-01 11:06:01,049] [ERROR] [MACHINE] - Actuator | Axis no: 1, controller ID: -1, command get motion range failed
+[2022-07-01 11:06:58,101] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:06:58,583] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:06:58,593] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:06:58,717] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:06:58,737] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:07:56,919] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:08:01,756] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:08:02,281] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:08:02,292] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:08:02,331] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:08:02,363] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:09:30,234] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:09:30,528] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:09:30,532] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:09:30,581] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:09:30,662] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:10:06,286] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:10:07,007] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:10:07,113] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:10:07,151] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:10:07,207] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:10:25,863] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:10:25,934] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:10:25,940] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:10:25,996] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:10:26,036] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:11:12,474] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:11:12,494] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:11:12,500] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:11:12,551] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:11:12,579] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:11:35,317] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:11:35,472] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:11:35,479] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:11:35,534] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:11:35,558] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:11:48,901] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:11:48,920] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:11:48,928] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:11:48,976] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:11:49,046] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:12:00,078] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:12:00,122] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:12:00,131] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:12:00,245] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:12:00,272] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:12:18,765] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:12:18,781] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:12:18,788] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:12:18,826] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:12:18,835] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:12:49,744] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:12:49,819] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:12:49,825] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:12:49,865] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:12:49,893] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:13:06,748] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:13:06,766] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:13:06,770] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:13:06,870] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:13:06,893] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:13:28,550] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:13:28,591] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:13:28,597] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:13:28,658] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:13:28,757] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:13:50,627] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:13:50,723] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:13:50,729] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:13:50,777] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:13:50,800] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:14:13,090] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:14:13,329] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:14:13,398] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:14:13,437] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:14:13,473] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:18:24,661] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:18:25,907] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:18:25,913] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:18:26,052] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:18:26,097] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:18:42,680] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:18:42,700] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:18:42,706] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:18:42,762] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:18:42,768] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:18:55,474] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:18:55,489] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:18:55,498] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:18:55,563] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:18:55,674] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:19:30,446] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:19:30,464] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:19:30,470] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:19:30,587] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:19:30,628] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:19:50,077] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:19:50,394] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:19:50,399] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:19:50,447] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:19:50,457] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:20:05,509] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:20:05,526] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:20:05,533] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:20:05,676] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:20:05,722] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:20:29,452] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:20:29,459] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:20:29,466] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:20:29,508] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:20:29,601] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:20:44,267] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:20:44,285] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:20:44,290] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:20:44,331] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:20:44,364] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:21:02,640] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:21:02,656] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:21:02,662] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:21:02,706] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:21:02,789] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:21:15,318] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:21:15,435] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:21:15,439] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:21:15,482] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:21:15,513] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:21:27,519] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:21:28,074] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:21:28,079] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:21:28,131] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:21:28,143] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:21:58,001] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:22:00,287] [INFO] [MACHINE] - Tester | Manual Move Robot End
+[2022-07-01 11:22:00,292] [INFO] [MACHINE] - Tester | Manual Move Robot Start
+[2022-07-01 11:22:00,345] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 11:22:00,377] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 11:22:22,395] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 11:22:22,395] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 11:29:53,239] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 11:29:54,660] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 11:29:54,668] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 11:29:55,817] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 11:30:00,298] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 11:30:00,337] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 11:30:00,402] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 11:30:53,473] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 11:30:53,473] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 11:31:02,616] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:31:26,150] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 11:31:26,320] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 11:31:26,320] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 11:35:38,245] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 11:35:40,404] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 11:35:40,408] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 11:35:41,532] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 11:35:46,010] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 11:35:46,049] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 11:35:46,112] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 11:38:05,359] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 11:38:05,360] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 11:38:06,722] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:38:13,027] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 11:38:13,182] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 11:38:13,182] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 11:39:21,951] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 11:39:23,420] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 11:39:23,424] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 11:39:24,523] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 11:39:29,000] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 11:39:29,038] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 11:39:29,102] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 11:39:51,569] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 11:39:51,569] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 11:39:52,592] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:39:58,037] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 11:39:58,210] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 11:39:58,210] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 11:48:18,669] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 11:48:20,696] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 11:48:20,701] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 11:48:21,955] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 11:48:26,431] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 11:48:26,471] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 11:48:26,535] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 11:49:31,263] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 11:49:31,264] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 11:49:33,000] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:49:41,257] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 11:49:41,426] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 11:49:41,426] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 11:50:37,583] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 11:50:38,992] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 11:50:38,995] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 11:50:40,207] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 11:50:44,686] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 11:50:44,725] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 11:50:44,790] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 11:51:16,427] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 11:51:16,428] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 11:51:17,525] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 11:51:22,927] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 11:51:23,102] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 11:51:23,102] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 12:07:09,168] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 12:07:10,576] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 12:07:17,535] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 12:07:17,535] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 12:07:18,542] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 12:07:24,051] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 12:07:24,051] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 12:15:44,790] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 12:15:46,667] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 12:15:58,890] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 12:15:58,891] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 12:16:00,046] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 12:16:07,626] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 12:16:07,626] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 12:16:35,605] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 12:16:37,225] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 12:16:45,013] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 12:16:45,014] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 12:16:46,069] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 12:16:57,098] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 12:16:58,563] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 12:16:58,582] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 12:16:58,583] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 12:16:58,583] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 12:16:58,584] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 12:17:03,505] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 12:17:05,553] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 12:17:05,553] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 12:17:19,066] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 12:17:20,607] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 12:17:28,996] [ERROR] [MACHINE] - Camera | Connnect Error:System.Exception: Failed to open 'Basler acA2440-20gm#003053406C33#192.168.1.12:3956'. The device is controlled by another application. Err: An attempt was made to access an address location which is currently/momentary not accessible. (0xE1018006)
+ : RuntimeException thrown (file 'gigedevice.cpp', line 274)
+   at Basler.Pylon.Camera.Open()
+   at CameraControl.Camera_Control.ConnnectCam() in D:\SW_Package_Backup_30Jun\HMIs\28Jun\GES.HMI.Main_Final\CameraControl\Camera_Control.cs:line 304
+[2022-07-01 12:17:33,667] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 12:17:34,895] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 12:17:39,393] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 12:17:39,432] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 12:17:39,496] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 12:17:39,805] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 12:17:39,806] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 12:17:40,286] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-07-01 12:17:40,894] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 12:17:42,963] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 12:17:43,356] [INFO] [MACHINE] - Tester | Machine State Changed: Error
+[2022-07-01 12:17:48,047] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 12:17:48,212] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 12:17:48,212] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 12:18:26,223] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 12:18:28,037] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 12:18:35,549] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 12:18:35,577] [INFO] [MACHINE] - Camera | Connected
+[2022-07-01 12:18:35,579] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 12:18:36,884] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 12:18:41,364] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 12:18:41,404] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 12:18:41,468] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 12:18:41,735] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 12:18:41,736] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 12:18:42,921] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 12:18:48,974] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 12:18:48,975] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 12:18:49,094] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 12:18:49,094] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 14:10:15,069] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 14:10:17,044] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 14:10:25,382] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 14:10:25,408] [INFO] [MACHINE] - Camera | Connected
+[2022-07-01 14:10:25,411] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 14:10:26,591] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 14:10:31,069] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 14:10:31,108] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 14:10:31,172] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 14:10:31,221] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 14:10:31,221] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 14:10:32,359] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 14:10:52,291] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 14:10:55,342] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 14:10:55,343] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 14:10:55,343] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 14:10:55,343] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 14:10:55,348] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 14:10:55,348] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 14:10:55,351] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 14:10:55,516] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 14:10:55,880] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 14:10:57,860] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 14:11:04,836] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 14:11:05,199] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 14:11:05,199] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 14:11:05,199] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 14:11:05,199] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 14:11:05,567] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 14:11:14,894] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-07-01 14:11:16,415] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: GRR
+[2022-07-01 14:11:16,420] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-07-01 14:11:16,420] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-07-01 14:11:16,430] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 14:11:16,826] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-07-01 14:11:16,828] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-07-01 14:11:16,829] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 14:11:16,829] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 14:11:16,893] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 14:11:20,197] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 14:11:20,362] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 14:11:20,832] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 14:11:20,832] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 14:11:20,879] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 14:11:20,879] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-07-01 14:11:20,879] [INFO] [MACHINE] - Tester | Barcode: q_Diopter-14_Point: 0_Left Side Start Test
+[2022-07-01 14:11:20,879] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-07-01 14:11:21,424] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 14:12:27,615] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 14:12:29,707] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 14:12:29,719] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 14:12:29,719] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 14:12:29,719] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 14:12:29,719] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 14:12:29,720] [INFO] [MACHINE] - Tester | Barcode: q_Point: 1_Sag_SFR: 70.4_Sag_BFD: 73.486
+[2022-07-01 14:12:29,720] [INFO] [MACHINE] - Tester | Barcode: q_Point: 1_Tan_SFR: 69.3_Tan_BFD: 73.286
+[2022-07-01 14:12:32,199] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 14:12:34,109] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 14:12:36,635] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-07-01 14:12:36,635] [INFO] [MACHINE] - Tester | Auto Sequence Step:-2
+[2022-07-01 14:12:36,635] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-07-01 14:12:36,643] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-07-01 14:12:36,648] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 14:12:36,648] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 14:12:36,648] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 14:12:36,648] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 14:12:36,918] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 14:12:37,207] [INFO] [MACHINE] - Tester | Auto Sequence Step:301
+[2022-07-01 14:12:37,208] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-07-01 14:12:38,899] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 14:12:46,133] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 14:12:46,547] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 14:12:46,547] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 14:12:46,547] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 14:12:46,547] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 14:12:46,963] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 14:12:48,027] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-07-01 14:12:49,023] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-07-01 14:12:49,023] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 14:12:49,031] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-07-01 14:12:49,032] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-07-01 14:12:49,032] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 14:12:49,450] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-07-01 14:12:49,450] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-07-01 14:12:49,450] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 14:12:49,450] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 14:12:49,520] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 14:12:52,903] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 14:12:53,074] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 14:12:53,502] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 14:12:53,502] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 14:12:53,502] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 14:12:53,502] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-07-01 14:12:53,502] [INFO] [MACHINE] - Tester | Barcode: q_Diopter-14_Point: 1_Left Side Start Test
+[2022-07-01 14:12:53,502] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-07-01 14:12:54,146] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 14:13:51,041] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 14:13:51,041] [INFO] [MACHINE] - Tester | Barcode: q_Point: 1_Sag_SFR: 113.23_Sag_BFD: 73.486
+[2022-07-01 14:13:51,041] [INFO] [MACHINE] - Tester | Barcode: q_Point: 1_Tan_SFR: 112.78_Tan_BFD: 73.286
+[2022-07-01 14:13:51,044] [INFO] [MACHINE] - Tester | Barcode: q_Point: 1_Result: Pass
+[2022-07-01 14:13:52,428] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 14:14:26,526] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 14:14:29,576] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 14:14:29,576] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 14:14:29,724] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 14:14:29,724] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 14:17:51,422] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 14:17:52,776] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 14:18:06,467] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 14:18:06,531] [INFO] [MACHINE] - Camera | Connected
+[2022-07-01 14:18:06,534] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 14:18:07,636] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 14:18:12,123] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 14:18:12,164] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 14:18:12,228] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 14:18:12,310] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 14:18:12,310] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 14:18:16,574] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 14:18:40,772] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 14:18:40,773] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 14:18:40,887] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 14:18:40,887] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 14:37:53,917] [INFO] [MACHINE] - IO Module | Connected
+[2022-07-01 14:37:55,841] [INFO] [MACHINE] - Robot | Robot connected
+[2022-07-01 14:38:03,900] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 14:38:03,957] [INFO] [MACHINE] - Camera | Connected
+[2022-07-01 14:38:03,971] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 14:38:05,180] [INFO] [MACHINE] - Actuator | Found:  1 with connection string: PI C-663 Mercury-Step  SN 0021550431
+, USB controllers, connecting to the first one:
+[2022-07-01 14:38:09,673] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: PI C-663 Mercury-Step  SN 0021550431
+, ControllerId: 0
+[2022-07-01 14:38:09,713] [INFO] [MACHINE] - Actuator | Connected to axis no: 1, controller ID: 0, qIDN returned: (c)2018 Physik Instrumente (PI) GmbH & Co. KG, C-663.12, 021550431, 00.046
+
+[2022-07-01 14:38:09,776] [INFO] [MACHINE] - Actuator | Axis no: 1, controller ID: 0, Motion software limit min :0, max : 65
+[2022-07-01 14:38:09,851] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 14:38:09,851] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:0.0.0.1
+[2022-07-01 14:38:11,083] [INFO] [MACHINE] - Teaching Page | Point Table Send To Robot
+[2022-07-01 14:38:32,963] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 14:38:34,704] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 14:38:34,714] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 14:38:34,714] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 14:38:34,714] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 14:38:34,715] [INFO] [MACHINE] - Tester | Calib Sequence Step:300
+[2022-07-01 14:38:39,621] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 14:38:44,603] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-07-01 14:38:44,616] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 14:38:44,616] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 14:38:44,618] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 14:38:44,827] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 14:38:45,216] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 14:38:47,277] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 14:38:49,937] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 14:38:50,360] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 14:38:50,363] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 14:38:50,364] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 14:38:50,364] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 14:38:50,757] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 14:38:54,623] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-07-01 14:38:55,805] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-07-01 14:38:55,810] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-07-01 14:38:55,810] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-07-01 14:38:55,816] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 14:38:56,226] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-07-01 14:38:56,227] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-07-01 14:38:56,228] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 14:38:56,228] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 14:38:56,306] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 14:38:59,831] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 14:39:00,037] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 14:39:00,778] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 14:39:00,778] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 14:39:00,780] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 14:39:00,780] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-07-01 14:39:00,781] [INFO] [MACHINE] - Tester | Barcode: 33_Diopter-14_Point: 0_Left Side Start Test
+[2022-07-01 14:39:00,782] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-07-01 14:39:01,627] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 14:39:21,292] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 14:39:24,596] [INFO] [MACHINE] - Tester | Machine Mode Changed: Setup
+[2022-07-01 14:39:24,605] [INFO] [MACHINE] - Tester | Init Sequence Step:300
+[2022-07-01 14:39:24,605] [INFO] [MACHINE] - Tester | Align Sequence Step:300
+[2022-07-01 14:39:24,605] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 14:39:24,605] [INFO] [MACHINE] - Tester | Find Best BFD End
+[2022-07-01 14:39:24,607] [INFO] [MACHINE] - Tester | Barcode: 33_Point: 1_Sag_SFR: 43.89_Sag_BFD: 73.886
+[2022-07-01 14:39:24,607] [INFO] [MACHINE] - Tester | Barcode: 33_Point: 1_Tan_SFR: 0_Tan_BFD: 76.286
+[2022-07-01 14:39:32,593] [INFO] [MACHINE] - Setting Page | Setting Saved
+[2022-07-01 14:39:35,984] [INFO] [MACHINE] - Tester | Auto Sequence Test End
+[2022-07-01 14:39:35,984] [INFO] [MACHINE] - Tester | Auto Sequence Step:-2
+[2022-07-01 14:39:35,984] [INFO] [MACHINE] - Tester | Machine Mode Changed: None
+[2022-07-01 14:39:35,993] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: None
+[2022-07-01 14:39:35,997] [INFO] [MACHINE] - Tester | Init Sequence Start
+[2022-07-01 14:39:35,998] [INFO] [MACHINE] - Tester | Init Sequence Step:0
+[2022-07-01 14:39:35,998] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initializing
+[2022-07-01 14:39:35,998] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 14:39:36,317] [INFO] [MACHINE] - Tester | Init Sequence Step:1
+[2022-07-01 14:39:36,582] [INFO] [MACHINE] - Tester | Auto Sequence Step:301
+[2022-07-01 14:39:36,582] [INFO] [MACHINE] - Tester | Auto Sequence End
+[2022-07-01 14:39:38,336] [INFO] [MACHINE] - Tester | Init Sequence Step:2
+[2022-07-01 14:39:45,166] [INFO] [MACHINE] - Tester | Init Sequence Step:3
+[2022-07-01 14:39:45,554] [INFO] [MACHINE] - Tester | Init Sequence Step:200
+[2022-07-01 14:39:45,554] [INFO] [MACHINE] - Tester | Init Sequence Step:201
+[2022-07-01 14:39:45,554] [INFO] [MACHINE] - Tester | Machine Init State Changed: Initialized
+[2022-07-01 14:39:45,554] [INFO] [MACHINE] - Tester | Machine State Changed: Idle
+[2022-07-01 14:39:46,003] [INFO] [MACHINE] - Tester | Init Sequence End
+[2022-07-01 14:39:47,268] [INFO] [MACHINE] - Tester | Machine Mode Changed: Auto
+[2022-07-01 14:39:47,923] [INFO] [MACHINE] - Tester | Machine Mode Run Changed: Production
+[2022-07-01 14:39:47,923] [INFO] [MACHINE] - Tester | Auto Sequence Step:300
+[2022-07-01 14:39:47,928] [INFO] [MACHINE] - Tester | Auto Sequence Start
+[2022-07-01 14:39:47,928] [INFO] [MACHINE] - Tester | Auto Sequence Step:1
+[2022-07-01 14:39:47,928] [INFO] [MACHINE] - Tester | Machine State Changed: Running
+[2022-07-01 14:39:48,296] [INFO] [MACHINE] - Tester | Auto Sequence Step:2
+[2022-07-01 14:39:48,296] [INFO] [MACHINE] - Tester | Auto Sequence Step:3
+[2022-07-01 14:39:48,296] [INFO] [MACHINE] - Tester | Align Sequence Start
+[2022-07-01 14:39:48,296] [INFO] [MACHINE] - Tester | Align Sequence Step:0
+[2022-07-01 14:39:48,358] [INFO] [MACHINE] - Tester | Align Sequence Step:1
+[2022-07-01 14:39:51,711] [INFO] [MACHINE] - Tester | Align Sequence Step:6
+[2022-07-01 14:39:51,901] [INFO] [MACHINE] - Tester | Align Sequence Step:7
+[2022-07-01 14:39:52,320] [INFO] [MACHINE] - Tester | Align Sequence Step:200
+[2022-07-01 14:39:52,320] [INFO] [MACHINE] - Tester | Align Sequence Step:201
+[2022-07-01 14:39:52,320] [INFO] [MACHINE] - Tester | Align Sequence End
+[2022-07-01 14:39:52,320] [INFO] [MACHINE] - Tester | Auto Sequence Step:4
+[2022-07-01 14:39:52,320] [INFO] [MACHINE] - Tester | Barcode: 33_Diopter-14_Point: 1_Left Side Start Test
+[2022-07-01 14:39:52,320] [INFO] [MACHINE] - Tester | Auto Sequence Test Start
+[2022-07-01 14:39:52,925] [INFO] [MACHINE] - Tester | Find Best BFD Start
+[2022-07-01 14:39:59,337] [INFO] [MACHINE] - Tester | Machine State Changed: Stop
+[2022-07-01 14:40:09,973] [INFO] [MACHINE] - Camera | System.EventArgs
+[2022-07-01 14:40:09,974] [INFO] [MACHINE] - IO Module | Disconnected
+[2022-07-01 14:40:10,129] [INFO] [MACHINE] - Actuator | Disconnected to axis no: 1, controller ID: -1
+[2022-07-01 14:40:10,129] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-07-01 15:03:23,376] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2022-07-01 15:03:26,535] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2022-07-01 15:03:29,213] [ERROR] [MACHINE] - Robot | System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.CollectionBase.System.Collections.IList.get_Item(Int32 index)
+   at ABB.Robotics.Controllers.ControllerInfoCollection.get_Item(Int32 index)
+   at RobotControl.Robot.ConnectRobot() in C:\Truong_Tran\1. Work GES\1. Software Team\2. Project\18. Ares\2. SW\1. Software development\1. HMI\GES.HMI.Main_Final\RobotControl\Robot.cs:line 461
+[2022-07-01 15:03:55,338] [ERROR] [MACHINE] - Camera | Camera not Found
+[2022-07-01 15:03:56,950] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-07-01 15:03:57,682] [INFO] [MACHINE] - Actuator | Found:  0 with connection string: , USB controllers, connecting to the first one:
+[2022-07-01 15:04:04,727] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: , ControllerId: -1
+[2022-07-01 15:04:04,727] [ERROR] [MACHINE] - Actuator | Can't find any device connect to computer, device ID: -1
+[2022-07-01 15:04:04,730] [ERROR] [MACHINE] - Actuator | Axis no: 1, controller ID: -1, command get motion range failed
+[2022-07-01 15:04:05,970] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-07-01 15:04:05,972] [INFO] [MACHINE] - HMI Version:1.0.0.1---Vision Version:3.5.0.0---Robot Version:
+[2022-07-01 15:04:06,601] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2022-07-01 15:04:06,601] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2022-07-01 15:04:06,601] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Error
+[2022-07-01 15:04:06,601] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-07-01 15:04:06,601] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2022-07-01 15:04:06,601] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2022-07-01 15:04:06,601] [INFO] [MACHINE] - Alarm | Alarm Occured - D Disk Space Not Enough Space, Less then 2Gb
+[2022-07-01 15:04:28,902] [INFO] [MACHINE] - ARES HMI Closing Successful!

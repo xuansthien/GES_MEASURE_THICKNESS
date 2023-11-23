@@ -1,0 +1,108 @@
+﻿<UserControl x:Class="POLAR.HMI.Alarm.Views.AlarmTestPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.8*"></RowDefinition>
+            <RowDefinition Height="7*"></RowDefinition>
+            <RowDefinition Height="1.5*"></RowDefinition>
+            <RowDefinition Height="0.8*"></RowDefinition>
+            <RowDefinition Height="7*"></RowDefinition>
+            <RowDefinition Height="1.7*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0"
+                Margin="0,0,0,0"
+                BorderBrush="DimGray"
+                BorderThickness="3,0,0,3.5">
+            <Label HorizontalContentAlignment="Left"
+                   VerticalContentAlignment="Center"
+                    HorizontalAlignment="Left"
+                    Width="200"
+                    FontWeight="Bold"
+                    Background="DimGray"
+                    Foreground="WhiteSmoke"
+                    FontSize="14"
+                    Content="  Alarm"/>
+        </Border>
+        <Border Grid.Row="1"
+                BorderBrush="DimGray"
+                BorderThickness="2">
+            <DataGrid AutoGenerateColumns="False"
+                      CanUserSortColumns="False"
+                      IsReadOnly="True"
+                      CanUserAddRows="False"
+                      ColumnWidth="*"
+                      Background="#EDEDED"
+                      Margin="0"
+                      FontSize="12"
+                      ItemsSource="{Binding CurrentAlarmList}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Alarm ID"
+                                        Width="2.5*"
+                                        Binding="{Binding AlarmId, StringFormat={}AID{0:D3}}">
+
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Alarm Time"
+                                        Width="3*"
+                                        Binding="{Binding AlarmCreateTime, StringFormat=\{0:dd/MM/yyyy HH:mm:ss\}}">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment"
+                                        Value="Center" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Category"
+                                        Width="3*"
+                                        Binding="{Binding AlarmCategory}">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment"
+                                        Value="Center" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Source"
+                                        Width="3*"
+                                        Binding="{Binding SourceModule}">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment"
+                                        Value="Center" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Description"
+                                        Width="5*"
+                                        Binding="{Binding Description}">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment"
+                                        Value="Center" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn Header="Instruction"
+                                        Width="5*"
+                                        Binding="{Binding Instruction}">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment"
+                                        Value="Center" />
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                </DataGrid.Columns>
+                <DataGrid.Resources>
+                    <Style TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="HorizontalContentAlignment"
+                                Value="Center"/>
+                    </Style>
+                </DataGrid.Resources>
+            </DataGrid>
+        </Border>
+    </Grid>
+
+</UserControl>

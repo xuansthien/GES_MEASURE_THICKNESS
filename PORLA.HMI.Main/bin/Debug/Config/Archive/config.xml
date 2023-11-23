@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<POLAR>
+  <AppSettings>
+    <LogPath>./Logs</LogPath>
+    <ConfigPath>./Config/config.xml</ConfigPath>
+  </AppSettings>
+  <Report>
+    <ReportPath>./Reports</ReportPath>
+    <DetailPath>./Reports/Details</DetailPath>
+    <Delimiter>,</Delimiter>
+    <Extention>.csv</Extention>
+  </Report>
+  <DBConfig>
+    <Username>root</Username>
+    <Password>TSX@1991de</Password>
+    <ServerName>127.0.0.1</ServerName>
+    <DatabaseName>dbpolar</DatabaseName>
+    <CreateDB>./Resources/dbpolar.sql</CreateDB>
+  </DBConfig>
+  <IAIConfig>
+    <IPAddress>192.168.1.19</IPAddress>
+    <PortAuto>64516</PortAuto>
+    <PortManual>64511</PortManual>
+    <Station>99</Station>
+    <XFixtureOffset>116.2</XFixtureOffset>
+    <YFixtureOffset>98</YFixtureOffset>
+  </IAIConfig>
+  <ADAMConfig>
+    <Module1IPAddress>192.168.1.39</Module1IPAddress>
+    <Module1Port>502</Module1Port>
+    <Module2IPAddress>192.168.1.79</Module2IPAddress>
+    <Module2Port>502</Module2Port>
+  </ADAMConfig>
+</POLAR>

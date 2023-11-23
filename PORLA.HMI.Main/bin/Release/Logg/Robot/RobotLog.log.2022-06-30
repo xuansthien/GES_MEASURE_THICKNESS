@@ -1,0 +1,199 @@
+[2022-06-30 07:20:36,599] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 07:20:36,617] [INFO] [ROBOT] - MotorsOff
+[2022-06-30 07:20:57,449] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 07:20:58,249] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 07:20:58,265] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 07:20:58,265] [INFO] [ROBOT] - Running
+[2022-06-30 07:20:58,989] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 07:20:59,197] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 07:21:50,537] [INFO] [ROBOT] - Stopped
+[2022-06-30 07:21:51,041] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 07:21:51,891] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 07:21:52,460] [INFO] [ROBOT] - Running
+[2022-06-30 07:21:53,085] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 07:22:30,049] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 07:24:38,410] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 08:42:46,298] [INFO] [ROBOT] - Stopped
+[2022-06-30 08:42:46,691] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 08:42:47,519] [DEBUG] [ROBOT] - Program started
+[2022-06-30 08:42:48,310] [INFO] [ROBOT] - Running
+[2022-06-30 08:42:48,647] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 08:43:50,455] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 09:23:30,536] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 09:23:30,540] [INFO] [ROBOT] - Auto
+[2022-06-30 09:23:30,555] [INFO] [ROBOT] - Running
+[2022-06-30 09:23:37,581] [INFO] [ROBOT] - Stopped
+[2022-06-30 09:23:38,115] [DEBUG] [ROBOT] - Program started
+[2022-06-30 09:23:39,110] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 09:23:39,634] [INFO] [ROBOT] - Running
+[2022-06-30 09:23:39,891] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 09:46:57,330] [INFO] [ROBOT] - Stopped
+[2022-06-30 09:46:58,004] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 09:46:58,019] [INFO] [ROBOT] - EmergencyStop
+[2022-06-30 09:46:58,947] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 09:46:59,600] [INFO] [ROBOT] - EmergencyStop
+[2022-06-30 09:47:00,150] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 09:47:08,150] [INFO] [ROBOT] - EmergencyStop
+[2022-06-30 09:47:09,136] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 09:47:09,165] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 10:29:39,508] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 10:29:39,512] [INFO] [ROBOT] - Auto
+[2022-06-30 10:29:39,527] [INFO] [ROBOT] - Stopped
+[2022-06-30 10:59:28,249] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 10:59:28,256] [INFO] [ROBOT] - Auto
+[2022-06-30 10:59:28,274] [INFO] [ROBOT] - Stopped
+[2022-06-30 11:04:42,869] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 11:04:42,875] [INFO] [ROBOT] - Auto
+[2022-06-30 11:04:42,886] [INFO] [ROBOT] - Stopped
+[2022-06-30 11:07:47,671] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 11:07:47,674] [INFO] [ROBOT] - Auto
+[2022-06-30 11:07:47,688] [INFO] [ROBOT] - Stopped
+[2022-06-30 11:45:22,226] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 11:45:22,231] [INFO] [ROBOT] - Auto
+[2022-06-30 11:45:22,243] [INFO] [ROBOT] - Stopped
+[2022-06-30 11:59:45,566] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 11:59:45,588] [INFO] [ROBOT] - GuardStop
+[2022-06-30 11:59:49,725] [DEBUG] [ROBOT] - Program started
+[2022-06-30 11:59:49,749] [INFO] [ROBOT] - MotorsOff
+[2022-06-30 12:00:03,730] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 12:00:04,101] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 12:00:04,113] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 12:00:04,114] [INFO] [ROBOT] - Running
+[2022-06-30 12:00:04,641] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 12:00:05,124] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 12:00:26,164] [INFO] [ROBOT] - Stopped
+[2022-06-30 12:00:26,647] [DEBUG] [ROBOT] - Program started
+[2022-06-30 12:00:27,461] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 12:00:28,166] [INFO] [ROBOT] - Running
+[2022-06-30 12:00:28,696] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 12:03:45,874] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 12:05:05,673] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 12:05:05,677] [INFO] [ROBOT] - Auto
+[2022-06-30 12:05:05,694] [INFO] [ROBOT] - Running
+[2022-06-30 12:05:08,546] [INFO] [ROBOT] - Stopped
+[2022-06-30 12:05:09,388] [DEBUG] [ROBOT] - Program started
+[2022-06-30 12:05:09,937] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 12:05:10,623] [INFO] [ROBOT] - Running
+[2022-06-30 12:05:11,250] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 12:05:39,455] [INFO] [ROBOT] - Stopped
+[2022-06-30 12:05:39,856] [DEBUG] [ROBOT] - Program started
+[2022-06-30 12:05:40,996] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 12:05:41,503] [INFO] [ROBOT] - Running
+[2022-06-30 12:05:41,805] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 12:07:04,006] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 12:09:13,104] [DEBUG] [ROBOT] - Program started
+[2022-06-30 12:13:51,556] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 12:13:51,559] [INFO] [ROBOT] - Auto
+[2022-06-30 12:13:51,573] [INFO] [ROBOT] - Running
+[2022-06-30 12:13:53,997] [INFO] [ROBOT] - Stopped
+[2022-06-30 12:13:54,955] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 12:13:55,470] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 12:13:56,067] [INFO] [ROBOT] - Running
+[2022-06-30 12:13:56,704] [DEBUG] [ROBOT] - Program started
+[2022-06-30 12:18:42,387] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 12:18:42,390] [INFO] [ROBOT] - Auto
+[2022-06-30 12:18:42,403] [INFO] [ROBOT] - Running
+[2022-06-30 12:18:59,726] [INFO] [ROBOT] - Stopped
+[2022-06-30 12:19:00,266] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 12:19:01,293] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 12:19:02,169] [INFO] [ROBOT] - Running
+[2022-06-30 12:19:02,478] [DEBUG] [ROBOT] - Program started
+[2022-06-30 13:30:23,213] [INFO] [ROBOT] - Stopped
+[2022-06-30 13:30:23,820] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 13:30:25,780] [INFO] [ROBOT] - EmergencyStop
+[2022-06-30 13:30:25,928] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 13:57:53,166] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 14:01:01,362] [INFO] [ROBOT] - Robot Connection: False
+[2022-06-30 14:10:22,428] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 14:10:22,448] [INFO] [ROBOT] - Stopped
+[2022-06-30 14:10:22,518] [INFO] [ROBOT] - Robot Connection: True
+[2022-06-30 14:10:22,521] [INFO] [ROBOT] - GuardStop
+[2022-06-30 14:10:22,522] [INFO] [ROBOT] - Auto
+[2022-06-30 14:50:10,986] [INFO] [ROBOT] - GuardStop
+[2022-06-30 14:50:10,989] [INFO] [ROBOT] - Auto
+[2022-06-30 14:50:11,001] [INFO] [ROBOT] - Stopped
+[2022-06-30 14:50:43,918] [INFO] [ROBOT] - EmergencyStop
+[2022-06-30 14:50:44,358] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 14:50:49,116] [INFO] [ROBOT] - EmergencyStopReset
+[2022-06-30 14:51:11,531] [INFO] [ROBOT] - MotorsOff
+[2022-06-30 14:51:11,661] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 14:51:25,137] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 14:51:25,416] [INFO] [ROBOT] - Running
+[2022-06-30 14:51:25,542] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 14:51:25,702] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 14:51:26,493] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 14:52:22,502] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 14:54:30,035] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 15:19:51,072] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 15:19:51,077] [INFO] [ROBOT] - Auto
+[2022-06-30 15:19:51,089] [INFO] [ROBOT] - Running
+[2022-06-30 15:19:55,223] [INFO] [ROBOT] - Stopped
+[2022-06-30 15:19:56,005] [DEBUG] [ROBOT] - Program started
+[2022-06-30 15:19:56,914] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 15:19:57,341] [INFO] [ROBOT] - Running
+[2022-06-30 15:19:57,731] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 15:20:44,477] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 15:22:51,444] [DEBUG] [ROBOT] - Program started
+[2022-06-30 15:40:44,833] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 15:40:44,836] [INFO] [ROBOT] - Auto
+[2022-06-30 15:40:44,848] [INFO] [ROBOT] - Running
+[2022-06-30 15:43:09,595] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 15:43:09,598] [INFO] [ROBOT] - Auto
+[2022-06-30 15:43:09,611] [INFO] [ROBOT] - Running
+[2022-06-30 15:44:15,307] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 15:44:15,309] [INFO] [ROBOT] - Auto
+[2022-06-30 15:44:15,322] [INFO] [ROBOT] - Running
+[2022-06-30 15:46:36,033] [INFO] [ROBOT] - Stopped
+[2022-06-30 15:46:36,887] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 15:46:37,452] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 15:46:38,136] [INFO] [ROBOT] - Running
+[2022-06-30 15:46:38,662] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 15:47:22,717] [INFO] [ROBOT] - Stopped
+[2022-06-30 15:47:23,487] [DEBUG] [ROBOT] - Program started
+[2022-06-30 15:47:24,152] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 15:47:24,705] [INFO] [ROBOT] - Running
+[2022-06-30 15:47:25,365] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 15:47:26,429] [DEBUG] [ROBOT] - Program started
+[2022-06-30 18:05:29,074] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 18:05:29,100] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 18:05:29,103] [INFO] [ROBOT] - Auto
+[2022-06-30 18:05:29,114] [INFO] [ROBOT] - Running
+[2022-06-30 18:09:34,136] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 18:09:34,166] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 18:09:34,170] [INFO] [ROBOT] - Auto
+[2022-06-30 18:11:59,823] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 18:11:59,842] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 18:11:59,846] [INFO] [ROBOT] - Auto
+[2022-06-30 18:15:53,644] [INFO] [ROBOT] - Stopped
+[2022-06-30 18:15:54,127] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 18:15:54,939] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 18:15:55,686] [INFO] [ROBOT] - Running
+[2022-06-30 18:15:56,076] [DEBUG] [ROBOT] - Program started
+[2022-06-30 18:17:30,138] [INFO] [ROBOT] - Stopped
+[2022-06-30 18:17:30,742] [DEBUG] [ROBOT] - Short movements
+[2022-06-30 18:17:31,961] [DEBUG] [ROBOT] - Motors On rejected
+[2022-06-30 18:17:32,288] [INFO] [ROBOT] - Running
+[2022-06-30 18:17:32,793] [DEBUG] [ROBOT] - Start rejected
+[2022-06-30 18:17:33,892] [DEBUG] [ROBOT] - Program stopped
+[2022-06-30 18:19:13,836] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 18:34:57,077] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 18:34:57,095] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 18:34:57,099] [INFO] [ROBOT] - Auto
+[2022-06-30 18:34:59,950] [INFO] [ROBOT] - Stopped
+[2022-06-30 18:35:00,392] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 18:35:01,244] [DEBUG] [ROBOT] - Regain ready
+[2022-06-30 18:35:01,994] [INFO] [ROBOT] - Running
+[2022-06-30 18:35:02,419] [DEBUG] [ROBOT] - Program pointer has been reset
+[2022-06-30 18:37:08,467] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 18:48:45,956] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 18:48:45,993] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 18:48:45,997] [INFO] [ROBOT] - Auto
+[2022-06-30 19:09:59,894] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 19:09:59,915] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 19:09:59,920] [INFO] [ROBOT] - Auto
+[2022-06-30 19:14:59,815] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 19:14:59,887] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 19:14:59,892] [INFO] [ROBOT] - Auto
+[2022-06-30 19:21:33,114] [DEBUG] [ROBOT] - Regain start
+[2022-06-30 19:21:33,135] [INFO] [ROBOT] - MotorsOn
+[2022-06-30 19:21:33,138] [INFO] [ROBOT] - Auto

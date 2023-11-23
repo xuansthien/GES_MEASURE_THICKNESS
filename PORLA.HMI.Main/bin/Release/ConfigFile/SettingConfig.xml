@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="General" OriginalCoordinates="7" SettingAcceleration="6" HighSpeedSensor="5" LowSpeedSensor="4" SettingIPSensor="3" SettingIPAdam="2" />
+    <add key="Advanced" XLimit="10" YLimit="9" />
+  </appSettings>
+</configuration>

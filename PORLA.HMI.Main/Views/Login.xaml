@@ -1,0 +1,142 @@
+﻿<UserControl x:Class="PORLA.HMI.Main.Views.Login"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:w="clr-namespace:PORLA.HMI.Main.Helper"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:prism="http://prismlibrary.com/"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="13"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="#262626"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d"
+             d:DesignHeight="1000"
+             d:DesignWidth="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="1.5*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Row="1"
+                Grid.Column="1"
+                BorderBrush="#9FB6CD"
+                BorderThickness="6"
+                Background="#EDEDED"
+                Height="350"
+                Width="300">
+            <StackPanel>
+                <Border Grid.Row="0"
+                        Margin="5,10,15,5"
+                        BorderBrush="DimGray"
+                        BorderThickness="0,0,0,1.5">
+                    <Label       HorizontalContentAlignment="Left"
+                                 VerticalContentAlignment="Center"
+                                 HorizontalAlignment="Left"
+                                 Width="200"
+                                 Background="Transparent"
+                                 Foreground="Black"
+                                 FontSize="17"
+                                 Content=" Login"></Label>
+                </Border>
+                <Border Margin="15,15,15,0"
+                        BorderBrush="DimGray"
+                        BorderThickness="0,0,0,2">
+                    <Label       HorizontalContentAlignment="Left"
+                                 Margin="0,0,0,0"
+                                 VerticalContentAlignment="Center"
+                                 HorizontalAlignment="Left"
+                                 Width="150"
+                                 Background="DimGray"
+                                 Foreground="WhiteSmoke"
+                                 FontSize="13"
+                                 Content=" User name"></Label>
+                </Border>
+
+                <TextBox Style="{StaticResource MaterialDesignFilledTextBox}"
+                         Margin="15,0,15,5"
+                         Name="txtUser"
+                         VerticalAlignment="Top"
+                         FontSize="13"
+                         Text="{Binding Username,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                         TextWrapping="Wrap"
+                         MaxWidth="700"
+                         Background="White" />
+
+                <Border Margin="15,29,15,0"
+                        BorderBrush="DimGray"
+                        BorderThickness="0,0,0,2">
+                    <Label       HorizontalContentAlignment="Left"
+                                 Margin="0,0,0,0"
+                                 VerticalContentAlignment="Center"
+                                 HorizontalAlignment="Left"
+                                 Width="150"
+                                 Background="DimGray"
+                                 Foreground="WhiteSmoke"
+                                 FontSize="13"
+                                 Content=" Password"></Label>
+                </Border>
+                <PasswordBox    x:Name="PasswordTextBox"
+                                Style="{StaticResource MaterialDesignFilledPasswordBox}"
+                                VerticalContentAlignment="Center"
+                                Margin="15,0,15,5"
+                                FontSize="13"
+                                Height="42"
+                                MaxWidth="700"
+                                w:PasswordBoxAssistant.BindPassword="True"
+                                w:PasswordBoxAssistant.BoundPassword="{Binding Path=Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                Background="White"></PasswordBox>
+
+
+
+
+
+                <Label Margin="15,5,0,0"
+                       Content="{Binding Notification}"
+                       Foreground="Red"></Label>
+
+                <Border Margin="5,10,15,5"
+                        BorderBrush="DimGray"
+                        BorderThickness="0,0,0,1.5">
+
+                </Border>
+
+                <WrapPanel Orientation="Horizontal"
+                           HorizontalAlignment="Center"
+                           Margin="0,10,0,0">
+                    <Button  Command="{Binding CloseDialogCommand}"
+                             Background="#9FB6CD"
+                             Name="btnLogin"
+                             FontSize="13"
+                             Margin="3,3,10,3"
+                             Height="45"
+                             Width="120"
+                             IsDefault="True"
+                             BorderBrush="Transparent"
+                             Content="Login"></Button>
+                    <Button  Background="#9FB6CD"
+                             Name="btnccl"
+                             Command="{Binding NavigateCommand}"
+                             Margin="10,3,3,3"
+                             FontSize="13"
+                             Height="45"
+                             Width="120"
+                             BorderBrush="Transparent"
+                             Content="Cancel"></Button>
+                </WrapPanel>
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,46 @@
+[2022-08-02 20:57:34,056] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2022-08-02 20:57:36,218] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2022-08-02 20:57:39,104] [ERROR] [MACHINE] - Robot | System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.CollectionBase.System.Collections.IList.get_Item(Int32 index)
+   at ABB.Robotics.Controllers.ControllerInfoCollection.get_Item(Int32 index)
+   at RobotControl.Robot.ConnectRobot() in C:\Truong_Tran\1. Work GES\1. Software Team\2. Project\18. Ares\2. SW\1. Software development\1. HMI\GES.HMI.Main_Final\RobotControl\Robot.cs:line 461
+[2022-08-02 20:58:09,824] [ERROR] [MACHINE] - Camera | Camera not Found
+[2022-08-02 20:58:11,088] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-08-02 20:58:11,963] [INFO] [MACHINE] - Actuator | Found:  0 with connection string: , USB controllers, connecting to the first one:
+[2022-08-02 20:58:19,003] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: , ControllerId: -1
+[2022-08-02 20:58:19,003] [ERROR] [MACHINE] - Actuator | Can't find any device connect to computer, device ID: -1
+[2022-08-02 20:58:19,004] [ERROR] [MACHINE] - Actuator | Axis no: 1, controller ID: -1, command get motion range failed
+[2022-08-02 20:59:46,393] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-08-02 20:59:46,393] [INFO] [MACHINE] - HMI Version:1.0.0.2---Vision Version:3.6.0.0---Robot Version:
+[2022-08-02 20:59:46,967] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2022-08-02 20:59:46,967] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2022-08-02 20:59:46,967] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Error
+[2022-08-02 20:59:46,967] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-08-02 20:59:46,967] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2022-08-02 20:59:46,967] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2022-08-02 20:59:46,967] [INFO] [MACHINE] - Alarm | Alarm Occured - D Disk Space Not Enough Space, Less then 2Gb
+[2022-08-02 20:59:57,452] [INFO] [MACHINE] - ARES HMI Closing Successful!
+[2022-08-02 21:03:05,174] [ERROR] [MACHINE] - IO Module | Connect to 192.168.2.1 failed
+[2022-08-02 21:03:07,509] [ERROR] [MACHINE] - IO Module | Connect to 192.168.3.1 failed
+[2022-08-02 21:03:10,824] [ERROR] [MACHINE] - Robot | System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.CollectionBase.System.Collections.IList.get_Item(Int32 index)
+   at ABB.Robotics.Controllers.ControllerInfoCollection.get_Item(Int32 index)
+   at RobotControl.Robot.ConnectRobot() in C:\Truong_Tran\1. Work GES\1. Software Team\2. Project\18. Ares\2. SW\1. Software development\1. HMI\GES.HMI.Main_Final\RobotControl\Robot.cs:line 461
+[2022-08-02 21:03:17,819] [ERROR] [MACHINE] - Camera | Camera not Found
+[2022-08-02 21:03:18,795] [INFO] [MACHINE] - Actuator | -- Try to Search devide --
+[2022-08-02 21:03:19,505] [INFO] [MACHINE] - Actuator | Found:  0 with connection string: , USB controllers, connecting to the first one:
+[2022-08-02 21:03:26,545] [INFO] [MACHINE] - Actuator | Connection string with axis no: 1 is: , ControllerId: -1
+[2022-08-02 21:03:26,545] [ERROR] [MACHINE] - Actuator | Can't find any device connect to computer, device ID: -1
+[2022-08-02 21:03:26,548] [ERROR] [MACHINE] - Actuator | Axis no: 1, controller ID: -1, command get motion range failed
+[2022-08-02 21:03:27,776] [INFO] [MACHINE] - ARES HMI Initialize Successful!
+[2022-08-02 21:03:27,777] [INFO] [MACHINE] - HMI Version:1.0.0.2---Vision Version:3.6.0.0---Robot Version:
+[2022-08-02 21:03:28,255] [INFO] [MACHINE] - Alarm | Alarm Occured - Robot not connected
+[2022-08-02 21:03:28,255] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Not Connected
+[2022-08-02 21:03:28,255] [INFO] [MACHINE] - Alarm | Alarm Occured - Actuator Error
+[2022-08-02 21:03:28,255] [INFO] [MACHINE] - Alarm | Alarm Occured - Camera Not Connected
+[2022-08-02 21:03:28,255] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 1 Not Connected
+[2022-08-02 21:03:28,255] [INFO] [MACHINE] - Alarm | Alarm Occured - IO Module 2 Not Connected
+[2022-08-02 21:03:28,255] [INFO] [MACHINE] - Alarm | Alarm Occured - D Disk Space Not Enough Space, Less then 2Gb
+[2022-08-02 21:03:32,089] [INFO] [MACHINE] - ARES HMI Closing Successful!

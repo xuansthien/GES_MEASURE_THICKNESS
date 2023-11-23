@@ -1,0 +1,10 @@
+﻿AlarmID,Categogy,Description,Source,Alarm Action,Instruction
+0,1,EMO Pressed,0,3,Release EMO -> Press Reset To Supply Air + Power -> Clear Alarm ->  Re-Initialize Machine
+1,1,Main Air is low,0,3,Check main air supply -> Clear Error
+2,0,Door opened,0,3,Close  Door ->  Clear Warning
+3,1,The FSS sensor is currently at its lowest position,0,3,Check and Move FSS sensor out of danger area -> Clear Error
+4,1,The Fixture is currently at its highest position,0,3,Check and Move Fixture sensor out of danger area -> Clear Error
+5,1,Vacuum is not enough,0,3,Check air supply/wiring -> Clear Error
+6,1,Safety circuit is violated,0,3,Check if doors are opened or EMO is pressed -> Close Door -> Clear Warning
+7,1,Left door opened,0,3,Close  Door ->  Clear Warning
+8,1,Right door opened,0,3,Close  Door ->  Clear Warning

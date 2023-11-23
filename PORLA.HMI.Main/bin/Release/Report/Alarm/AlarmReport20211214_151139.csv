@@ -1,0 +1,8 @@
+ID,AlarmID,AlarmTime,AlarmClearedTime,Category,Source,Description
+11,2,12/14/2021 11:19:16 AM,12/14/2021 11:19:30 AM,Warring,Automation,No connection with PLC
+12,1,12/14/2021 11:19:15 AM,12/14/2021 11:19:37 AM,Warring,Automation,No connection with PLC
+13,6,12/14/2021 11:19:42 AM,12/14/2021 11:20:03 AM,Warring,Automation,No connection with PLC
+14,4,12/14/2021 11:19:42 AM,12/14/2021 11:20:06 AM,Warring,Automation,No connection with PLC
+15,Channel1.PLCOmron.A1,12/14/2021 3:09:21 PM,12/14/2021 3:09:29 PM,Error,System,PLC Not Connected
+16,Channel1.PLCOmron.A1,12/14/2021 3:10:32 PM,12/14/2021 3:10:34 PM,Error,System,PLC Not Connected
+17,Channel1.PLCOmron.A1,12/14/2021 3:11:17 PM,12/14/2021 3:11:20 PM,Error,System,PLC Not Connected
